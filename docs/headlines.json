@@ -1,55 +1,185 @@
 {
-  "updated_at": "2026-09-16T16:11:08.937Z",
+  "updated_at": "2026-09-16T16:52:09.094Z",
   "items": [
     {
-      "title": "Jev ⚡, Periodic Neon 🧬, Gemini 3.8 Live 💬",
-      "link": "https://tldr.tech/ai/2026-09-16",
-      "pubDate": "Wed, 16 Sep 2026 00:00:00 GMT"
+      "title": "Anthropic merges Claude chat and Cowork in one interface",
+      "link": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+      "pubDate": "Wed, 16 Sep 2026 16:30:00 +0000",
+      "source": "TechCrunch"
     },
     {
-      "title": "Siri model swapping 🔄, Claude Money 💰, Hugging Face Tau 👨‍💻",
-      "link": "https://tldr.tech/ai/2026-09-15",
-      "pubDate": "Tue, 15 Sep 2026 00:00:00 GMT"
+      "title": "Claude comes for Gemini with its own take on Docs and Slides",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
+      "pubDate": "2026-09-16T12:30:00-04:00",
+      "source": "The Verge"
     },
     {
-      "title": "Amodei slows frontier 🛑, ARC-AGI-4 🧠, Cursor Projects 👨‍💻",
-      "link": "https://tldr.tech/ai/2026-09-14",
-      "pubDate": "Mon, 14 Sep 2026 00:00:00 GMT"
+      "title": "Pentagon CTO says U.S. government shouldn&apos;t take stakes in tech giants, questions adding AI rules",
+      "link": "https://www.cnbc.com/2026/09/16/emil-michael-ai-regulation-trump.html",
+      "pubDate": "Wed, 16 Sep 2026 16:26:58 GMT",
+      "source": "CNBC"
     },
     {
-      "title": "Agents API 🤖, Cognition SWE-2 👨‍💻, Muse Shared Agents 🧑‍🤝‍🧑",
-      "link": "https://tldr.tech/ai/2026-09-11",
-      "pubDate": "Fri, 11 Sep 2026 00:00:00 GMT"
+      "title": "Anthropic, OpenAI proposed new &apos;neutral&apos; AI watchdogs. Why you should worry about the idea",
+      "link": "https://www.cnbc.com/2026/09/16/anthropic-open-ai-model-safety-risks.html",
+      "pubDate": "Wed, 16 Sep 2026 16:25:52 GMT",
+      "source": "CNBC"
     },
     {
-      "title": "DeepSeek Flash v4.1 🤖, Siri AI 📱, Anthropic AI economics 📈",
-      "link": "https://tldr.tech/ai/2026-09-10",
-      "pubDate": "Thu, 10 Sep 2026 00:00:00 GMT"
+      "title": "Cohere, Aleph Alpha combine to target enterprise AI market",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcW9IYi1iXzJKVVNfdVRRNnh3Q2hpOHNtNmRaTkljWE02YXVtc0E3QTVKMFM2bFFhSXJWYzZDM2pOTEdRS0FuU01QWEFnMEtfTHRKcnZuZXdoQjltX2cxRDEtUW1Pa2xFWDFmbVk4ZUt0bVY1X2JrUFdOZWJnZkxrMVpTVlk1Q0daZ08zTVRMdGxXZ3FMX1VFNGk4NkZSRjIwTWJxUFRROUtpa2tJb0RN?oc=5",
+      "pubDate": "Wed, 16 Sep 2026 16:19:02 GMT",
+      "source": "Reuters"
     },
     {
-      "title": "Images 2.5 🎨, OpenAI solves Navier-Stokes 🧮, AlphaGenome Atlas 🧬",
-      "link": "https://tldr.tech/ai/2026-09-09",
-      "pubDate": "Wed, 09 Sep 2026 00:00:00 GMT"
+      "title": "EXCLUSIVE: OpenAI's rogue agents probed Hugging Face for weaknesses two months before major hack",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQS2RNOFJnNVFtSUxoYTBUczVlemRjdHUtYndvcEc0MEF5QTRiRWxSOTFXU1ZqLUFKSjU1QXN2Tnh1TEhWQ195M0dUSTM3WEN3eTVxUlRja2liZmNyYXlrZGpOY2FTMUVzMmxZWkxISHZ1RFVTNUhGdUl6R3o3Y284b0l1VXZyVU9CMlIwLXVRTzVwUG8zSG1lOG4yTFJTQm9mLUFKQWREU08zVFI0VDY3NGNJNEtfQTcwdUtSa0Y5aS1OdUZQZ2czWi1nWFVhdw?oc=5",
+      "pubDate": "Wed, 16 Sep 2026 16:00:23 GMT",
+      "source": "Reuters"
     },
     {
-      "title": "OpenAI managed agents 🤖, TPU inference ⚡, Anthropic $517B compute 💰",
-      "link": "https://tldr.tech/ai/2026-09-08",
-      "pubDate": "Tue, 08 Sep 2026 00:00:00 GMT"
+      "title": "Exclusive: Warren backs pause on AI",
+      "link": "https://www.axios.com/2026/09/16/warren-ai-pause",
+      "pubDate": "Wed, 16 Sep 2026 16:00:06 +0000",
+      "source": "Axios"
     },
     {
-      "title": "Claude proves Fermat 🧮, automated AI researcher 🔬, Z1 efficiency chip ⚡",
-      "link": "https://tldr.tech/ai/2026-09-07",
-      "pubDate": "Mon, 07 Sep 2026 00:00:00 GMT"
+      "title": "OpenAI investors have approached the company about a new funding round",
+      "link": "https://www.cnbc.com/2026/09/16/open-ai-investors-new-funding-round.html",
+      "pubDate": "Wed, 16 Sep 2026 15:18:16 GMT",
+      "source": "CNBC"
     },
     {
-      "title": "GPT-6 Astra 🚀, Grok Bot Enterprise 🤖, Runway world model 🌎",
-      "link": "https://tldr.tech/ai/2026-09-04",
-      "pubDate": "Fri, 04 Sep 2026 00:00:00 GMT"
+      "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
+      "pubDate": "Wed, 16 Sep 2026 15:00:00 +0000",
+      "source": "TechCrunch"
     },
     {
-      "title": "Muse Spark 1.3 ✨, Gemini 3.8 Flash ⚡, intelligence vs cost 📊",
-      "link": "https://tldr.tech/ai/2026-09-03",
-      "pubDate": "Thu, 03 Sep 2026 00:00:00 GMT"
+      "title": "The sexy AI-powered dating app scams are here",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
+      "pubDate": "2026-09-16T10:45:00-04:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Microsoft AI chief calls out Anthropic's approach to AI consciousness",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcXVwcmwwcUVVMFVOeHFOZHdJQlJHMlhwdGNYUl9FeEhKVFZjWWNDV0pGUnh3dVNQZi1BSDhHZUszWmtpbVpYdGNLWU01clRZTngtT2VpQ1lPVkFhSkVwVGVVR1N6T2RaczBvX2NJTmc0aU5GWEhZTVBIYmIwbnVEc0hSRWxzeUF2d0hQQUZCcVl3cEw2MVBVdmU1MDNTbUhwQ0loRzFPSXJBY1lweWlV?oc=5",
+      "pubDate": "Wed, 16 Sep 2026 14:05:58 GMT",
+      "source": "Reuters"
+    },
+    {
+      "title": "Reddit co-founder says tech industry has been &apos;tone deaf&apos; in explaining AI: &apos;Misinformation flying around&apos;",
+      "link": "https://www.cnbc.com/2026/09/16/reddit-ai-risk-humanity-warning-tech.html",
+      "pubDate": "Wed, 16 Sep 2026 13:57:47 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Sam Altman says people are right to fear advancing AI but should trust leaders",
+      "link": "https://www.washingtonpost.com/technology/2026/09/16/openais-altman-says-world-should-trust-ai-firms-amid-mounting-fears/",
+      "pubDate": "Wed, 16 Sep 2026 13:15:00 +0000",
+      "source": "The Washington Post"
+    },
+    {
+      "title": "Former Infosys chief&#8217;s AI startup nabs another $53M",
+      "link": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
+      "pubDate": "Wed, 16 Sep 2026 13:00:00 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "A brief history of AI executives calling for regulation",
+      "link": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
+      "pubDate": "2026-09-16T08:00:00-04:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "&apos;Machine Gods&apos; explores the latest developments in the world of AI",
+      "link": "https://www.npr.org/2026/09/16/nx-s1-5969921/machine-gods-explores-the-latest-developments-in-the-world-of-ai",
+      "pubDate": "Wed, 16 Sep 2026 05:56:29 -0400",
+      "source": "NPR"
+    },
+    {
+      "title": "An aging Congress attempts to regulate AI without using it",
+      "link": "https://www.axios.com/2026/09/16/lawmakers-regulate-ai-without-using-it",
+      "pubDate": "Wed, 16 Sep 2026 09:30:09 +0000",
+      "source": "Axios"
+    },
+    {
+      "title": "China Isn’t Buying Silicon Valley’s Call for an AI Slowdown",
+      "link": "https://www.wired.com/story/china-isnt-buying-silicon-valley-call-for-ai-slowdown/",
+      "pubDate": "Wed, 16 Sep 2026 09:30:00 +0000",
+      "source": "Wired"
+    },
+    {
+      "title": "EU's von der Leyen backs AI slowdown, to invite frontier labs for talks",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS180ZGtUQWlNN0dCTTlRWldNangxVFpwTXl6alNEdzNwSkZXeXRMWVQ1eDhub21tRndaMFVTbEZDZGt0THhLYlpYWnp4UnJYcUJkdmJXRWl1Q2pBR1U3ZENjNEw4VmRIVEVRZTZJVDVXOGFPUmpTcTNKUW1tNUFVOG4xSnY3dDRYN0NEeng1aXROWEdHc0FfTkZ0eEhPZ3VKLWc4STdyQQ?oc=5",
+      "pubDate": "Wed, 16 Sep 2026 09:27:37 GMT",
+      "source": "Reuters"
+    },
+    {
+      "title": "Americans are increasingly concerned about the environmental impact of AI, new poll finds",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTXRuY2Jucy1oTW9YNF9ZaXEybXMtMENxZGQ3Y3ItU2JSTW5DNlJ5VzV4S0Fua2EzZ1dKLWtTS3JTQjdUaEozNGQ1U2E3cnpzSzllaE1oaVlIZW9rT1dMM1AtR2RyWFBqdjdWTk8tcmw4VVk1TmM3TUxYelV3bURteGwzX2tRSDFodC1kYURZeFVJaEFPbUV0QktQdUxDR2wteXo1NQ?oc=5",
+      "pubDate": "Wed, 16 Sep 2026 09:05:00 GMT",
+      "source": "AP"
+    },
+    {
+      "title": "How to Use AI to Plan a Trip: Better Prompts for Travel Recommendations",
+      "link": "https://www.nytimes.com/2026/09/16/travel/ai-trip-planning-prompts.html",
+      "pubDate": "Wed, 16 Sep 2026 09:02:18 +0000",
+      "source": "The New York Times"
+    },
+    {
+      "title": "How a fringe AI movement convinced Washington the end is near",
+      "link": "https://www.washingtonpost.com/technology/2026/09/16/inside-campaign-convince-washington-that-ai-could-end-human-life/",
+      "pubDate": "Wed, 16 Sep 2026 09:00:00 +0000",
+      "source": "The Washington Post"
+    },
+    {
+      "title": "A top Democratic donor says time is running out to stop Americans from hating AI",
+      "link": "https://www.washingtonpost.com/technology/2026/09/16/linkedin-co-founder-reid-hoffman-calls-new-political-approach-ai/",
+      "pubDate": "Wed, 16 Sep 2026 09:00:00 +0000",
+      "source": "The Washington Post"
+    },
+    {
+      "title": "As campaign season gears up, AI-generated ads are everywhere",
+      "link": "https://www.npr.org/2026/09/16/nx-s1-5953990/ai-political-ads-2026-midterms",
+      "pubDate": "Wed, 16 Sep 2026 05:00:00 -0400",
+      "source": "NPR"
+    },
+    {
+      "title": "Why Steve Bannon sided with Sanders, not Trump, on AI",
+      "link": "https://www.npr.org/2026/09/16/nx-s1-5968821/steve-bannon-trump-ai-china-regulation",
+      "pubDate": "Wed, 16 Sep 2026 04:43:46 -0400",
+      "source": "NPR"
+    },
+    {
+      "title": "ByteDance completes $290 million fundraising for AI drug unit after its spin-off, sources say",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVTBWclMtV0dROHVDX1Q5c3YzekE5ZnlaNGhGRDE0Q0NSZUZRS3pnRVdHWm41allDMnM3YlhXd1FvTG9LN0RCOGtrNkdkbjBLUlE2elVlaUxGOXcyRFhWdE1NaUdxME4xOWRLemJCdlg0NFJLY1N1cDkwRXgxMG9ldkFSbVdncnZQcGM4dU12Z0gzX0VfRWZ6WWJqQVlacE9iVkNxSFg2QmkzZTVYRDBlWnNqY0lrY1l0Vi1BTHl6ekJuaVlNRklSeE50aw?oc=5",
+      "pubDate": "Wed, 16 Sep 2026 06:04:00 GMT",
+      "source": "Reuters"
+    },
+    {
+      "title": "AI rivals found rare agreement on safety. Putting it into practice is harder",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVnhXSC1KMzNaRVN6bkRBMFBiUW04UE1vXzRBeFMtbmFqZDdQT1VkZ2RLMGJWZEhFcEd6LW9DVktVVmo5VkhpMjZabGhRbE0tRUFuVW5nSnhlQzNaM19fck1QZlBHYy1OQzZNdU1GaThLRFdLdGhaMW12LUkzdHJxdklUX29YenRRVzJ3MUVWZXRyNHZ1RTBjMTdsaHlNMDZDbW5mTHVwWXI?oc=5",
+      "pubDate": "Wed, 16 Sep 2026 04:14:00 GMT",
+      "source": "AP"
+    },
+    {
+      "title": "Meta's Zuckerberg says AI labs have enough incentive to build safely",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUXpkV0dHb2JQWkgtUHFvUXBEU3ZVejJfSS1UeFVkYjRob1YzUGtBUVc2Y3dvRl83eU1nSHI0emU0c25lMzF0LUpXSTllVFJ4RlljaG9KX2lqTlppZ2VUM2Qyd3QtS3NaaWdRT3BFNVBQbktpbjRtUnlfWUhnazRMSGs5RzB2REhEVXA4YVFfRzBMY1Y3N0tRZVp5aUd5eG9XVHZSZUN4S0hER2pxRlE?oc=5",
+      "pubDate": "Wed, 16 Sep 2026 02:25:00 GMT",
+      "source": "Reuters"
+    },
+    {
+      "title": "Meta CEO Mark Zuckerberg sides with Nvidia&apos;s Huang on AI safety and slowdown debate",
+      "link": "https://www.cnbc.com/2026/09/15/meta-mark-zuckerberg-with-nvidia-huang-ai-safety-slowdown.html",
+      "pubDate": "Wed, 16 Sep 2026 01:56:47 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "We don&#8217;t need AI regulation — leave safety to us, Nvidia&#8217;s Jensen Huang says",
+      "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+      "pubDate": "Wed, 16 Sep 2026 00:20:39 +0000",
+      "source": "TechCrunch"
     }
   ]
 }
