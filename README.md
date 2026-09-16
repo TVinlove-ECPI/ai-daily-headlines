@@ -51,7 +51,7 @@ The number of items displayed in Rise is set separately from how many are
 collected. In `rise-headlines-embed-github.html`, find:
 
 ```
-var ISSUES_TO_SHOW = 12;
+var ISSUES_TO_SHOW = 5;
 ```
 
 Change the number and re-paste the file into Rise's embed block. (The
