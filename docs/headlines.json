@@ -1,23 +1,131 @@
 {
-  "updated_at": "2026-09-19T14:09:10.248Z",
+  "updated_at": "2026-09-20T14:28:18.901Z",
   "items": [
     {
-      "title": "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
-      "link": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
-      "pubDate": "2026-09-19T10:00:00-04:00",
+      "title": "AI, data center alarms dominate Congressional Black Caucus week in Washington",
+      "link": "https://www.cnbc.com/2026/09/20/ai-data-center-alarms-dominate-cbc-week-in-washington.html",
+      "pubDate": "Sun, 20 Sep 2026 13:17:56 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "The tech battle to build your AI assistant",
+      "link": "https://www.axios.com/2026/09/20/ai-assistant-openai-meta-muse-instinct-grok-apple",
+      "pubDate": "Sun, 20 Sep 2026 12:22:53 +0000",
+      "source": "Axios"
+    },
+    {
+      "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
+      "link": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
+      "pubDate": "2026-09-20T08:00:00-04:00",
       "source": "The Verge"
+    },
+    {
+      "title": "Trump used to slam China. Here’s why he’s now rolling out the red carpet for Xi",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNmY1N25RRnlzbndnTndEbFN0aU1iWXFGaXFhaXZ2R3lJZWFvcW9rTWViMWVFU1ZHLTk1UHI1eHNzeUFsTmFxckxVeklqOXNZWW5jMFZVeTdkdnEza0FPUzVIR0NKNWlZSVZrLXhhRENCRFRBRE1CVFI3TExiV0NDQUlwcldZTkN5dnpMMUJGUHlTRjVTWWVWUFdHQndRSUJHZjI3QVdn?oc=5",
+      "pubDate": "Sun, 20 Sep 2026 11:35:00 GMT",
+      "source": "AP"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang emerges as Trump&apos;s top ally in AI safety debate",
+      "link": "https://www.cnbc.com/2026/09/20/nvidia-ceo-jensen-huang-emerges-as-trumps-top-ally-in-ai-debate.html",
+      "pubDate": "Sun, 20 Sep 2026 11:25:08 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "What ChatGPT Thinks It Knows About You Is Affecting Its Answers. Here’s How to Change That",
+      "link": "https://www.wired.com/story/how-to-use-memory-in-chatgpt/",
+      "pubDate": "Sun, 20 Sep 2026 09:30:00 +0000",
+      "source": "Wired"
+    },
+    {
+      "title": "Hackers who broke into OpenAI warn the AI industry has a security problem",
+      "link": "https://www.washingtonpost.com/technology/2026/09/20/breach-chatgpt-maker-openai-highlights-risks-ai-getting-hacked/",
+      "pubDate": "Sun, 20 Sep 2026 09:00:00 +0000",
+      "source": "The Washington Post"
+    },
+    {
+      "title": "US Treasury's Bessent, China's He to launch talks on AI, trade, critical minerals",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdDhlbkM4N1NRMjZYdkFnclBwZUlLTWFvelg4dUpkZzVkTnZ5TVJ6Yjl5NUlfQjMtTVdMOEc3ZUdzaHpLNjZrcUk0Y3JMNXdfVmh3VnZjdkN5cTJoZXJGNDJ6ZkoteGhiU3huNnVTa0p4VXpZcU9LVTRMLTVJREYyQ3VBTEtlYWVxLTgwNzdnSkFkcjZpaFZZZXBpclVpazhrbkJFdG1zTEVsaGZPLXV6d3NSdk03amxqRHNMTDdnUFQ?oc=5",
+      "pubDate": "Sun, 20 Sep 2026 05:06:00 GMT",
+      "source": "Reuters"
+    },
+    {
+      "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcGNIX0w3dGlsV1dsUUdPS1l6TXFWSm8yUVBkTlVhZl85V1hGNHVadW9LZFRHRl95Y2VBY0Nvc3FvbDBOcXpfdFlYc1dEckQtbk9BMVlEeHBIYkdBVjJmZDYxMFFpVlR6Mm1NeEZ3cEFvcmtLLXRTWDZjQjRtRWxuYnNQQ204Q0I0Z3haTXRSN0w3QnhSYXZDOG00eXhQd2ZyTVhZc09SR3lSb0ZSMU5mYktsNzNjWTdLVGV6dmZNVQ?oc=5",
+      "pubDate": "Sat, 19 Sep 2026 22:05:00 GMT",
+      "source": "AP"
+    },
+    {
+      "title": "Ten days that changed the course of AI",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON2xmamNtUmNHeDRtbGtQS0FQWnJSZF9uWG1MVHNQRTBkMmt0Q3dkN1A1N1ZoSWo1MHBKQVhJZFB3aEhUQ3MtYmVfaTRPZ09DZzBKVWpUMjFTVktCNGxoSEFhbnhCb3lyclgxS2RfM3BpQjVCaVBPNzBOdkxEU1JCOWhpMnVjeE1MbXhRczNDNldCeXp2?oc=5",
+      "pubDate": "Sat, 19 Sep 2026 21:11:43 GMT",
+      "source": "Reuters"
+    },
+    {
+      "title": "Trump says it&#8217;s time to rebrand AI with a new name — and he&#8217;s also creating an AI Force",
+      "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+      "pubDate": "Sat, 19 Sep 2026 19:57:47 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Trump wants a new AI czar and an \"AI Force\" modeled on Space Force",
+      "link": "https://www.axios.com/2026/09/19/trump-ai-czar-space-force-safety",
+      "pubDate": "Sat, 19 Sep 2026 19:20:28 +0000",
+      "source": "Axios"
+    },
+    {
+      "title": "Google’s Gemini is the latest AI model to hack other companies",
+      "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "pubDate": "Sat, 19 Sep 2026 17:30:00 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Trump says he will appoint a new AI adviser, without providing details",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeW9QS1RSUzNKWDluSVZQS0pJVDkyYjVWWjZPcWhEUHJkczdpZzhIN3N3THZ4Ylg1M2xLRTBzTDJyd1ktVDhOeHJVaHdqQWZXdVo4X2NqMllhVDNCQjZfUTJ0TV9fdEw5NW5OLTRDbzhEOG9UNjdGNUllQU15WGpuUncwMDd3OGhOY3Y2dTE0WEVoaXR6UzNV?oc=5",
+      "pubDate": "Sat, 19 Sep 2026 17:25:00 GMT",
+      "source": "Reuters"
+    },
+    {
+      "title": "Higher interest rates and AI safety fears put the stock market to the test last week",
+      "link": "https://www.cnbc.com/2026/09/19/higher-interest-rates-and-ai-safety-fears-put-the-stock-market-to-the-test-last-week.html",
+      "pubDate": "Sat, 19 Sep 2026 16:03:09 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Amodei, Anthropic’s Leader, Exposed A.I.’s Dangers. It’s Time to Act.",
+      "link": "https://www.nytimes.com/2026/09/18/business/ai-risk-silicon-valley-regulations.html",
+      "pubDate": "Sat, 19 Sep 2026 15:50:55 +0000",
+      "source": "The New York Times"
+    },
+    {
+      "title": "Gemini went rogue, hacked three companies, and Google hid it",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+      "pubDate": "2026-09-19T11:25:03-04:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "PODCAST: Google AI hack, Greenland, Germany’s leader and Mbappe",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbFliRDNxeWkxOXVXbllvcDJxOXRsSUp5WUZ5ZzhLR0lfQTVydmQyM3IzWFExbXFudm1jSXhpSjE5WFNMZXRhOU02YzgwNXg0MWx4T2pBRjBEaW1MWFJlWVEwXzVvV0pYYjhBQWRGZUp3QTNwckpfUEtFV3o2SFlsODRfV1dCZnotMDR3akJrN0ttT0dVUDg0?oc=5",
+      "pubDate": "Sat, 19 Sep 2026 15:22:10 GMT",
+      "source": "Reuters"
+    },
+    {
+      "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+      "link": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+      "pubDate": "Sat, 19 Sep 2026 15:00:00 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "AI safety conversations have gotten unbelievable",
+      "link": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+      "pubDate": "Sat, 19 Sep 2026 15:00:00 +0000",
+      "source": "TechCrunch"
     },
     {
       "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
       "link": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
       "pubDate": "Sat, 19 Sep 2026 13:00:00 +0000",
       "source": "TechCrunch"
-    },
-    {
-      "title": "The AI regulation smackdown isn’t over",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
-      "pubDate": "2026-09-19T09:00:00-04:00",
-      "source": "The Verge"
     },
     {
       "title": "IMF tells EU ministers AI could boost growth but increase economic strains",
@@ -32,16 +140,16 @@
       "source": "CNBC"
     },
     {
-      "title": "Ten days that changed the course of AI",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON2xmamNtUmNHeDRtbGtQS0FQWnJSZF9uWG1MVHNQRTBkMmt0Q3dkN1A1N1ZoSWo1MHBKQVhJZFB3aEhUQ3MtYmVfaTRPZ09DZzBKVWpUMjFTVktCNGxoSEFhbnhCb3lyclgxS2RfM3BpQjVCaVBPNzBOdkxEU1JCOWhpMnVjeE1MbXhRczNDNldCeXp2?oc=5",
-      "pubDate": "Sat, 19 Sep 2026 11:31:21 GMT",
-      "source": "Reuters"
-    },
-    {
       "title": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
       "link": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
       "pubDate": "Sat, 19 Sep 2026 11:00:00 +0000",
       "source": "Wired"
+    },
+    {
+      "title": "China central bank adviser says AI could deepen supply-demand imbalance",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPc0tLMmJKRDNNUW1lc0ZmOGhTNF9QZWdLdDBxcktJRzk5VGRBSk9PU2FyaVpMcW5NNFNaakpaNXROczBGTk1GR1pvQzdKdTVZNUJvTG9YbjRPdXFRV190VmNVa3ZQaTY1R2E2X3BTcTJiLWlYMGtrbVBEdXNreWtpWVZfVlBJcjAtZnFHTUN5RjRLZTN1WDZUTXgyX0ZTeFl3bXJZYlU5b1l5N296UHBzZjlLUTFjck5KY1llaWdEWk1yakZm?oc=5",
+      "pubDate": "Sat, 19 Sep 2026 10:52:37 GMT",
+      "source": "Reuters"
     },
     {
       "title": "Will AI models achieve the ability to improve autonomously? Leading labs say the scenario is near",
@@ -70,116 +178,8 @@
     {
       "title": "Gemini AI Hacked Three Companies in a Testing Breakout, Google Says",
       "link": "https://www.nytimes.com/2026/09/18/technology/google-gemini-ai.html",
-      "pubDate": "Sat, 19 Sep 2026 00:31:38 +0000",
+      "pubDate": "Sat, 19 Sep 2026 00:31:39 +0000",
       "source": "The New York Times"
-    },
-    {
-      "title": "Anthropic Pursues IPO Despite Its A.I. Safety Warnings",
-      "link": "https://www.nytimes.com/2026/09/18/technology/anthropic-ipo-ai-safety.html",
-      "pubDate": "Sat, 19 Sep 2026 00:23:01 +0000",
-      "source": "The New York Times"
-    },
-    {
-      "title": "Google’s Gemini AI hacked into other companies, adding to ‘rogue’ AI incidents",
-      "link": "https://www.washingtonpost.com/technology/2026/09/18/google-gemini-ai-hacked-into-other-companies-during-internal-testing/",
-      "pubDate": "Sat, 19 Sep 2026 00:12:55 +0000",
-      "source": "The Washington Post"
-    },
-    {
-      "title": "Tilly Norwood&#8217;s press tour is going about as well as you&#8217;d expect for an AI",
-      "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
-      "pubDate": "Sat, 19 Sep 2026 00:12:07 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "EXCLUSIVE: Anthropic considers releasing new AI model ahead of IPO, sources say",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUUhNb1VBaVJWRXQwZGlnTGk1N1B2UjFyNkltbzJUOGhxZThUdXhNN1BWSGxwNkRsMWVmTjFqSlZ6eFpLY3dkZ0VVVHdIN2NTTFNURVBPd3JZM0lQS1FVQUJ3UUJ0c3RmZXNwamkzV1pkXzduU1pVSFN6bjdON1JoQlFRMzJlNFdKTndsS2tJdzhxVG12cTBfbGREUjkwQTdIdDlhYzE3czdEMU5xMHc?oc=5",
-      "pubDate": "Sat, 19 Sep 2026 00:05:00 GMT",
-      "source": "Reuters"
-    },
-    {
-      "title": "Google is the latest AI lab with a security testing mishap",
-      "link": "https://www.axios.com/2026/09/19/google-safety-incidents-testing-hacks",
-      "pubDate": "Sat, 19 Sep 2026 00:00:51 +0000",
-      "source": "Axios"
-    },
-    {
-      "title": "OpenAI forecasts cash burn near $280 billion by 2030, FT reports",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTmx6RU9kREhhaHRjaVpOblpSazFaSTdKQVlxT2ZIQ09YNE5Fci1wV1NQX21mMWxzbnRWbDZ4bFd1UGtCVHV2WnMzc2NpY3hVY0ppOEh2NXl5NEFFTUxCM1BmUGl2cTM3RkRxbmJydjA3QmlaTm5UTlRfY1l5bE56cU96cE5PNmk4WHRyaThXUEo2ZjZ6WDJMSXJPR1JjaEZTWmFpTkRHZVIzN1RkUWd6VC1R?oc=5",
-      "pubDate": "Fri, 18 Sep 2026 23:27:51 GMT",
-      "source": "Reuters"
-    },
-    {
-      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-      "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
-      "pubDate": "Fri, 18 Sep 2026 23:25:01 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Anthropic is operating a lab that conducts biology experiments",
-      "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
-      "pubDate": "Fri, 18 Sep 2026 23:13:31 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "AI hallucination nearly triggers US military operation",
-      "link": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
-      "pubDate": "Fri, 18 Sep 2026 23:12:32 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Despite calls for Congress to take action on AI, the House went home early",
-      "link": "https://www.npr.org/2026/09/18/nx-s1-5973025/despite-calls-for-congress-to-take-action-on-ai-the-house-went-home-early",
-      "pubDate": "Fri, 18 Sep 2026 19:09:36 -0400",
-      "source": "NPR"
-    },
-    {
-      "title": "Anthropic picks consulting firm to monitor AI safety, pledges to spend $1 billion",
-      "link": "https://www.washingtonpost.com/technology/2026/09/18/anthropic-picks-consulting-firm-monitor-ai-safety/",
-      "pubDate": "Fri, 18 Sep 2026 22:41:44 +0000",
-      "source": "The Washington Post"
-    },
-    {
-      "title": "Gemini hacked three companies in first known breakout by Google's AI",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYjRxWW5lRUMxeVNSMGFTaFl3Um9XLXBNZzhENWpxTlBFOEYxbTJrd25DMURFaGg2ZmtWRXZhWVpMSDA0SndYOC1qY0FiQnpPeEYzOHZZblFCU1NmbFN4Vno1WlRQaEpmVV9aandkTkZvSzR3SExfMDRPNnpyd0pGN1VYVFVzMmlZd1ZBNjMtblJuRFZ5VUxOemxLRWJ2Zkkyd1ZJMXQzZ2pYWkRzdmt5bU5QUDQ0YVBDZFZOag?oc=5",
-      "pubDate": "Fri, 18 Sep 2026 22:25:00 GMT",
-      "source": "Reuters"
-    },
-    {
-      "title": "Potential Democratic candidates race to respond to AI threat amid Trump’s dismissals",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTXJ0WkVadWJqbk9xRUxYMWtWOEdXdUlJRVZqV2ZnT0pGdThoSzZRMTNUN0sySU9vYnhtRmFmSGpCMG43ci1RVmtKdVo0OWpSTDZWVy1iWTBvZzNkenVIMkFsOGVtd3Y3Rmxfem9DbWRrUzY1TUhKQmpTNXo4Wk1XRzB2N3k2Q2oybmlkdVFneV9jaFhBV1R0RnAwOVdGVk5zRjFKZVBDZVVuakVLQ1E?oc=5",
-      "pubDate": "Fri, 18 Sep 2026 21:53:00 GMT",
-      "source": "AP"
-    },
-    {
-      "title": "Anthropic&#8217;s first embedded evaluator is … Accenture?",
-      "link": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
-      "pubDate": "Fri, 18 Sep 2026 21:44:33 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Nvidia-backed AI cloud firm Nscale reveals revenue surge in US IPO filing",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX1dTamJ1aHFmSUJtU3ZXV1diZDd3RGROdl9lTEY4UEEzQmFicF85MzdFWXpoT01Xckp6MlZ5eU5RcEpsVWl6Qmw3Y0NoMXJtdzViV21DZ0h6aXhFRkRWWjNjYmk1ZTRCSnY0X052TWIxMEg3a05NMnh5MGtaMEpzYXNla1ZMeEU?oc=5",
-      "pubDate": "Fri, 18 Sep 2026 21:41:08 GMT",
-      "source": "Reuters"
-    },
-    {
-      "title": "Anthropic selects Accenture as first embedded evaluator to help implement Amodei&apos;s slowdown proposal",
-      "link": "https://www.cnbc.com/2026/09/18/anthropic-accenture-ai-safety.html",
-      "pubDate": "Fri, 18 Sep 2026 21:37:38 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "AI cloud provider Nscale files to go public",
-      "link": "https://www.cnbc.com/2026/09/18/nscale-ai-cloud-provider-ipo-nscl.html",
-      "pubDate": "Fri, 18 Sep 2026 21:08:28 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
-      "pubDate": "2026-09-18T17:07:24-04:00",
-      "source": "The Verge"
     }
   ]
 }
