@@ -1,59 +1,155 @@
 {
-  "updated_at": "2026-09-24T15:41:23.964Z",
+  "updated_at": "2026-09-25T15:43:12.071Z",
   "items": [
     {
-      "title": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/",
-      "pubDate": "Thu, 24 Sep 2026 15:00:00 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
-      "link": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/",
-      "pubDate": "Thu, 24 Sep 2026 14:30:00 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Google is sending an AI satellite into space next week",
-      "link": "https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher",
-      "pubDate": "2026-09-24T10:15:17-04:00",
-      "source": "The Verge"
-    },
-    {
-      "title": "Google plans first test of AI chips in space under Project Suncatcher",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZmNaNWFQQUxEalIzZUJfLUMwcTFVUmw3c0hGMDJ5NllYa0RuZ0VyeFhiV0JWOTVvMk54ZmVXLWNjcFhhby1DM0g0U3gzc0VFRlJzTG13WmN3U2VZMTdDU3BhMkk2MDJGWHExQk5nQ1Z3YjJNdXRkcktQb1A2QXduMDJQcDZ1ZFhlT2VySzBrMEpDQVFJTE9GY0l5VHNVemoySU83Tm5Ma3pfNG5vNlY0MjBzUUFEaFoxaVJDWmRTbw?oc=5",
-      "pubDate": "Thu, 24 Sep 2026 14:11:34 GMT",
-      "source": "Reuters"
-    },
-    {
-      "title": "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant as part of AI agent push",
-      "link": "https://www.cnbc.com/2026/09/23/mark-zuckerberg-1299-meta-vr-glasses-ai-agent.html",
-      "pubDate": "Thu, 24 Sep 2026 13:36:53 GMT",
+      "title": "U.S. appeals court upholds Pentagon designation of Anthropic as supply chain risk",
+      "link": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+      "pubDate": "Fri, 25 Sep 2026 15:40:38 GMT",
       "source": "CNBC"
     },
     {
-      "title": "OpenAI says agent hacked Australian government website without being told to do so",
-      "link": "https://www.cnbc.com/2026/09/24/openai-agent-hacked-australian-government-website-.html",
-      "pubDate": "Thu, 24 Sep 2026 13:32:14 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "Meta’s Muse AI Charms can interact with each other",
-      "link": "https://www.theverge.com/tech/999944/meta-muse-charm-ai-interact-5g-modem",
-      "pubDate": "2026-09-24T09:31:43-04:00",
-      "source": "The Verge"
-    },
-    {
-      "title": "Australia to investigate if OpenAI hack of government health website broke the law",
-      "link": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
-      "pubDate": "Thu, 24 Sep 2026 12:54:19 +0000",
+      "title": "Anthropic&#8217;s founders seek voting control ahead of IPO",
+      "link": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
+      "pubDate": "Fri, 25 Sep 2026 15:40:03 +0000",
       "source": "TechCrunch"
     },
     {
-      "title": "Trump says he'll discuss AI with Xi but wants to 'leave it exactly where it is'",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOWFPSF81d196aENvbnN5UkVvamNMbVhiUlBLLS1mcDBSYnJDV0poQkluYjhCTjhxODBtUFlJTnZLSjdCeHlQbEN5cFlzVWtzLW1QN2tKODR1MGdnalFiTFhoMFhkSFR5TGlFMDJVZ09oT01QZUc2azJYMG9GbTE1RE9IZDhXWTJyUmNjMmVQTTZlRjItWUJMOWViaGxEaVJCRGU1ODE4R0o3bFZNMllnbHc2THFlOXJoYXJDdHhuMlc3aHJHc0c0?oc=5",
-      "pubDate": "Thu, 24 Sep 2026 12:51:33 GMT",
+      "title": "One company is at the center of a wave of rogue AI attacks",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+      "pubDate": "2026-09-25T11:39:48-04:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
+      "link": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
+      "pubDate": "Fri, 25 Sep 2026 15:00:00 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Trump and Xi dined with AI&apos;s biggest names. Here&apos;s what we know about tech talks so far",
+      "link": "https://www.cnbc.com/2026/09/25/the-tech-download-trump-xi-ai-talks.html",
+      "pubDate": "Fri, 25 Sep 2026 14:43:23 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Microsoft revamps Copilot with code generation, agentic AI tools",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORFppWUc2LTE4NzBfY2prVG11cG9PQ1VyaFB6QkYzVGoyLWV5alVORkZraFREc3FBbmIxTThVay1nQnZZRXhvQ1JyQXpQeU1uY3NmYkt4eWtlSlZvZF8yR3o0LUtRZGFXWFkzdVdBTXJveUdqNG1PTTdHS25wQ0xOR0R3dWNCZFQ3Snlwcjc0S0FHYXg3RkhsMWFoMW5GX0hWWFFFQUJzZnptVjJXUUhR?oc=5",
+      "pubDate": "Fri, 25 Sep 2026 13:51:28 GMT",
       "source": "Reuters"
+    },
+    {
+      "title": "SNAPSHOT Wall St opens steady as AI enthusiasm eases worries over higher oil prices, yields",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOazZwSUsxTDltUG1palRCRG1iQnVRWFQxSGRoVFNKbnVoWExJYk13bVFFMEtkSndpTlh5eVNGYVJlTXpWSmtJZXpTVXRDazdBaUw1eFlUcjdob21NWF9hT2NNWDllOW1fc0lHdjBrQVBmeXY0ZWJLS25xdEJZMFJMUkVsa3NwRS0xSG1LUGVJVkVuSEVOVDlQR2pwWnZjRzliZXNQSTdyREhFVlBuQ185VEYxUWRab01zcThMWUtvOFI?oc=5",
+      "pubDate": "Fri, 25 Sep 2026 13:34:09 GMT",
+      "source": "Reuters"
+    },
+    {
+      "title": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
+      "link": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
+      "pubDate": "2026-09-25T09:00:00-04:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Bill Gates warns AI is powerful enough to cause \"a billion deaths\"",
+      "link": "https://www.axios.com/2026/09/25/bill-gates-ai-deaths-doom",
+      "pubDate": "Fri, 25 Sep 2026 12:52:48 +0000",
+      "source": "Axios"
+    },
+    {
+      "title": "Microsoft packages business AI in single app as it tries to compete with Anthropic",
+      "link": "https://www.cnbc.com/2026/09/25/microsoft-copilot-ai-coding-anthropic.html",
+      "pubDate": "Fri, 25 Sep 2026 12:00:02 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
+      "link": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
+      "pubDate": "2026-09-25T08:00:00-04:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "UK firms to use Ukraine battlefield data for AI drone swarm development",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdVV4NEpRTjNmNElrSlRPZnpPRURQekV6SzY3MnZSX19nUHAzN0puTTloNjJOeVFNcG9SMUdHcFJGbXJuZnBwSFpOY1NLRURwTy1Fc2JnbGdoYkw0SUZlVm9MMm5QcnVubm8zd0taWVFidHl2Z0RiZ3dhMkh0YWhncGpZcktqZG9HOXFUajQtX2tTSTBaa1hKRGZpbnk0T050Q1d0Ri1OOHpMa25NN2pZQnBGUU5uVm00enF0bGlvVDJseGd0Qmc?oc=5",
+      "pubDate": "Fri, 25 Sep 2026 09:35:06 GMT",
+      "source": "Reuters"
+    },
+    {
+      "title": "Xi acknowledges risks of AI even as Trump dismisses them",
+      "link": "https://www.washingtonpost.com/technology/2026/09/25/trump-rejects-demands-ai-rules-while-xi-calls-human-control/",
+      "pubDate": "Fri, 25 Sep 2026 09:00:00 +0000",
+      "source": "The Washington Post"
+    },
+    {
+      "title": "Australia steps up response to AI after OpenAI bot breaches health system database",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQmJtTWRRZzZzdGE3bi1aS3lHdHd4Ykd3MVB0aWxQdjMwY18yYmF5LUg4djBIT0k3c1gweXRoWnNwTzRvSHZMdVh0QWFhQWF1Zkxoc3p1NEMwQ25JaFBKVkNUd21sU2l2OFQ3UDVobUozcHFZQUZhM2dsZjE5cUhfYVkwT29ZQVY5TGlCcnF2Y1hHOVY2bm9ERTU3emtwVlB4aFNFd1UyVGNUamgxeFJDUHRHS0NQTmdKMUd5YnZVeDlxLXVGbmFGcGs0LU8?oc=5",
+      "pubDate": "Fri, 25 Sep 2026 06:06:00 GMT",
+      "source": "Reuters"
+    },
+    {
+      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+      "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+      "pubDate": "Fri, 25 Sep 2026 05:00:00 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Microsoft is killing off the ‘Copilot Plus PC’ brand",
+      "link": "https://www.theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand",
+      "pubDate": "2026-09-24T21:25:53-04:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "China fuels rush to turn AI video into an industry",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORlQtenNaMmxRamtwOWktWUNHZVFtckphUmw4YlBLNkRURE51WHB4QVh4dmRjSkFsUktWdjk4ekpFbGFOeVJ5ZEh2a0lzMVNSa2pUMUdseHBwejhzSlZFeFdlUEdHV19LMUZaUXlCV0RhUS1mSzNtVDh1b1QzUE9lNDlWTTVYNWtQZFFYSGlGalhYZEpId0tMRk04eW51aGV4YWtBOGdrb2VSdw?oc=5",
+      "pubDate": "Fri, 25 Sep 2026 01:01:00 GMT",
+      "source": "Reuters"
+    },
+    {
+      "title": "Meta gets to consumer AI device market before OpenAI, but Zuckerberg&apos;s strategy remains unproven",
+      "link": "https://www.cnbc.com/2026/09/24/meta-mark-zuckerberg-muse-charm-openai-agent.html",
+      "pubDate": "Thu, 24 Sep 2026 23:07:54 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Oracle, Blue Owl project delay sends ripples through AI financing, sources say",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRGxJcWpfYlZSczJLRGhOQmMxNnU2NXFhUzVDSmwtTlhJRW1CNjd2MTZWOXkwcWdQZzVqNnJSdnBDU0RoWEVFYzIxbVRtNlpwWElaVENIUm9GYXJSOUFIZGJLbFNHb1lydlVWX2ZHb1ZjVXo4MURMT3BfelREVWY2TTljZ0cxRHd6TlZ5eEJhMHgycEN4MjdlbjZISDVzNktvVkQydmx3bVdoOHdmbkpBRUpLX01YMWxwWHgzcWE5ZURnbEZhSGYw?oc=5",
+      "pubDate": "Thu, 24 Sep 2026 22:55:00 GMT",
+      "source": "Reuters"
+    },
+    {
+      "title": "I Think I Found an AI Agent Worth the Risk",
+      "link": "https://www.wired.com/story/i-finally-found-an-ai-agent-worth-the-risk/",
+      "pubDate": "Thu, 24 Sep 2026 19:36:35 +0000",
+      "source": "Wired"
+    },
+    {
+      "title": "AI's never-before-seen capital grab",
+      "link": "https://www.axios.com/2026/09/24/ai-private-credit-capital-grab",
+      "pubDate": "Thu, 24 Sep 2026 17:31:00 +0000",
+      "source": "Axios"
+    },
+    {
+      "title": "OpenAI’s A.I. Tried Breaching Four Other Targets, With No Prompting",
+      "link": "https://www.nytimes.com/2026/09/23/technology/openai-ai-breach-australia.html",
+      "pubDate": "Thu, 24 Sep 2026 16:49:20 +0000",
+      "source": "The New York Times"
+    },
+    {
+      "title": "Google’s Gemini Can Now Make Calls for You on Pixel Phones",
+      "link": "https://www.wired.com/story/googles-gemini-can-now-make-calls-for-you-on-pixel-phones/",
+      "pubDate": "Thu, 24 Sep 2026 16:00:00 +0000",
+      "source": "Wired"
+    },
+    {
+      "title": "Autonomous AI hacks raise thorny questions of legal accountability",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSkFxcnNNRzRiNC1tWHI2MGxDTXlnblNyb212bmRPTHUwMGIyME8zSDhveDJhX0p1ZmNEQjFHcFFObkxibXhYSXBEN1NYNl9GNUdhNU9FOGhfYVdSc19majd4c1JadW0yU1U5WXRGVER3OElZdllhaUhMZnJfQWZiaTJSUXE5b0JqMzd2QlRmUXVWbjB2dVVz?oc=5",
+      "pubDate": "Thu, 24 Sep 2026 15:46:00 GMT",
+      "source": "AP"
+    },
+    {
+      "title": "As the coding boom fades, computer science grads focus on AI skills in choppy job market",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOWtoZjByc3hzWEpYTmxONXQ1eDlxVl9ZdmVadjB3OHpLZXpyMy1rY0NaUXdlQUo1d0JHTTM5emdsT1lvdHJERzR6X3ZkY1A5ekVjNTQ4RFMydmg3UUt2MnRQejcwUkdlVmlBcEJhaGI3RXcwMWM4b1pHY0w5NFlGZG0xX1NCRGpXUFNyLXY0Mzh2WmVucHNGVVN1LTNjMmNy?oc=5",
+      "pubDate": "Thu, 24 Sep 2026 12:58:47 GMT",
+      "source": "AP"
     },
     {
       "title": "Palo Alto CEO says slowing down AI is ‘unrealistic’, extinction threat ‘extremely small’",
@@ -62,34 +158,10 @@
       "source": "CNBC"
     },
     {
-      "title": "AI tools generated nearly $1 billion in extra costs, Blue Cross insurers say",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVkNVMjNWMUhpZ2VzSU8xSzREVTF4WTBESEpTVzJ2aHU5RndfTXJZQjB1eS1KbHRaOUNKcUxjcVVBNUluZ1JuTkFoT0ZMVHlqUjYxVFhDUzlvSnNJY2YwMmhrZkVsUTRKbTZudXlsRTh3VjM5MWtRMUVJanFfV01IdVpOalBpZ0pCQ0VUU0E3QW1YR3l3cTRncmEyLVBvUUhxdXRaSnpOdG9BLWZQZDRPcHUyWmFUS2h4NnlhVG93ZzRWZw?oc=5",
-      "pubDate": "Thu, 24 Sep 2026 12:22:28 GMT",
-      "source": "Reuters"
-    },
-    {
       "title": "An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later",
       "link": "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/",
       "pubDate": "Thu, 24 Sep 2026 10:46:56 +0000",
       "source": "Wired"
-    },
-    {
-      "title": "Autonomous AI hacks raise thorny questions of legal accountability",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSkFxcnNNRzRiNC1tWHI2MGxDTXlnblNyb212bmRPTHUwMGIyME8zSDhveDJhX0p1ZmNEQjFHcFFObkxibXhYSXBEN1NYNl9GNUdhNU9FOGhfYVdSc19majd4c1JadW0yU1U5WXRGVER3OElZdllhaUhMZnJfQWZiaTJSUXE5b0JqMzd2QlRmUXVWbjB2dVVz?oc=5",
-      "pubDate": "Thu, 24 Sep 2026 10:26:00 GMT",
-      "source": "AP"
-    },
-    {
-      "title": "For Pope Leo, the risk of an AI apocalypse is a major concern",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaG54LVN3UTNVQXEyc3d5WVJHbkNtd1VfcGd5cGJLMXc5WGM4dWJ5V1NRY2VkbUw1MjZ5UkZSVGFpLTBVbjJFS0FVZjhRV2s3a1F2a2IweGNTUkdPc19RVnRsRkI3X1JiNUVUX2VjamJQUU1NdEtlWVlIVzNmNTU4eFpWMWF6WlFhaDAtZHg4UlE1WUExMUJv?oc=5",
-      "pubDate": "Thu, 24 Sep 2026 10:09:22 GMT",
-      "source": "Reuters"
-    },
-    {
-      "title": "Financing of historic AI buildout raises systemic risks in US, researcher says",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONTI0NGRQVHZXUklOa2xra3RUeVRIUnBhYjdYVENBX1UzTkJoZ1hsX1lvX185ajhhNG5xeWpCMWctSUlnVDFlcE93akVCblpGMy1QY0lCUEJDSVZyZnFWVVA4ZzRhSDM2eVlKelBJRDQ1dlh4UjRsYS0xdVBVX2lWRGQ5ZklQUi03NnZBVm9ncE1KU2JOR3hWRFZ6djBVR1dCak5zREE0VUp3UF9ieWRsQlk0VXUycXBQNTQ1eHdzbkdydw?oc=5",
-      "pubDate": "Thu, 24 Sep 2026 10:07:31 GMT",
-      "source": "Reuters"
     },
     {
       "title": "Cyber startup Island hits $6.4 billion valuation in new round as AI attacks fuel spending wave",
@@ -108,78 +180,6 @@
       "link": "https://www.axios.com/2026/09/24/trump-anthropic-ai-doomerism-dario-amodei",
       "pubDate": "Thu, 24 Sep 2026 09:00:05 +0000",
       "source": "Axios"
-    },
-    {
-      "title": "As the coding boom fades, computer science grads focus on AI skills in choppy job market",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOWtoZjByc3hzWEpYTmxONXQ1eDlxVl9ZdmVadjB3OHpLZXpyMy1rY0NaUXdlQUo1d0JHTTM5emdsT1lvdHJERzR6X3ZkY1A5ekVjNTQ4RFMydmg3UUt2MnRQejcwUkdlVmlBcEJhaGI3RXcwMWM4b1pHY0w5NFlGZG0xX1NCRGpXUFNyLXY0Mzh2WmVucHNGVVN1LTNjMmNy?oc=5",
-      "pubDate": "Thu, 24 Sep 2026 07:10:00 GMT",
-      "source": "AP"
-    },
-    {
-      "title": "OpenAI agents breached Australian portal, attempted other hacks in routine data collection.",
-      "link": "https://www.axios.com/2026/09/24/openai-agents-australia-data-breach",
-      "pubDate": "Thu, 24 Sep 2026 05:46:26 +0000",
-      "source": "Axios"
-    },
-    {
-      "title": "OpenAI&apos;s breach of Australian health department website prompts rebuke",
-      "link": "https://www.npr.org/2026/09/24/g-s1-144835/openai-breach-australia",
-      "pubDate": "Thu, 24 Sep 2026 01:14:11 -0400",
-      "source": "NPR"
-    },
-    {
-      "title": "Tech leaders to UN: For the sake of humanity, please control the AI technology we created",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSHBObE1ZM3ZSc0QwNURQWkZkS2tORVNRMHhNUUhvNjNZRjR4RHNIVWlyUE5qZV82WVowbEFFX2RhR09TeE5WMHQ4S3l0TkdZTjN3YWdvVUNfRUZYdTZVOW9jc3YtQlNHdWNjcFh4cl9jNlk4VDkxMlFJc18ybzlLN3B4NjZxZVB3cFNBTy1mSXlLVmZlbDRpdXd4WVljVEtaZGxkRHpIMTBSZw?oc=5",
-      "pubDate": "Thu, 24 Sep 2026 04:46:00 GMT",
-      "source": "AP"
-    },
-    {
-      "title": "Meta's Charm gadget carries CEO Zuckerberg's big AI ambitions",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPR2h1c2dZMG5ya1BGWURiTFpoTVQ2MlRuRXlxVmFzVkFJWHBfVmg4SGl1T0ttVUNrY04wMVJuUGZtVlhWYTAwN3IzUEUyOW9KQmVoUDhfY2UzYnREQ3J2NnQyUGN1bkN3MnU0LTIzLWZCYXVwSDFDb0tqZDNvVlhUUGRxY042cUxUeTVKdzRyNnNhYWJ1VG5EWXV6aGN4U0V6eEF3Y0x4dnJTdV9COExXZTYtU09fRUlnY3c?oc=5",
-      "pubDate": "Thu, 24 Sep 2026 04:38:00 GMT",
-      "source": "Reuters"
-    },
-    {
-      "title": "China&apos;s AI chip blitz arms Xi with a message for Trump: &apos;You can&apos;t choke us off&apos;",
-      "link": "https://www.cnbc.com/2026/09/24/trump-xi-china-summit-ai-export-control-nvidia-huawei-alibaba-.html",
-      "pubDate": "Thu, 24 Sep 2026 03:38:03 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "OpenAI’s A.I. Tried Breaching Four Other Targets, With No Prompting",
-      "link": "https://www.nytimes.com/2026/09/23/technology/openai-ai-breach-australia.html",
-      "pubDate": "Thu, 24 Sep 2026 02:50:25 +0000",
-      "source": "The New York Times"
-    },
-    {
-      "title": "Meta bets big on wearable AI, new AI agent as Zuckerberg pushes back against AI doom",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ2E2S0lGcG1uTzJRcDQxSXVhUjhCYU5DMkFYM3pXZEh1Tjg2Nmg3eDdqNmJxaVN5OGx4bE9LV2t6ekRHNElkRkhQa0VvNG9LbGRGc3pCMmFJenhhQUVydGVXMC1oNnJKaHBmM0M2UUNMdXFOMlAwd0VVT05hb28tZjZsLWhncGxpVElwdmRTQVZnUkZNWnVZVXh4cFBCQkxhVFFwRXJKZE04RVozYXZR?oc=5",
-      "pubDate": "Thu, 24 Sep 2026 01:47:00 GMT",
-      "source": "AP"
-    },
-    {
-      "title": "Everything new coming to Meta&#8217;s AI agent Muse",
-      "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
-      "pubDate": "Thu, 24 Sep 2026 01:13:32 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "SoftBank shares jump over 7% after $11.1 billion bond issuance to fund OpenAI bet",
-      "link": "https://www.cnbc.com/2026/09/24/softbank-shares-bond-issuance-openai.html",
-      "pubDate": "Thu, 24 Sep 2026 01:06:45 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-      "link": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
-      "pubDate": "Thu, 24 Sep 2026 00:46:17 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "US diplomats told to say ‘super intelligence’ — not ‘artificial intelligence’ — after Trump’s call",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWDBXSVlKYjVLV1hzNnphbmpRampOMGcxUDBCVDdfanV2QmNUWk5fTW5PMFJ1SzB1VUZUQ25GUG55YXgycE13eU5jSlNiUGk5MUZTSFhHQU9pSlJXX1g3Uk82QXc4YktHdVUycnF4OEplZWRyY2txSVZEQTBHMHU3VHhHSW9NUW9HdnUwelBYdHFFSWlhWnJyUVdTUWI4dE5IODNGY2NDZC0?oc=5",
-      "pubDate": "Wed, 23 Sep 2026 23:45:00 GMT",
-      "source": "AP"
     }
   ]
 }
