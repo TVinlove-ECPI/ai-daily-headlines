@@ -1,185 +1,185 @@
 {
-  "updated_at": "2026-09-28T18:23:35.598Z",
+  "updated_at": "2026-09-29T16:46:30.689Z",
   "items": [
     {
-      "title": "Anthropic launches cheaper AI model, its second release since CEO&apos;s call for a slowdown",
-      "link": "https://www.cnbc.com/2026/09/28/anthropic-sonnet-5-5-launch.html",
-      "pubDate": "Mon, 28 Sep 2026 18:00:06 GMT",
-      "source": "CNBC"
+      "title": "Is Claude Conscious? Inside Anthropic’s Quest to Instill Morality Into Its A.I. Models",
+      "link": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+      "pubDate": "Tue, 29 Sep 2026 16:15:17 +0000",
+      "source": "The New York Times"
     },
     {
-      "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
-      "link": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
-      "pubDate": "Mon, 28 Sep 2026 18:00:00 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Google is killing off Gemini&#8217;s Gems in favor of &#8216;skills&#8217;",
-      "link": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
-      "pubDate": "Mon, 28 Sep 2026 17:29:50 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "OpenAI still doesn&#8217;t seem to have a handle on all of its rogue AI activity",
-      "link": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
-      "pubDate": "Mon, 28 Sep 2026 17:09:02 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Seligman Ventures doubles capital to $1 billion as AI boom revives hardware bets",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNjRtRWQ1MGhkMkFob2pTU1p1WWVFcXdvVGZSLUktbk04YVRWZFVhT3c3NGdQNjNxZVE4enV4YWp1NTI3a0hraHRZQWxmSm9QZVNOeUJnNVZwcU13dVIxS05VcExhVm1Pc25HUjMxLUV0aVJkVXNvNkYwaER5YmdMZ2VwQWlGamRzOTdwRTRVY0VXMEYyX2tpeGZzTTBpbjVtZHVnX0hoSDl6UVhWUFBpQ1M1RjNFVmJnTVpZRk9yVW5YU2hkcWlKdS1YYWU?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 17:00:44 GMT",
+      "title": "Visa joins growing alarm over AI-powered risks",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRU5PVkVzbG1WV2hVMlBycDJnT2dXNFZVRkNmTzdlTGh6QXBla05FYWZsRDB5ZDljekx5aGF1ZkpFSEl4ZDdTcEpkT1ZUOGh6SkJOXzJRMkpBZkk1UzBXSmR2TmxKaEhaaHNmVGdXMHJnRjNMTG9zc2UtVTNXbnE3YW9TamJWQVd2UHlEUE1QVWpCd3NOdFE0ZmgySEpMdExv?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 16:10:16 GMT",
       "source": "Reuters"
     },
     {
-      "title": "Florida seeks a ban on ChatGPT acting like a person",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
-      "pubDate": "2026-09-28T13:00:23-04:00",
+      "title": "Insight: China's AI agents can lie and scheme - just like their US rivals",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcV91dFhINlctVXNLUDJtUDE4SFRwdTBUVUJLYW9Ed09WSXlhZzB0RWFqRldma2FjVGd5NXBFWkMyQldUMGVPcTd5MjM0VjJ1TERaY0dfZkF5VklnbTZ6VzNBcmJkTmROUTJWVWkzRGhMbkZ1RktfX1BfNVBTUzFGMEljaElSUHU5Vnd6S25NZGVCUXpYYnJocnBPTG9Na0VxSnpLbGlWclk2TmlMRjcyelFhT0pIc0NpRFE?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 16:07:08 GMT",
+      "source": "Reuters"
+    },
+    {
+      "title": "OpenAI DevDay 2026: The biggest news and announcements",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements",
+      "pubDate": "2026-09-29T12:00:00-04:00",
       "source": "The Verge"
     },
     {
-      "title": "OpenAI keeps bulldozing mathematicians",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
-      "pubDate": "2026-09-28T13:00:00-04:00",
-      "source": "The Verge"
+      "title": "Netlist seeks U.S. import ban on Micron chips used in Google, Nvidia AI computing",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSmxnMEM4VmZvZUtSUTFlQWI0bWIyRFJmMEh4RTh5ck5obV85T2RMeTJoU1VLN3BwRkE4d3F4ZjNiaDN1RzNtVDczTGNPQnF0ZzIyUnNzSk40TnhaZXZNRmVyUUZ5cjZXUGtWR0puZHZSejFnQkthMHJfQkhxMEZVTWgxVTBQeUJxM3RlaXBKcXB4RDZIOFU3SExnR3lHcUN3dUdlUHhPZ25SN0xPMEJGcnc4d0d5VkwwUmxaMlQ0blZqcU0?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 15:50:51 GMT",
+      "source": "Reuters"
     },
     {
-      "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
-      "link": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
-      "pubDate": "Mon, 28 Sep 2026 16:52:38 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Florida asks for order to halt ChatGPT development",
-      "link": "https://www.axios.com/2026/09/28/florida-openai-chatgpt-injunction-uthmeier",
-      "pubDate": "Mon, 28 Sep 2026 16:43:37 +0000",
-      "source": "Axios"
-    },
-    {
-      "title": "Nvidia’s board increases chipmaker’s share buyback plan by $150 billion",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYU4xWDhDUk8zbUI5U0FsUTZQZDNlZmtSNUdSNkh6YzV2cUFIbk9mMEtoQVBDUTNNM09xeWNuQlQwSWZwWElmX21HM1BaU1oyNEkteDVLOEtad25VcHJMNm03R3FDSF9vekl0czVqemFxNEtlMExkVjJTdjBqRWtmb1k2VzZDVmlWbndr?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 16:11:00 GMT",
-      "source": "AP"
-    },
-    {
-      "title": "Nvidia releases software platform to stop AI agents from misbehaving",
-      "link": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
-      "pubDate": "Mon, 28 Sep 2026 15:55:50 GMT",
+      "title": "New AI-powered government website uses Gemini, Grok, Trump official Gebbia says",
+      "link": "https://www.cnbc.com/2026/09/29/trump-ai-gemini-grok.html",
+      "pubDate": "Tue, 29 Sep 2026 15:37:12 GMT",
       "source": "CNBC"
     },
     {
-      "title": "Trump's AI meeting with tech CEOs to focus on finding balance, US House speaker says",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcHJGOXJ5VG45UUJaOEZ4MWNFZDQwd3BpUEtsWkFCeFhPbVd5UmFDaDFCelYwaTduR3h2TEsyUTlCeFFReHNtc3h2Y0p4Zi1BVUs2Qnk4ZjZPV2hnSUZEMlVrVWRxbThlT25RdUNVbHEyVHJ6R1dwVlZ5VzlORVZzRGNVbnpxZWZxWXpVMEhEeFpaUGxCRW8zVDRDaHp1R19HbUE5M3dWaERBU2N2aGtsRldiT3RPbDBheUI1VFBjU2FiV2sxOUNvUw?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 15:49:57 GMT",
-      "source": "Reuters"
-    },
-    {
-      "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
-      "pubDate": "Mon, 28 Sep 2026 15:30:00 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Physical AI chip developer SiMa AI hits $1.45B valuation",
-      "link": "https://techcrunch.com/2026/09/28/physical-ai-chip-developer-sima-ai-hits-1-45b-valuation/",
-      "pubDate": "Mon, 28 Sep 2026 15:29:21 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "\"Window for action may close\" if AI begins improving itself, AI pioneers warn",
-      "link": "https://www.axios.com/2026/09/28/ai-pioneers-intelligence-explosion",
-      "pubDate": "Mon, 28 Sep 2026 15:00:05 +0000",
-      "source": "Axios"
-    },
-    {
-      "title": "Meta taps MongoDB CEO Desai to drive enterprise AI push",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWEtXZ3gxSXRQejgzMEFqZFdudGYwSWdvUDB5cGVmckloeG9OLWR0Ml8xbWVmLTZjSmI0TWw5QnQ4WGY5cVppYjVDbUhZYUpTSVhFUFFtbjExeUEwRTBVSVUxRTRxRFU3M0hvUXdKcWpVRndxSjJuNEZXc0VtRnhfa1ZiLThJSWdIcFlZbjBLTFlJZHc0RE5QVFIzUkE1SkZyQTFXT1RxMWlWZw?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 14:47:44 GMT",
-      "source": "Reuters"
-    },
-    {
-      "title": "Nvidia releases AI safety software it says could have stopped Hugging Face hack",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSVREakRaN2V6OWo0bzNFcVBHb1VZMzRVS29mcWF4XzZwSmdxLVRublBqSTE5ZlNBaHBKb0lTU1o2SWV0V0t1U3M3TVl1ZnlJWGVJRGxKclM5RkphYzhzU3FlNkZHNDk3TUZhdW54dGtydmR3MFR2ZFVZdWItaVpsNjZYX2hIbjVHcTM0ZTVqLVd6UHV2OGY4eFM4ZW1va1pCSF90VzlZd3BSUjVkY1RJRzV2ZGFEUnlnbDY1d0ZjOFZoYXBVRU5YZEM0Zmk?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 14:46:16 GMT",
-      "source": "Reuters"
-    },
-    {
-      "title": "Jensen Huang says AI distillation is &apos;competition.&apos; Scott Bessent has called it &apos;theft&apos;",
-      "link": "https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html",
-      "pubDate": "Mon, 28 Sep 2026 14:37:43 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "Roche outlines plans to move towards autonomous AI labs",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR3ViaFhYX3l4Y3AxRWtCNG5FUjhVa1ZpRjFWQ0c1TVN1WGNMalliZWVxWGFrNGRHcGJLNENjcTBwWjkzWXVGV3hwTmFycV8wYzFsZDhtTWJTVklhZHgtQkw5NE1TaHJfdVFOX0JSenBsY3Q4ZWdHQ0hlZUtaNVZLaFlNc1c1UHU3SE0tUUZ4TE5NVjJEQS0tSk5QNDY0UTZYLWN4MWxKbnN5YjRlWFlIX0hlckY4NlBlVmFScnFNczByUQ?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 14:19:42 GMT",
-      "source": "Reuters"
-    },
-    {
-      "title": "AI agent firm Instinct raises $1 billion in latest funding round",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSng0ZWE1OGdrZ1h0amRIYTBJeFVXd0JpellybmtzcHY5WEM0RWpWY2hkZ1FVVUloZUVSalRkQnAxb3hPS0ljbHViV1NXMnUtcEpfV2hRdUU0YXV3OWFUQnp3a25icW9IbnFUbWs4TG9pYXVfZWt3bkRCOHVJb1AxZEpxbWJOekpRT3o1UElTT1dUR0N0bWRpc2MxTUtRS20wbHhzT203Q0VHdUE?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 13:42:05 GMT",
-      "source": "Reuters"
-    },
-    {
-      "title": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
-      "link": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
-      "pubDate": "2026-09-28T09:36:06-04:00",
-      "source": "The Verge"
-    },
-    {
-      "title": "Nvidia unveils security platform to stop AI agents from going rogue after new, troubling incidents",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLUs1WDRHbkRJcDEzM0tsZ1BWNlZzS2pMVm94RkllS3hiR0Q2UUlPTnc0SVZUcGRCMUVoNDhvTjVKdkhuajJ3RXR2WnJRS2xoRTFwNUREV09yc0dFMjc2YVpCY0RTMW1JbXdDOGpXY283UFVBcG1YRlh6UzBaS0lPOEYwck9UanNBM1dDdXRvVjhQNWtNR1NJWENoemNqNmtHMi1zZWt5UFZwdw?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 13:21:00 GMT",
-      "source": "AP"
-    },
-    {
-      "title": "Philips’ motion-tracking smart toothbrush uses AI to make you a better brusher",
-      "link": "https://www.theverge.com/tech/1000924/philips-sonicare-next-generation-diamondclean-9900-prestige-smart-toothbrush",
-      "pubDate": "2026-09-28T09:00:00-04:00",
-      "source": "The Verge"
-    },
-    {
-      "title": "Nvidia&apos;s new AI platform, Nor&apos;easter flight delays, NFL&apos;s drone focus and more in Morning Squawk",
-      "link": "https://www.cnbc.com/2026/09/28/5-things-to-know-before-the-stock-market-opens.html",
-      "pubDate": "Mon, 28 Sep 2026 12:22:35 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "Trump dined with the Anthropic CEO who called for AI slowdown",
-      "link": "https://www.washingtonpost.com/politics/2026/09/28/trump-dined-with-anthropic-ceo-who-called-ai-slowdown/",
-      "pubDate": "Mon, 28 Sep 2026 12:16:43 +0000",
+      "title": "Trump launches government chatbot, urging a wary public not to fear AI",
+      "link": "https://www.washingtonpost.com/technology/2026/09/29/trump-is-selling-an-ai-golden-age-fears-about-perils-spiral/",
+      "pubDate": "Tue, 29 Sep 2026 15:31:53 +0000",
       "source": "The Washington Post"
     },
     {
-      "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
-      "link": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
-      "pubDate": "Mon, 28 Sep 2026 11:32:19 +0000",
-      "source": "Wired"
+      "title": "Trump says working with Xi on AI would hurt US companies",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbnRqUzdYZGRGeF82aU9Kc3BzNk9rLWZwTjJBNWhVNTRfcXU1UEtWWC1XNndCWGNHZDZhekREX2k4bUg1VjNNLUpMSV82U281RTJqMUZjMjFVRzhXaGZ1Q1B0TG9XWG9OVFBHSGZlZnZmX3lBcHp0a2Nrb3daZGliamtZY2kwNUEtRm9Mb092bDVxemtaVGlRME5WM2xXRHZOX25IQWk2cURXc09paHJVNEdmT1Q4UTg?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 15:25:28 GMT",
+      "source": "Reuters"
     },
     {
-      "title": "Exclusive: AI giants, unions join forces for data center fight",
-      "link": "https://www.axios.com/2026/09/28/ai-industry-unions-data-centers",
-      "pubDate": "Mon, 28 Sep 2026 10:57:13 +0000",
+      "title": "Trump touts America.gov, but its government-sourced AI answers undercut many of his statements",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPelhFX2RoX01CRHhHN3g2V2RfYmY1MTk0UDI2aFNlZEFXZUdJc1FPbDJhZWU5bk00bG1tUXpudVFwUDRXb05obnRsVkJoTkVpeGhScTk3SUJMS2huVFRlWVVEOVhMSXVUR2I4TzNlLTBaUnAtRUJhaU5uakxGNXJiaHJvR3pSLUJtcFBlSm40WXRTNTJIcEN0aXQzYlVPU0xnMzNjd29BMEE?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 15:18:00 GMT",
+      "source": "AP"
+    },
+    {
+      "title": "Scoop: OpenAI's annual recurring revenue nears $70B",
+      "link": "https://www.axios.com/2026/09/29/scoop-openais-annual-recurring-revenue-nears-70b",
+      "pubDate": "Tue, 29 Sep 2026 14:15:40 +0000",
       "source": "Axios"
     },
     {
-      "title": "AI Agents Are About to Flood the Workforce. No One’s Ready for It",
-      "link": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/",
-      "pubDate": "Mon, 28 Sep 2026 10:00:00 +0000",
-      "source": "Wired"
+      "title": "Meta&#8217;s Muse AI sent a YouTuber’s address to a stranger",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns",
+      "pubDate": "2026-09-29T10:08:21-04:00",
+      "source": "The Verge"
     },
     {
-      "title": "AI's man of the moment",
-      "link": "https://www.axios.com/2026/09/28/dario-amodei-artificial-intelligence-ai",
-      "pubDate": "Mon, 28 Sep 2026 09:53:40 +0000",
+      "title": "Inside McDonald’s push to have AI price your Big Mac",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZTUwSDRkVzM5OHNmYzN0ekFqdUMwTVVzQmtnc1A5ZXJvNHZENzJ0bHhVWE53aDdYc2Rnams0RjJ6Q0hOYU9zblpUYmk1LVRodW54U1dienZYMEg4em1pdXhJcmI1RGxRMjVjTGdKSV9IVEtFb2tLcjJaRFBXR0c4VTQ4Y0ZieVpEcnFnTGk4YVhiSU1zb3ZCTA?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 13:53:23 GMT",
+      "source": "Reuters"
+    },
+    {
+      "title": "Meta is expanding its AI agent Muse to small businesses",
+      "link": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
+      "pubDate": "Tue, 29 Sep 2026 13:47:30 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Exclusive: Full list of attendees at White House AI lunch",
+      "link": "https://www.axios.com/2026/09/29/trump-ai-meeting-list-ceos-johnson",
+      "pubDate": "Tue, 29 Sep 2026 13:40:38 +0000",
       "source": "Axios"
     },
     {
-      "title": "Solving Math’s Greatest Problems Was an Art Form. Then Came AI",
-      "link": "https://www.wired.com/story/solving-maths-greatest-problems-was-an-art-form-until-ai/",
-      "pubDate": "Mon, 28 Sep 2026 09:30:00 +0000",
+      "title": "House Speaker Johnson says he hopes AI guardrails are &apos;voluntary&apos; amid Congress inaction",
+      "link": "https://www.cnbc.com/2026/09/29/ai-safety-regulation-mike-johnson-congress.html",
+      "pubDate": "Tue, 29 Sep 2026 13:37:49 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
+      "link": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
+      "pubDate": "Tue, 29 Sep 2026 12:45:05 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Meta launches Muse for Small Business as Zuckerberg pushes beyond consumer AI market",
+      "link": "https://www.cnbc.com/2026/09/29/meta-launches-muse-for-small-business-zuckerberg-pushes-enterprise-ai.html",
+      "pubDate": "Tue, 29 Sep 2026 12:43:08 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Trump meets with AI execs, Treasury yields pressure stocks, Alaska&apos;s luxury push and more in Morning Squawk",
+      "link": "https://www.cnbc.com/2026/09/29/5-things-to-know-before-the-stock-market-opens.html",
+      "pubDate": "Tue, 29 Sep 2026 12:31:16 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Reco raises $55M as AI agent security startups crowd the market",
+      "link": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
+      "pubDate": "Tue, 29 Sep 2026 12:30:00 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "EXCLUSIVE: Anthropic warns AI may pose 'existential risks to humanity' in IPO filing",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVndoU28yRmZKcU1nd1MtOThsNXYtejlvampCQXFwRXIxcUJWdWZ5R0twWnM2czMyMmt3cERxQmhEYk5pWVh0UExTMVEzU3k0Tk5wa3Zkdkxkc0E3aTIzbEhOVmZrWmZPajJJaFRBb2JxUElza0puQW56MGpXM21lMDBSR1BDTkY3Ullja3pTQW1mQ20wWVhDTnMxRHB1MkFyUFQySkoxQldxNmFkNmp1dG95dndFUmZOb2c?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 12:22:33 GMT",
+      "source": "Reuters"
+    },
+    {
+      "title": "Mistral CEO says U.S. AI safety debate masks competitors’ &apos;negligence&apos;",
+      "link": "https://www.cnbc.com/2026/09/29/mistral-ai-safety-openai-anthropic.html",
+      "pubDate": "Tue, 29 Sep 2026 11:52:46 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "OpenAI Delays Release of Latest Model Over Safety Concerns",
+      "link": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns/",
+      "pubDate": "Tue, 29 Sep 2026 10:36:22 +0000",
       "source": "Wired"
+    },
+    {
+      "title": "Timnit Gebru Believes There Is No ‘Existential Threat’ From AI",
+      "link": "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru/",
+      "pubDate": "Tue, 29 Sep 2026 10:30:00 +0000",
+      "source": "Wired"
+    },
+    {
+      "title": "The future is AI vs. AI",
+      "link": "https://www.axios.com/2026/09/29/the-future-is-ai-vs-ai",
+      "pubDate": "Tue, 29 Sep 2026 09:50:05 +0000",
+      "source": "Axios"
+    },
+    {
+      "title": "The AI industry's contradictions take center stage in Washington, Silicon Valley",
+      "link": "https://www.axios.com/2026/09/29/washington-ai-regulation-openai-devday-anthropic",
+      "pubDate": "Tue, 29 Sep 2026 09:00:05 +0000",
+      "source": "Axios"
+    },
+    {
+      "title": "OpenAI stops training latests models, citing safety concerns",
+      "link": "https://www.npr.org/2026/09/29/nx-s1-5983549/openai-stops-training-latests-models-citing-safety-concerns",
+      "pubDate": "Tue, 29 Sep 2026 04:46:33 -0400",
+      "source": "NPR"
+    },
+    {
+      "title": "OpenAI delays latest model over security concerns, as industry faces pressure",
+      "link": "https://www.npr.org/2026/09/29/nx-s1-5984342/openai-delays-latest-model",
+      "pubDate": "Tue, 29 Sep 2026 02:34:43 -0400",
+      "source": "NPR"
+    },
+    {
+      "title": "Anthropic&#8217;s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+      "link": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+      "pubDate": "Tue, 29 Sep 2026 05:13:43 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Contradicting Trump, Pope Leo says artificial intelligence safety concerns not ‘fake news’",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONnhKYktPd0xYRGF2UF9KZW85Uk9SZWtnclVZMHJxdFRMdWpMUlU1ZmVlbGJLb2ZsVFAwcExqbHhiY2ZfdGF4c1ItUG4yenFDSkloZDBnbnVQalU1OUtOMVpreVBQaDZtUzVWNWp1TW01dkR1LXRfU0h6bGdPa2dwLUtMTkZ6X1RvNUp3TVM0U3hmMHd1TmVzQmpTVHQwLVhnMEQ0YXlraw?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 01:56:00 GMT",
+      "source": "AP"
+    },
+    {
+      "title": "Samsung to inject $1 billion into Nvidia- and KKR-backed AI infrastructure firm",
+      "link": "https://www.cnbc.com/2026/09/29/samsung-investment-nvidia-kkr-ai-helix-digital.html",
+      "pubDate": "Tue, 29 Sep 2026 01:48:52 GMT",
+      "source": "CNBC"
     }
   ]
 }
