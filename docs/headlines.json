@@ -1,17 +1,53 @@
 {
-  "updated_at": "2026-10-03T15:02:18.960Z",
+  "updated_at": "2026-10-04T15:39:35.586Z",
   "items": [
     {
-      "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
-      "link": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
-      "pubDate": "2026-10-03T11:00:00-04:00",
+      "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+      "pubDate": "2026-10-04T11:21:59-04:00",
       "source": "The Verge"
     },
     {
-      "title": "An OpenAI safety employee has quit and is sounding the alarm",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
-      "pubDate": "2026-10-03T10:31:56-04:00",
+      "title": "A &apos;weird&apos; IPO pull, a tainted reputation and the stalled breakout moment for AI wearables",
+      "link": "https://www.cnbc.com/2026/10/04/ai-wearables-oura-ipo-privacy.html",
+      "pubDate": "Sun, 04 Oct 2026 13:22:39 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Scoop: A powerful new model from startup Reflection is set to shake up the AI race",
+      "link": "https://www.axios.com/2026/10/04/reflection-open-weight-ai",
+      "pubDate": "Sun, 04 Oct 2026 12:49:31 +0000",
+      "source": "Axios"
+    },
+    {
+      "title": "Trump names intelligence chief Clayton as AI czar, to head task force",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOczlKTmxkdnE3WHZpaWs1Y2V2dFJJOENfZkRRdjdCdGJBcXRqMFRWVlFKMGZWRDhlTXBiOTQxNUY1dDlSNlZYcXlmS1ZaaF9iWkJsek5QeTZ5V2txU0hOVnFXUE9EZHU1NE1XdldXV3FaQzAzcU9KZmZNcXhJMzVaVHdYV2tIUHVDdG5Cc1FMTjFHUHRvQzEtQmhFdDUwOXR3RlUwWlBDX3c5ZlNUMWZZd1BLcm12TWVWYWc?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 22:46:00 GMT",
+      "source": "Reuters"
+    },
+    {
+      "title": "OpenAI safety employee quits, says 'time for trial and error is over'",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPanBnbDA2SnluX0swT1ZpQ212VUNKRHh1T3d2Tmt0VDBieEtFVmh6blFFZEVCZlFLbjd4TnNYRnhacmtoSEdRTTFsbVdQN3RjRW5BTVd2NkJwdkdmcHNBa2czV3BZc19MYnJ1dkFvTkh1YXZQQkw1Zmtma2Y4Qm10RzlIUlhJS1ZSUHJnVVdTNlk1djVnNndqNXJBZ29hcEVJUmdkZTNWcklGWEF4TGtuZw?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 19:27:17 GMT",
+      "source": "Reuters"
+    },
+    {
+      "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+      "link": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+      "pubDate": "2026-10-03T12:49:10-04:00",
       "source": "The Verge"
+    },
+    {
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "pubDate": "Sat, 03 Oct 2026 16:30:01 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI's Altman: Ascribing religion to models a \"safety issue\"",
+      "link": "https://www.axios.com/2026/10/03/openai-anthropic-altman-amodei-religious-force-models",
+      "pubDate": "Sat, 03 Oct 2026 15:41:59 +0000",
+      "source": "Axios"
     },
     {
       "title": "All the AI agents that can live in your text messages",
@@ -38,22 +74,16 @@
       "source": "Reuters"
     },
     {
+      "title": "How the Smithsonian is using AI to connect artifacts from the American Revolution",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNV1E3VkVxR3RzcVFGdUU2ZDdTc2ZuTFZIM0J0YU12OS11LTV5SmVFN2hqeXRSZDB4emNOc0FFai1BMDBkVkxWQS12aks3S1FmbDdBWENpY3c5UV9XY2VsdDRJNW9nVEVpV1pTY0llQWFMa1QtaDNNeFpUYUdqTlJiWTZpWGNLYkhwcXdic2cxMW16OGVjNldDVkM0bjZBTWFiX1pscDNGX0g1RzAzVHVrWjg5YndYbnEyVGhMRmhfa2J2WEEteWZwTURoSVZzVDA?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 04:02:00 GMT",
+      "source": "AP"
+    },
+    {
       "title": "Sentence tossed in Arizona case where deceased victim was depicted speaking in AI-generated video",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMi16cTNZMjkxTF9idnl4aWhCSFExUG1uRm9INEJQT2JVM3h0bGRJUk9NaUtWRl9ZMHBmTl9QOE55OTN4NzRGNXd3dUJEbzA5UThHTXg2X2Z5aTE1UXN6QjdCUkN5VWdWQlpIeG1FV01lcUljU0lzYUdmUFUybWJMV0VaTUh0SndaOXdV?oc=5",
       "pubDate": "Fri, 02 Oct 2026 22:56:00 GMT",
       "source": "AP"
-    },
-    {
-      "title": "Apple says it will flag AI requests for Mac data after Meta's Muse draws complaints",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVjBOX2tiblNKM3pNUVJ2VzViQzZobDRCQk5pbk1Nai1vUlNDTG94a2JIRDNYSU96Mm1DTnZjWE5LbW9MbXh1RGtXUnEzRXJHOGx2Y1JmdlVBMGpuRGZkMUlZc0hGSUoxVTAyMWdpQmNPSndSTXFHVHhzMnRYaUdqdVY2NW5kY2l4V2IyN0pmNlgxR0JuUjdCRW5ZejBtU3NpdXhtdkJQNDE0c3k5b25wWXBHZE5tMjRnNU1leTJZZUJPWk0zOHZLdHhmNUl5OXBKLXlkNktR?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 22:43:45 GMT",
-      "source": "Reuters"
-    },
-    {
-      "title": "US appeals court blocks Minnesota law barring 'nudified' photos in XAI lawsuit",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNms5cTdHRjlXODJ0MXpMNUZXM3lmUzl5YlNmNHBRaTcwcXRjeEg5bXB0VFZhcktpaGFBcXpfNFhxVnp0MXEzLUVITzItc2NtSC1qLWhxUjN1ajJzWEFYczhmb1E5a2E3dFF3YjlWVDFocjdEelFxcENUR3Ftd29lejNvbWpsY3NsZU5zNk9feXhVdXFxcGotV1BUVVlJN0t5YUVkZzJiekpvM0t3Mk9DWlFR?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 21:14:00 GMT",
-      "source": "Reuters"
     },
     {
       "title": "Sean Parker is rebuilding Stability AI around music",
@@ -62,22 +92,10 @@
       "source": "TechCrunch"
     },
     {
-      "title": "Meta open sources code to let you make Muse AI gadgets",
-      "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
-      "pubDate": "2026-10-02T17:08:37-04:00",
-      "source": "The Verge"
-    },
-    {
       "title": "Anthropic to invest $100 million to train AI engineer talent",
       "link": "https://www.cnbc.com/2026/10/02/anthropic-to-invest-100-million-to-train-ai-engineer-talent.html",
       "pubDate": "Fri, 02 Oct 2026 21:03:06 GMT",
       "source": "CNBC"
-    },
-    {
-      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
-      "link": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
-      "pubDate": "2026-10-02T16:08:40-04:00",
-      "source": "The Verge"
     },
     {
       "title": "How AI is redefining Wall Street jobs — and boosting demand for this new &apos;hottest skill&apos; by 1,721%",
@@ -92,12 +110,6 @@
       "source": "TechCrunch"
     },
     {
-      "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
-      "pubDate": "2026-10-02T14:00:00-04:00",
-      "source": "The Verge"
-    },
-    {
       "title": "It&#8217;s not AI anymore, it&#8217;s ‘super intelligence’ (according to the White House)",
       "link": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
       "pubDate": "Fri, 02 Oct 2026 17:48:16 +0000",
@@ -110,16 +122,16 @@
       "source": "TechCrunch"
     },
     {
-      "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
-      "link": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
-      "pubDate": "Fri, 02 Oct 2026 17:00:00 +0000",
-      "source": "TechCrunch"
-    },
-    {
       "title": "AI campaign deepfakes are starting to draw legal threats",
       "link": "https://www.axios.com/2026/10/02/ai-deepfake-election-campaign-lawsuits",
       "pubDate": "Fri, 02 Oct 2026 16:38:21 +0000",
       "source": "Axios"
+    },
+    {
+      "title": "US hiring slows and unemployment ticks higher with a month remaining before Americans head to polls",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV3JiUTV3TldIc0JJUmgwMnBSUmxYZmlfT2pqSjg3UzV3SWRWZXZBbzF6U3I5MFJjZjJmS3dObzZ0SHJXTWVZaUNoR0U3MFpqdzhRZGpSbkFWa0RiT1ZONjd5SzRSS01iLWNRWEtGeHlTRzE0Qi1rbmgtclhMd0E0X21nTzhiNVE5blFIRHkxN3Yxb2pHWmk4b2I3aw?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 16:33:00 GMT",
+      "source": "AP"
     },
     {
       "title": "Trump expected to name intelligence chief Jay Clayton as new AI czar",
@@ -168,18 +180,6 @@
       "link": "https://www.cnbc.com/2026/10/02/ai-skills-most-in-demand-at-jpmorgan-chase-citigroup-capital-one.html",
       "pubDate": "Fri, 02 Oct 2026 11:03:31 GMT",
       "source": "CNBC"
-    },
-    {
-      "title": "Behind the Curtain: AI's existential legal crisis",
-      "link": "https://www.axios.com/2026/10/02/artificial-intelligence-ai-legal-liability",
-      "pubDate": "Fri, 02 Oct 2026 09:46:38 +0000",
-      "source": "Axios"
-    },
-    {
-      "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
-      "link": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
-      "pubDate": "Fri, 02 Oct 2026 09:45:00 +0000",
-      "source": "Wired"
     }
   ]
 }
