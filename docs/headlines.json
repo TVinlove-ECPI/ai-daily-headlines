@@ -1,77 +1,167 @@
 {
-  "updated_at": "2026-10-08T17:41:49.012Z",
+  "updated_at": "2026-10-09T17:17:05.024Z",
   "items": [
     {
-      "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
-      "pubDate": "2026-10-08T13:00:00-04:00",
+      "title": "We can&#8217;t help treating AI like it&#8217;s human. But should we?",
+      "link": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+      "pubDate": "Fri, 09 Oct 2026 16:40:14 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "a16z’s Olivia Moore on the state of consumer AI",
+      "link": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
+      "pubDate": "Fri, 09 Oct 2026 15:43:33 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The AI is in the computer",
+      "link": "https://www.theverge.com/podcast/1008707/amazon-alexa-tablet-googlebooks-apple-vergecast",
+      "pubDate": "2026-10-09T11:10:12-04:00",
       "source": "The Verge"
     },
     {
-      "title": "Natura’s $99 smart ring puts AI agents on your finger",
-      "link": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
-      "pubDate": "Thu, 08 Oct 2026 16:00:00 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
-      "link": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
-      "pubDate": "Thu, 08 Oct 2026 16:00:00 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Google’s AI note-taking app transcribes your meetings completely offline",
-      "link": "https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline",
-      "pubDate": "2026-10-08T11:27:30-04:00",
+      "title": "Trump’s attempt to rename AI is looking awfully artificial",
+      "link": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
+      "pubDate": "2026-10-09T10:25:43-04:00",
       "source": "The Verge"
     },
     {
-      "title": "Google Cloud introduces Gemini agent for work as AI race heats up",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSlVSeTZYa0pSOFppNk9GdFF0Y0VZa19lYnRKTjRXb0FpZUhaTlBEUmRLUW04N3E1azhGalpULTNwN2Y0SnhFWGhOTktSdTVMMTJDc2VRX013NGNuSzJYRGxiWVJyU2dzS0lGdGN4YXlxQzR3TWl0eVQwbjFKWW5JVG1kQXdJYVVwd2J2OTZ5NDZYT0JQM09Ycmt2amRmekhNWTBfR0pR?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 15:11:43 GMT",
-      "source": "Reuters"
+      "title": "AI agents like Muse can shop for you. Here&apos;s what that means for retail stocks",
+      "link": "https://www.cnbc.com/investingclub/2026/10/09/ai-agents-could-soon-shop-for-consumers-what-it-means-for-retail-stocks.html",
+      "pubDate": "Fri, 09 Oct 2026 14:15:38 GMT",
+      "source": "CNBC"
     },
     {
-      "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/",
-      "pubDate": "Thu, 08 Oct 2026 15:00:00 +0000",
+      "title": "Instinct was the buzziest AI agent around — can it survive Muse?",
+      "link": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
+      "pubDate": "2026-10-09T10:00:00-04:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "OpenAI and Anthropic poach Trump officials as industry fights for Washington’s trust",
+      "link": "https://www.cnbc.com/2026/10/09/openai-anthropic-poach-trump-officials.html",
+      "pubDate": "Fri, 09 Oct 2026 13:49:54 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "OpenAI&apos;s revenue scare, Delta earnings, what investors think of a Starbucks-Chipotle deal and more in Morning Squawk",
+      "link": "https://www.cnbc.com/2026/10/09/5-things-to-know-before-the-stock-market-opens.html",
+      "pubDate": "Fri, 09 Oct 2026 12:40:30 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "AI vs. the rest of the economy",
+      "link": "https://www.axios.com/2026/10/09/ai-stocks-economy-bonds",
+      "pubDate": "Fri, 09 Oct 2026 11:15:12 +0000",
+      "source": "Axios"
+    },
+    {
+      "title": "OpenAI fires 3 safety researchers in dispute over AI risks",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeXd0ajg4X1FXUWl6RlZveHMwZFE1dHhJLWt6QThySlhMOWo5Ri1tbm52WV82MXpwODB1LWhnZ0hKYlp2dEduTmJRdVg4YWV1Z2pPMjJKT2JZUGpaSW5IaG1mVDhHNG4zZmplNlRjY3dma1hUajFUUVlrUkhuU3VncEpESno2NTQ5U2FuSW5UUng3SVpuS2NxVUtKWHV4UTVzLVF6V2RUWlBJcm0z?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 11:06:00 GMT",
+      "source": "AP"
+    },
+    {
+      "title": "Anthropic’s Quest to Give A.I. Morals",
+      "link": "https://www.nytimes.com/2026/10/09/podcasts/hardfork-anthropic-ai-morals.html",
+      "pubDate": "Fri, 09 Oct 2026 11:01:21 +0000",
+      "source": "The New York Times"
+    },
+    {
+      "title": "OpenAI defends decision to fire researchers: &apos;These decisions were not about raising safety concerns or speaking out&apos;",
+      "link": "https://www.cnbc.com/2026/10/09/openai-fired-researchers-ai-concerns.html",
+      "pubDate": "Fri, 09 Oct 2026 10:12:53 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Even ‘Law & Order’ Is Terrified of AI",
+      "link": "https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/",
+      "pubDate": "Fri, 09 Oct 2026 10:00:00 +0000",
+      "source": "Wired"
+    },
+    {
+      "title": "Scoop: AI companies plot \"day after\" scenarios for public revolt",
+      "link": "https://www.axios.com/2026/10/09/ai-companies-day-after-major-attack",
+      "pubDate": "Fri, 09 Oct 2026 09:30:11 +0000",
+      "source": "Axios"
+    },
+    {
+      "title": "Iranian campaign planted fake articles in real U.S. publications using ChatGPT",
+      "link": "https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/",
+      "pubDate": "Fri, 09 Oct 2026 09:00:00 +0000",
+      "source": "The Washington Post"
+    },
+    {
+      "title": "A US charity plans to use AI to monitor its Gaza classrooms for ‘hateful’ speech",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdldvRXFLLUlXaVhvU2FPSmhWM2t2V2x3cXlLSjhOQ19xOFZra0ZoaWxyakxpaURmdk5hYWI0amZGcU5FcFZBTXBTWXQ2UTlrMEo3TTFtcUxpcEhTZHRlZDlBVGRGYjJyUDVyOC15d0JXcEE2WUZ4RXRzZ2E2UjlqcVpONFdyeWN1YXQ1ZGdXTEdXNVNXcjh4SC1vb2FoS05v?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 05:12:00 GMT",
+      "source": "AP"
+    },
+    {
+      "title": "Nvidia-backed Aussie AI firm Firmus withdraws historic IPO, citing market volatility",
+      "link": "https://www.cnbc.com/2026/10/09/nvidia-ai-firmus-ipo-.html",
+      "pubDate": "Fri, 09 Oct 2026 03:51:15 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "OpenAI caught Russians and Iranians using ChatGPT for influence campaigns",
+      "link": "https://www.npr.org/2026/10/08/nx-s1-5995576/openai-russia-iran-influence-operations-chatgpt",
+      "pubDate": "Thu, 08 Oct 2026 20:25:15 -0400",
+      "source": "NPR"
+    },
+    {
+      "title": "Cramer says Thursday&apos;s AI sell-off proves the value of this age-old investing strategy",
+      "link": "https://www.cnbc.com/2026/10/08/jim-cramer-diversification-ai-selloff.html",
+      "pubDate": "Thu, 08 Oct 2026 22:15:53 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "pubDate": "Thu, 08 Oct 2026 20:04:26 +0000",
       "source": "TechCrunch"
     },
     {
-      "title": "Cal AI&#8217;s 19-year-old founder just raised $10M for his new AI startup",
-      "link": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
-      "pubDate": "Thu, 08 Oct 2026 14:00:00 +0000",
+      "title": "She Designed Meta’s New AI Logo. Then Came the Hate",
+      "link": "https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/",
+      "pubDate": "Thu, 08 Oct 2026 19:30:00 +0000",
+      "source": "Wired"
+    },
+    {
+      "title": "Exclusive: Anthropic's plan to protect critical infrastructure",
+      "link": "https://www.axios.com/2026/10/08/anthropic-critical-infrastructure-cybersecurity",
+      "pubDate": "Thu, 08 Oct 2026 19:00:18 +0000",
+      "source": "Axios"
+    },
+    {
+      "title": "Trump: Anyone saying \"AI\" is \"THE ENEMY!\" The White House uses it",
+      "link": "https://www.axios.com/2026/10/08/trump-ai-super-intelligence-white-house",
+      "pubDate": "Thu, 08 Oct 2026 18:31:40 +0000",
+      "source": "Axios"
+    },
+    {
+      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+      "link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+      "pubDate": "Thu, 08 Oct 2026 18:20:32 +0000",
       "source": "TechCrunch"
     },
     {
-      "title": "Manus raises more than $500 million after Meta exit",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM19QMGxMbHEyNl9LOEZ3SEVXSzIwMjFIRjFUQnltV0NKQzFWNVVsMUxLTllTTlhxLXNiMDRhWFE3amxDckJ5b3JRQjZoTFQtT1FpNEN0NEFhLUxCWFdlMTduWUxIU1dYQnRLRER3Vkt0NTBkWDlINEpza2t6U0kteElzU2FTOTFTYmRaZjNtUmtyVTVlLWE0TVFEN05jRU0?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 13:55:34 GMT",
-      "source": "Reuters"
-    },
-    {
-      "title": "PODCAST: AI on credit",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HSFdVQ1ZGS2ozcS05OGNzYWUzWGg3TGFBWnAwNElkbjN3dGpISkZXN29KQmFteWllN01HTjFqeDBUcHd3aFRyN0lfQ1QwVmxfTmRXS2pLVmJrTmt2RUJoTWdwamtETUhzcGJyZEpSN21TT3R6NjBnMGtONTNucm8?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 13:38:15 GMT",
-      "source": "Reuters"
-    },
-    {
-      "title": "GlobalFoundries to make key AI chip component for TSMC in $2 billion deal",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNWtrQ0tHODFtaXl1NlEybzVfUzhkVUxXWWl0V1pSYTZ2VENWX2ZYc3pZZWVrc0thclRQbkNmaUxJOEpIZzlvZ19CbEJIdkM1c21HemxmMXdhdXZzNWE0NEFwdUdpbnM1cWRWR3hPZ1BBVFRPNlBmTkV4RWlCUDhiZnNXSnhlTFFFXzdnaDZYSURhV1pKVWdsNERRbHRJSWowOHVRMg?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 13:01:36 GMT",
-      "source": "Reuters"
-    },
-    {
-      "title": "Uber and China&#8217;s Pony.ai plan to launch robotaxis in London",
-      "link": "https://techcrunch.com/2026/10/08/uber-and-chinas-pony-ai-plan-to-launch-robotaxis-in-london/",
-      "pubDate": "Thu, 08 Oct 2026 12:53:39 +0000",
+      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+      "link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+      "pubDate": "Thu, 08 Oct 2026 18:19:45 +0000",
       "source": "TechCrunch"
     },
     {
-      "title": "Nvidia-backed Upscale AI launches platform to connect chips from rival suppliers",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeGdkZHlKUjgwWHQ4eXRUaTJZeFZBQkFLaENBNFYxTUh5SVFkaWNfVGh3MUtrcGdKYjZhWk03QlV1WV8zYmxkbl9fLVRIa0xwWlczbVRwVlRFUGZwMXFwM2lRck5BVmVhQ3JmVzNZS3U0OUpuLVdLU04wVVlkNE9jN2IyRW9YY0pla283VmJBa3FpVm5zX2xaQkw0X3JCcUx1djhraTRVTEQzeGJtNzZKQ3hLTHRRSUEt?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 12:01:28 GMT",
-      "source": "Reuters"
+      "title": "OpenAI&#8217;s revenue is reportedly $20 billion less than previously projected",
+      "link": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+      "pubDate": "Thu, 08 Oct 2026 18:19:42 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "WTO raises merchandise trade growth forecast to 3.9% as AI boom offsets hit from Middle East",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT29DTVZWRnEtaV9YWFQ2TGJfVXJKUDhKclVhOWU3N0JxbWtVbENIRUJJUGV4VFNXRTZmeHdfMW1vbmZKOFV4SGJieDZNV04wS3hzMHZpSTFFYWprNUw3eXktNzJBaTI3MDBtbUxBRkxKT2hUNjhnR3ZocDlFWjZVVW0xN2kzUHU5bXFBUnlNRzdGdS1YZjRjTQ?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 14:53:00 GMT",
+      "source": "AP"
     },
     {
       "title": "Here’s an idea to help workers displaced by AI",
@@ -80,15 +170,9 @@
       "source": "The Washington Post"
     },
     {
-      "title": "Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip",
-      "link": "https://www.cnbc.com/2026/10/07/microsoft-starts-taking-preorders-for-2599-surface-laptop-ultra.html",
-      "pubDate": "Thu, 08 Oct 2026 11:49:39 GMT",
-      "source": "CNBC"
-    },
-    {
       "title": "Most Americans think artificial intelligence is developing too fast, a new AP-NORC poll finds",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUktxTDdUVUhnU0ZOdmxHY2NwODkxQzNhQmlRVlZJclBpbmF1TzdKVktxVjFNUTdJdGhCdmNMVmdteTRVUkV5eEZRNmtMSDFxWTN3Y2tFUFhLZndYeWpJZFg5ZUZyemY3SU9VMGxwVmxka1FOdXJMNmNxWGwxNXRENGswdGFObVM3Rnk4Vy1DeGdKYWlJSE9LLS1BY01mN05DUzRRTzhCYkZyS284TmtYb2E2ZmR4bHAxWFhn?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 10:56:55 GMT",
+      "pubDate": "Thu, 08 Oct 2026 10:23:00 GMT",
       "source": "AP"
     },
     {
@@ -96,90 +180,6 @@
       "link": "https://www.axios.com/2026/10/08/openai-math-proofs-ai-model",
       "pubDate": "Thu, 08 Oct 2026 09:20:05 +0000",
       "source": "Axios"
-    },
-    {
-      "title": "Dutch firm uses AI to help drone systems 'talk' on Ukraine's battlefield",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNXZJQ083ancxS1lGeXhhV0w2Xy1CaU1md0IxdGlhdklJMnFpcUNfVW9jbjNIT3NxaVFVcHhIcTY1a1lHUUkwenkyQWdCMjBkeTliVkxKcGRzOGppNkhTZUJlbUtfZnRYTFNTb1dTWnAyb2Jua2YzeDVOTU9PS242dF9LUnZiaENXc2J6RDRnbHNUR0tYMHlYbVZsRG1xSXVSWXdwNnQ4TUc5b1FlbVFrbzJyTzltemo4YmtESk5GUHhoUi16b3c4WA?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 09:06:09 GMT",
-      "source": "Reuters"
-    },
-    {
-      "title": "AI startup Manus raises $500 million in first funding round since Meta breakup",
-      "link": "https://www.cnbc.com/2026/10/08/manus-fund-raise-meta-muse-tencent.html",
-      "pubDate": "Thu, 08 Oct 2026 06:59:59 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "TSMC’s September sales surge year-over-year as AI drives chip demand",
-      "link": "https://www.cnbc.com/2026/10/08/tsmc-september-sales-hit-another-record-as-ai-boom-rolls-on.html",
-      "pubDate": "Thu, 08 Oct 2026 06:50:42 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "Samsung forecasts record third-quarter profit of $80 billion as AI boom fuels chip demand",
-      "link": "https://www.cnbc.com/2026/10/08/samsung-q3-earnings.html",
-      "pubDate": "Thu, 08 Oct 2026 00:51:23 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
-      "link": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
-      "pubDate": "Wed, 07 Oct 2026 23:36:57 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Anthropic will be &apos;most ridiculous IPO&apos; of year, analyst says",
-      "link": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
-      "pubDate": "Wed, 07 Oct 2026 22:29:41 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "Cramer says higher rates are splitting the market in two — and AI stocks have a big advantage",
-      "link": "https://www.cnbc.com/2026/10/07/jim-cramer-spacex-wall-street-bull-case.html",
-      "pubDate": "Wed, 07 Oct 2026 22:22:32 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "OpenAI releases progress on more than 300 math research problems, stunning humans",
-      "link": "https://www.washingtonpost.com/technology/2026/10/07/openai-releases-progress-more-than-300-math-research-problems/",
-      "pubDate": "Wed, 07 Oct 2026 21:15:00 +0000",
-      "source": "The Washington Post"
-    },
-    {
-      "title": "FCC considers allowing more political robocalls before midterms, including those created with AI",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONks5NWxRYXVEQkpDOGM0bjg4Rk5IUC1ta25EY1NZYVlZN3ZGdTdLX1ZzVTg1UnQxbzhFdmhUb09DQmU3bndneU11WjBISFRNMHpyNFRKUVd1UXJhRjlGMDl6QW9JZi1zS1JMRXhZMlR4Wm1mWWprUGE0UF9ieUhnQ0k5U2pKVWFsWFVnNHQ2aG81ZWk0MjVOY1YtbFpmdjB1bjZuMTVUcHlRQWpBWjhIMUVoWFhvdWNmSHlV?oc=5",
-      "pubDate": "Wed, 07 Oct 2026 20:33:00 GMT",
-      "source": "AP"
-    },
-    {
-      "title": "Exclusive: Inside Trump's AI science summit",
-      "link": "https://www.axios.com/2026/10/07/exclusive-inside-trumps-ai-science-summit",
-      "pubDate": "Wed, 07 Oct 2026 19:00:06 +0000",
-      "source": "Axios"
-    },
-    {
-      "title": "These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out",
-      "link": "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/",
-      "pubDate": "Wed, 07 Oct 2026 18:45:00 +0000",
-      "source": "Wired"
-    },
-    {
-      "title": "Microsoft looks to reboot the AI PC with Nvidia",
-      "link": "https://www.axios.com/2026/10/07/microsoft-looks-to-reboot-the-ai-pc-with-nvidia",
-      "pubDate": "Wed, 07 Oct 2026 18:23:48 +0000",
-      "source": "Axios"
-    },
-    {
-      "title": "The New ChatGPT Is More Show Than Tell",
-      "link": "https://www.wired.com/story/openai-chatgpt-intelligent-ui-is-more-show-than-tell/",
-      "pubDate": "Wed, 07 Oct 2026 18:00:00 +0000",
-      "source": "Wired"
-    },
-    {
-      "title": "IMF chief urges countries to do more to curb debt and regulate AI",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeGlYd1paclZIMDZVcEI4cnpyY2pZdHFCSnJHQWJUMmc5eU5DbnE3Qm5HY2NLM2NlaDhGbFFsV3l6d19EQkd3dF9hdnNqajgxTHk2YjFBYWhPR09fbDZGSDFBQmVLd3lOdVlLenY0eFVvYndneWRTQXl1eE5xOWM4NUlrTnZzRlQ4MzFxTkdmbzdrY28?oc=5",
-      "pubDate": "Wed, 07 Oct 2026 17:59:00 GMT",
-      "source": "AP"
     }
   ]
 }
