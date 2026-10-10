@@ -1,6 +1,120 @@
 {
-  "updated_at": "2026-10-09T17:17:05.024Z",
+  "updated_at": "2026-10-10T16:05:31.281Z",
   "items": [
+    {
+      "title": "Stocks saw new highs and big declines: How the volatile AI trade moved last week&apos;s market",
+      "link": "https://www.cnbc.com/investingclub/2026/10/10/stocks-saw-new-highs-and-big-declines-how-the-volatile-ai-trade-moved-last-weeks-market.html",
+      "pubDate": "Sat, 10 Oct 2026 15:30:51 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Anthropic is cutting off its internal evaluations from the internet",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+      "pubDate": "2026-10-10T10:41:16-04:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Here are the top AI agents that can live in your text messages",
+      "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "pubDate": "Sat, 10 Oct 2026 14:00:00 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "AI agent makers are promising privacy — will they deliver?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+      "pubDate": "2026-10-10T09:00:00-04:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Hollywood takes on Zuckerberg, Musk and Altman amid widespread anxiety over AI",
+      "link": "https://www.cnbc.com/2026/10/10/ai-movies-tech-ceos-hollywood.html",
+      "pubDate": "Sat, 10 Oct 2026 12:00:01 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "AI Is Getting Really Good at Messing With Cybercriminals",
+      "link": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
+      "pubDate": "Sat, 10 Oct 2026 12:00:00 +0000",
+      "source": "Wired"
+    },
+    {
+      "title": "Ex-OpenAI safety lead David Robinson warns of &apos;broken&apos; tech culture",
+      "link": "https://www.npr.org/2026/10/10/nx-s1-5992872/ex-openai-safety-lead-david-robinson-warns-of-broken-tech-culture",
+      "pubDate": "Sat, 10 Oct 2026 07:40:46 -0400",
+      "source": "NPR"
+    },
+    {
+      "title": "My brief romance with an AI bird feeder",
+      "link": "https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too",
+      "pubDate": "2026-10-10T03:00:00-04:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "AI is changing how lawyers work — and putting the billable hour under pressure",
+      "link": "https://www.cnbc.com/2026/10/10/ai-lawyers-billable-hour-legal-careers.html",
+      "pubDate": "Sat, 10 Oct 2026 05:00:01 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website",
+      "link": "https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html",
+      "pubDate": "Sat, 10 Oct 2026 01:19:55 +0000",
+      "source": "The New York Times"
+    },
+    {
+      "title": "Anthropic can&#8217;t reliably control its AI agents. It&#8217;s cutting off its internal evals from the live internet instead",
+      "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "pubDate": "Sat, 10 Oct 2026 00:18:32 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Anthropic AI agents took ‘unintended’ actions on government sites",
+      "link": "https://www.washingtonpost.com/technology/2026/10/09/anthropic-discloses-incidents-its-ai-models-misusing-government-sites/",
+      "pubDate": "Fri, 09 Oct 2026 23:22:49 +0000",
+      "source": "The Washington Post"
+    },
+    {
+      "title": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOd1RmaEFMYlkxNEZMMFBaYmd6dlMxMkpXSW9rTDA2TVMxeHBDOFlJVjZPOE4zOWhCRUx5ZUVxcTdBQnhHd2c5TzJzQ25SQ2Y4SnhBb1I2M01Ndmh5V2NNMFFHODhlSHZVUHBCeUYzdUxDVFc5dlc1cFhYWkVFVVRjdWlEeExfbmJCZWhZLWJyMmFhM0l1TVJhd3RyamJoU1d5WFA1Z2NQSEw3bWtBc1h5SVhINEVMRmFRenVYRi12QkhaRlhJYWI0RHJGU1M?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 22:27:00 GMT",
+      "source": "Reuters"
+    },
+    {
+      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "pubDate": "Fri, 09 Oct 2026 21:41:29 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Fired OpenAI employees question the company&apos;s commitment to safety",
+      "link": "https://www.npr.org/2026/10/09/nx-s1-5996890/openai-safety-firings",
+      "pubDate": "Fri, 09 Oct 2026 17:28:09 -0400",
+      "source": "NPR"
+    },
+    {
+      "title": "AI system submits false homicide tip to Philadelphia police",
+      "link": "https://www.washingtonpost.com/technology/2026/10/09/ai-system-submits-false-homicide-tip-philadelphia-police/",
+      "pubDate": "Fri, 09 Oct 2026 21:15:00 +0000",
+      "source": "The Washington Post"
+    },
+    {
+      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "pubDate": "Fri, 09 Oct 2026 19:36:56 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
+      "link": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
+      "pubDate": "Fri, 09 Oct 2026 19:28:49 +0000",
+      "source": "Wired"
+    },
+    {
+      "title": "Anthropic discloses fake tip to police among new rogue AI incidents",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUzh0MDhsc3I0ZzFCYTc4V0U4Nlk3WDVkX3ppUW5ZdzBJZTlGSGcxYUUtVThoRF9JZ24tLWhEaEQxRVFjWnRJU28wWVRkYVpRU09pdnBtZnFTdTZuM29vTjBURkdla0Z0N0ozSm8xemVKeXNyNjNDVGhCcWI0VDhPLUZUM1RiWVRGYXRXZ2JGSjRhYS04RGVjQUZ0dGlRN3NHeDA0OVcwQk4?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 19:21:00 GMT",
+      "source": "Reuters"
+    },
     {
       "title": "We can&#8217;t help treating AI like it&#8217;s human. But should we?",
       "link": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
@@ -14,28 +128,10 @@
       "source": "TechCrunch"
     },
     {
-      "title": "The AI is in the computer",
-      "link": "https://www.theverge.com/podcast/1008707/amazon-alexa-tablet-googlebooks-apple-vergecast",
-      "pubDate": "2026-10-09T11:10:12-04:00",
-      "source": "The Verge"
-    },
-    {
-      "title": "Trump’s attempt to rename AI is looking awfully artificial",
-      "link": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
-      "pubDate": "2026-10-09T10:25:43-04:00",
-      "source": "The Verge"
-    },
-    {
       "title": "AI agents like Muse can shop for you. Here&apos;s what that means for retail stocks",
       "link": "https://www.cnbc.com/investingclub/2026/10/09/ai-agents-could-soon-shop-for-consumers-what-it-means-for-retail-stocks.html",
       "pubDate": "Fri, 09 Oct 2026 14:15:38 GMT",
       "source": "CNBC"
-    },
-    {
-      "title": "Instinct was the buzziest AI agent around — can it survive Muse?",
-      "link": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
-      "pubDate": "2026-10-09T10:00:00-04:00",
-      "source": "The Verge"
     },
     {
       "title": "OpenAI and Anthropic poach Trump officials as industry fights for Washington’s trust",
@@ -48,6 +144,12 @@
       "link": "https://www.cnbc.com/2026/10/09/5-things-to-know-before-the-stock-market-opens.html",
       "pubDate": "Fri, 09 Oct 2026 12:40:30 GMT",
       "source": "CNBC"
+    },
+    {
+      "title": "AI-related companies to drive most third-quarter US earnings gains",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNWN6RHkzeE9oNGpRQTJpQjZNamoyTS01YldNYndxS0c3ZEhYcGREZHkwN1o0aFRsVWJfOEU5dEZDWDVRUFdDUDlVenBlVGtOSG93MkJfLXp3UThXaFFKQ2x2ekVkMmdTMUxKV0tQd3pOekN0UGc3dFpURTU3NUpQS1RJR0V2MmVoSjFiTUJfbk1HMmhQZHhKN0R0ME5iUmhtV2tNWlkzY3JYNFVa?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 11:44:55 GMT",
+      "source": "Reuters"
     },
     {
       "title": "AI vs. the rest of the economy",
@@ -68,12 +170,6 @@
       "source": "The New York Times"
     },
     {
-      "title": "OpenAI defends decision to fire researchers: &apos;These decisions were not about raising safety concerns or speaking out&apos;",
-      "link": "https://www.cnbc.com/2026/10/09/openai-fired-researchers-ai-concerns.html",
-      "pubDate": "Fri, 09 Oct 2026 10:12:53 GMT",
-      "source": "CNBC"
-    },
-    {
       "title": "Even ‘Law & Order’ Is Terrified of AI",
       "link": "https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/",
       "pubDate": "Fri, 09 Oct 2026 10:00:00 +0000",
@@ -83,102 +179,6 @@
       "title": "Scoop: AI companies plot \"day after\" scenarios for public revolt",
       "link": "https://www.axios.com/2026/10/09/ai-companies-day-after-major-attack",
       "pubDate": "Fri, 09 Oct 2026 09:30:11 +0000",
-      "source": "Axios"
-    },
-    {
-      "title": "Iranian campaign planted fake articles in real U.S. publications using ChatGPT",
-      "link": "https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/",
-      "pubDate": "Fri, 09 Oct 2026 09:00:00 +0000",
-      "source": "The Washington Post"
-    },
-    {
-      "title": "A US charity plans to use AI to monitor its Gaza classrooms for ‘hateful’ speech",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdldvRXFLLUlXaVhvU2FPSmhWM2t2V2x3cXlLSjhOQ19xOFZra0ZoaWxyakxpaURmdk5hYWI0amZGcU5FcFZBTXBTWXQ2UTlrMEo3TTFtcUxpcEhTZHRlZDlBVGRGYjJyUDVyOC15d0JXcEE2WUZ4RXRzZ2E2UjlqcVpONFdyeWN1YXQ1ZGdXTEdXNVNXcjh4SC1vb2FoS05v?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 05:12:00 GMT",
-      "source": "AP"
-    },
-    {
-      "title": "Nvidia-backed Aussie AI firm Firmus withdraws historic IPO, citing market volatility",
-      "link": "https://www.cnbc.com/2026/10/09/nvidia-ai-firmus-ipo-.html",
-      "pubDate": "Fri, 09 Oct 2026 03:51:15 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "OpenAI caught Russians and Iranians using ChatGPT for influence campaigns",
-      "link": "https://www.npr.org/2026/10/08/nx-s1-5995576/openai-russia-iran-influence-operations-chatgpt",
-      "pubDate": "Thu, 08 Oct 2026 20:25:15 -0400",
-      "source": "NPR"
-    },
-    {
-      "title": "Cramer says Thursday&apos;s AI sell-off proves the value of this age-old investing strategy",
-      "link": "https://www.cnbc.com/2026/10/08/jim-cramer-diversification-ai-selloff.html",
-      "pubDate": "Thu, 08 Oct 2026 22:15:53 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-      "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-      "pubDate": "Thu, 08 Oct 2026 20:04:26 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "She Designed Meta’s New AI Logo. Then Came the Hate",
-      "link": "https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/",
-      "pubDate": "Thu, 08 Oct 2026 19:30:00 +0000",
-      "source": "Wired"
-    },
-    {
-      "title": "Exclusive: Anthropic's plan to protect critical infrastructure",
-      "link": "https://www.axios.com/2026/10/08/anthropic-critical-infrastructure-cybersecurity",
-      "pubDate": "Thu, 08 Oct 2026 19:00:18 +0000",
-      "source": "Axios"
-    },
-    {
-      "title": "Trump: Anyone saying \"AI\" is \"THE ENEMY!\" The White House uses it",
-      "link": "https://www.axios.com/2026/10/08/trump-ai-super-intelligence-white-house",
-      "pubDate": "Thu, 08 Oct 2026 18:31:40 +0000",
-      "source": "Axios"
-    },
-    {
-      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
-      "link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
-      "pubDate": "Thu, 08 Oct 2026 18:20:32 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-      "link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-      "pubDate": "Thu, 08 Oct 2026 18:19:45 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "OpenAI&#8217;s revenue is reportedly $20 billion less than previously projected",
-      "link": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
-      "pubDate": "Thu, 08 Oct 2026 18:19:42 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "WTO raises merchandise trade growth forecast to 3.9% as AI boom offsets hit from Middle East",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT29DTVZWRnEtaV9YWFQ2TGJfVXJKUDhKclVhOWU3N0JxbWtVbENIRUJJUGV4VFNXRTZmeHdfMW1vbmZKOFV4SGJieDZNV04wS3hzMHZpSTFFYWprNUw3eXktNzJBaTI3MDBtbUxBRkxKT2hUNjhnR3ZocDlFWjZVVW0xN2kzUHU5bXFBUnlNRzdGdS1YZjRjTQ?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 14:53:00 GMT",
-      "source": "AP"
-    },
-    {
-      "title": "Here’s an idea to help workers displaced by AI",
-      "link": "https://www.washingtonpost.com/technology/2026/10/08/think-tank-says-federal-tax-tweak-could-help-offset-ai-job-losses/",
-      "pubDate": "Thu, 08 Oct 2026 12:00:00 +0000",
-      "source": "The Washington Post"
-    },
-    {
-      "title": "Most Americans think artificial intelligence is developing too fast, a new AP-NORC poll finds",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUktxTDdUVUhnU0ZOdmxHY2NwODkxQzNhQmlRVlZJclBpbmF1TzdKVktxVjFNUTdJdGhCdmNMVmdteTRVUkV5eEZRNmtMSDFxWTN3Y2tFUFhLZndYeWpJZFg5ZUZyemY3SU9VMGxwVmxka1FOdXJMNmNxWGwxNXRENGswdGFObVM3Rnk4Vy1DeGdKYWlJSE9LLS1BY01mN05DUzRRTzhCYkZyS284TmtYb2E2ZmR4bHAxWFhn?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 10:23:00 GMT",
-      "source": "AP"
-    },
-    {
-      "title": "OpenAI's math breakthrough points beyond math",
-      "link": "https://www.axios.com/2026/10/08/openai-math-proofs-ai-model",
-      "pubDate": "Thu, 08 Oct 2026 09:20:05 +0000",
       "source": "Axios"
     }
   ]
