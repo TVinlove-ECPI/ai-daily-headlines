@@ -1,6 +1,102 @@
 {
-  "updated_at": "2026-10-10T16:05:31.281Z",
+  "updated_at": "2026-10-11T16:30:41.276Z",
   "items": [
+    {
+      "title": "AI’s quiet safety gatekeepers are stepping into the spotlight",
+      "link": "https://www.cnbc.com/2026/10/11/ais-quiet-safety-gatekeepers-are-stepping-into-the-spotlight.html",
+      "pubDate": "Sun, 11 Oct 2026 14:08:44 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "These execs think voice AI hasn&#8217;t reached its ChatGPT moment yet",
+      "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+      "pubDate": "Sun, 11 Oct 2026 14:00:00 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "AI is automating coding. So why are software developer job postings on the rise?",
+      "link": "https://www.cnbc.com/2026/10/11/ai-software-developer-jobs.html",
+      "pubDate": "Sun, 11 Oct 2026 13:30:01 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "I Made Terrible Games With Google’s AI Playground",
+      "link": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
+      "pubDate": "Sun, 11 Oct 2026 11:30:00 +0000",
+      "source": "Wired"
+    },
+    {
+      "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+      "pubDate": "2026-10-11T07:00:00-04:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "AI may change the price of your Big Mac and groceries — what this means for shoppers",
+      "link": "https://www.cnbc.com/2026/10/11/ai-dynamic-pricing-shoppers-groceries.html",
+      "pubDate": "Sun, 11 Oct 2026 05:00:01 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "In Silicon Valley, AI founders cheer Trump’s calls for the industry to police itself on safety",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPX291RmlBcG5lT01mbXhCeFVFUGRkaVppc1FBcjEzU1J4NlVsdng1ZnZTaS04VmFIV2xRNDhzRGY2MVJhMTMzUm50bDRBYVpFSnlNMjE1R2o1Z2cxU1lxeWhiSWhIbjlrbDhQblZ6dmFLVFRhYzlVWDIyY1JoOFhaQXBqaC1xbWdKSy1kWVBGYw?oc=5",
+      "pubDate": "Sun, 11 Oct 2026 03:03:00 GMT",
+      "source": "AP"
+    },
+    {
+      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "pubDate": "2026-10-10T18:10:17-04:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+      "pubDate": "Sat, 10 Oct 2026 21:47:51 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "For reporters covering AI, keeping up with story is both tough and exciting",
+      "link": "https://www.npr.org/2026/10/10/nx-s1-5994366/for-reporters-covering-ai-keeping-up-with-story-is-both-tough-and-exciting",
+      "pubDate": "Sat, 10 Oct 2026 17:47:03 -0400",
+      "source": "NPR"
+    },
+    {
+      "title": "What are they saying about AI at San Francisco Tech Week?",
+      "link": "https://www.npr.org/2026/10/10/nx-s1-5995420/what-are-they-saying-about-ai-at-san-francisco-tech-week",
+      "pubDate": "Sat, 10 Oct 2026 17:27:04 -0400",
+      "source": "NPR"
+    },
+    {
+      "title": "Microsoft&apos;s Nadella says AI needs an ‘emergency brake’ that humans control",
+      "link": "https://www.cnbc.com/2026/10/10/microsoft-satya-nadella-ai-emergency-brake-safety.html",
+      "pubDate": "Sat, 10 Oct 2026 20:59:28 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Nvidia in talks to invest further in Reflection AI or buy it, FT reports",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQXpmTnVsdlhWdUt0a0hnSUg1YUVoRWNhT2JSQ24yeHFvRWVPdG5SNzNsWkNLVS0zbng0UWZrMS1zaGtXRmNzRThMamRUNXJPUGRwX09vN2J0dXFSUW9ZSThFeGZ6bTg5bnFqVVktSk91RzBNMkN0MGFOX2FSSEFZMzZ4TXhMb1dsc1hpLUwtY1pmeERoMnE0M2llTEI0X1V2cGxRc1UtMnpYUmc?oc=5",
+      "pubDate": "Sat, 10 Oct 2026 19:33:44 GMT",
+      "source": "Reuters"
+    },
+    {
+      "title": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website",
+      "link": "https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html",
+      "pubDate": "Sat, 10 Oct 2026 18:01:21 +0000",
+      "source": "The New York Times"
+    },
+    {
+      "title": "A timeline of developments in AI safety since the attack on Hugging Face",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaUdUMlp0Z0xkQTl3clhkT2VWYy1EclBLWWpQOGJJc1Bad2xkdTk5eGR3YmdEUC1EZmtibnFZREhkV1BzLURrTlNkbnRDVDRqS1RrUHFhRy1TSGRpeWVldEtfbG1GY2YtQW9VSnZpV3BFM0VhcFlhQXhzOWFiampadkdleFJpYXZxLTdLSGRXcUJ5dE0ta1ZDVjJtaw?oc=5",
+      "pubDate": "Sat, 10 Oct 2026 16:41:00 GMT",
+      "source": "AP"
+    },
+    {
+      "title": "Anthropic’s Claude AI submits a false tip on a Philadelphia unsolved homicide case",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLXhqV3p0UGc3M1lxVTI0RG1qMXJmd0Rnb3ZXbDdQQXpqYjEwcGplMkgtTXdBRjJRcVBYclRmMGlSYzV1RS0yM1VCN1JkYlhDekU1LXNsNVB3SFJKM1RWZEpCQnlQTTVadjNpSXZoQi1oVVhtVVY5REprcHRZRFNQdE5RWl9lTnVwMnAxZE9NanVBNmdIR1pzOFRXM1NjLTFHcVE?oc=5",
+      "pubDate": "Sat, 10 Oct 2026 16:11:44 GMT",
+      "source": "AP"
+    },
     {
       "title": "Stocks saw new highs and big declines: How the volatile AI trade moved last week&apos;s market",
       "link": "https://www.cnbc.com/investingclub/2026/10/10/stocks-saw-new-highs-and-big-declines-how-the-volatile-ai-trade-moved-last-weeks-market.html",
@@ -8,22 +104,10 @@
       "source": "CNBC"
     },
     {
-      "title": "Anthropic is cutting off its internal evaluations from the internet",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
-      "pubDate": "2026-10-10T10:41:16-04:00",
-      "source": "The Verge"
-    },
-    {
       "title": "Here are the top AI agents that can live in your text messages",
       "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
       "pubDate": "Sat, 10 Oct 2026 14:00:00 +0000",
       "source": "TechCrunch"
-    },
-    {
-      "title": "AI agent makers are promising privacy — will they deliver?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
-      "pubDate": "2026-10-10T09:00:00-04:00",
-      "source": "The Verge"
     },
     {
       "title": "Hollywood takes on Zuckerberg, Musk and Altman amid widespread anxiety over AI",
@@ -42,24 +126,6 @@
       "link": "https://www.npr.org/2026/10/10/nx-s1-5992872/ex-openai-safety-lead-david-robinson-warns-of-broken-tech-culture",
       "pubDate": "Sat, 10 Oct 2026 07:40:46 -0400",
       "source": "NPR"
-    },
-    {
-      "title": "My brief romance with an AI bird feeder",
-      "link": "https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too",
-      "pubDate": "2026-10-10T03:00:00-04:00",
-      "source": "The Verge"
-    },
-    {
-      "title": "AI is changing how lawyers work — and putting the billable hour under pressure",
-      "link": "https://www.cnbc.com/2026/10/10/ai-lawyers-billable-hour-legal-careers.html",
-      "pubDate": "Sat, 10 Oct 2026 05:00:01 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website",
-      "link": "https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html",
-      "pubDate": "Sat, 10 Oct 2026 01:19:55 +0000",
-      "source": "The New York Times"
     },
     {
       "title": "Anthropic can&#8217;t reliably control its AI agents. It&#8217;s cutting off its internal evals from the live internet instead",
@@ -114,72 +180,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUzh0MDhsc3I0ZzFCYTc4V0U4Nlk3WDVkX3ppUW5ZdzBJZTlGSGcxYUUtVThoRF9JZ24tLWhEaEQxRVFjWnRJU28wWVRkYVpRU09pdnBtZnFTdTZuM29vTjBURkdla0Z0N0ozSm8xemVKeXNyNjNDVGhCcWI0VDhPLUZUM1RiWVRGYXRXZ2JGSjRhYS04RGVjQUZ0dGlRN3NHeDA0OVcwQk4?oc=5",
       "pubDate": "Fri, 09 Oct 2026 19:21:00 GMT",
       "source": "Reuters"
-    },
-    {
-      "title": "We can&#8217;t help treating AI like it&#8217;s human. But should we?",
-      "link": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
-      "pubDate": "Fri, 09 Oct 2026 16:40:14 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "a16z’s Olivia Moore on the state of consumer AI",
-      "link": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
-      "pubDate": "Fri, 09 Oct 2026 15:43:33 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "AI agents like Muse can shop for you. Here&apos;s what that means for retail stocks",
-      "link": "https://www.cnbc.com/investingclub/2026/10/09/ai-agents-could-soon-shop-for-consumers-what-it-means-for-retail-stocks.html",
-      "pubDate": "Fri, 09 Oct 2026 14:15:38 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "OpenAI and Anthropic poach Trump officials as industry fights for Washington’s trust",
-      "link": "https://www.cnbc.com/2026/10/09/openai-anthropic-poach-trump-officials.html",
-      "pubDate": "Fri, 09 Oct 2026 13:49:54 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "OpenAI&apos;s revenue scare, Delta earnings, what investors think of a Starbucks-Chipotle deal and more in Morning Squawk",
-      "link": "https://www.cnbc.com/2026/10/09/5-things-to-know-before-the-stock-market-opens.html",
-      "pubDate": "Fri, 09 Oct 2026 12:40:30 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "AI-related companies to drive most third-quarter US earnings gains",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNWN6RHkzeE9oNGpRQTJpQjZNamoyTS01YldNYndxS0c3ZEhYcGREZHkwN1o0aFRsVWJfOEU5dEZDWDVRUFdDUDlVenBlVGtOSG93MkJfLXp3UThXaFFKQ2x2ekVkMmdTMUxKV0tQd3pOekN0UGc3dFpURTU3NUpQS1RJR0V2MmVoSjFiTUJfbk1HMmhQZHhKN0R0ME5iUmhtV2tNWlkzY3JYNFVa?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 11:44:55 GMT",
-      "source": "Reuters"
-    },
-    {
-      "title": "AI vs. the rest of the economy",
-      "link": "https://www.axios.com/2026/10/09/ai-stocks-economy-bonds",
-      "pubDate": "Fri, 09 Oct 2026 11:15:12 +0000",
-      "source": "Axios"
-    },
-    {
-      "title": "OpenAI fires 3 safety researchers in dispute over AI risks",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeXd0ajg4X1FXUWl6RlZveHMwZFE1dHhJLWt6QThySlhMOWo5Ri1tbm52WV82MXpwODB1LWhnZ0hKYlp2dEduTmJRdVg4YWV1Z2pPMjJKT2JZUGpaSW5IaG1mVDhHNG4zZmplNlRjY3dma1hUajFUUVlrUkhuU3VncEpESno2NTQ5U2FuSW5UUng3SVpuS2NxVUtKWHV4UTVzLVF6V2RUWlBJcm0z?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 11:06:00 GMT",
-      "source": "AP"
-    },
-    {
-      "title": "Anthropic’s Quest to Give A.I. Morals",
-      "link": "https://www.nytimes.com/2026/10/09/podcasts/hardfork-anthropic-ai-morals.html",
-      "pubDate": "Fri, 09 Oct 2026 11:01:21 +0000",
-      "source": "The New York Times"
-    },
-    {
-      "title": "Even ‘Law & Order’ Is Terrified of AI",
-      "link": "https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/",
-      "pubDate": "Fri, 09 Oct 2026 10:00:00 +0000",
-      "source": "Wired"
-    },
-    {
-      "title": "Scoop: AI companies plot \"day after\" scenarios for public revolt",
-      "link": "https://www.axios.com/2026/10/09/ai-companies-day-after-major-attack",
-      "pubDate": "Fri, 09 Oct 2026 09:30:11 +0000",
-      "source": "Axios"
     }
   ]
 }
