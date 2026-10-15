@@ -1,77 +1,173 @@
 {
-  "updated_at": "2026-10-14T15:40:55.480Z",
+  "updated_at": "2026-10-15T15:28:47.380Z",
   "items": [
     {
-      "title": "Anthropic’s self-replicating AI warning is alarming deja vu",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1011108/anthropic-self-replicating-ai-smart-devices-risk",
-      "pubDate": "2026-10-14T11:19:02-04:00",
+      "title": "TSMC chip capacity is ‘fierce’ battleground for AI customers, amid record quarter",
+      "link": "https://www.cnbc.com/2026/10/15/nvidia-apple-broadcom-in-fierce-battle-to-make-chips-at-tsmc.html",
+      "pubDate": "Thu, 15 Oct 2026 15:04:22 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "AI agents are coming to Rivian&#8217;s cars",
+      "link": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+      "pubDate": "Thu, 15 Oct 2026 15:02:36 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "CoreWeave's slump puts spotlight on debt behind AI boom",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOckxhLTlLMHVuWl93dlRGWngzUjBqY0wxaU85Q2lPNGxaMzg0ZjJhT0ZGd210N1N5SDVpV1lLNl9GOXlNazFrN193TFNFREg1dU5OTkpadm9LVHRxU0ZzQWVWbFV1MnNHY2RGZHVsajI5UWRlWDE5NmtGaDctV0o5ME85dkV3RU5LSEFWdTlNUW5RWXZ5S1BXelNMZkI5ZEZfR05kd1UwNnBZQlQ0MHkyQVN3?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 14:58:35 GMT",
+      "source": "Reuters"
+    },
+    {
+      "title": "OpenAI Engineer, Who Is Charged With Planting Bug, Advised Saudis",
+      "link": "https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html",
+      "pubDate": "Thu, 15 Oct 2026 14:51:18 +0000",
+      "source": "The New York Times"
+    },
+    {
+      "title": "Nasdaq slides to near one-month low as AI rout deepens",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZTRob0s4X3hCYkZQZzFfeUxuU1ZlN0tPT2hvelcwcW9QdU9yeVN1ZUZfR253ZUNoN3NjUlRHbG9aS0wzMmVGLUpNOVcyTUlHOWo3WERDX1psTXlmWGthb0JPN19GMGxnT2pkYkRWQ0R1THEyODhoWnZTd1NIQjdZbm5fLXNYb0M2c1g2YU02TENSSi1xSFZMQzRuUTc?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 14:47:27 GMT",
+      "source": "Reuters"
+    },
+    {
+      "title": "Ramp reaches $60B valuation as it pushes deeper into AI",
+      "link": "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/",
+      "pubDate": "Thu, 15 Oct 2026 14:47:09 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "More drops for AI stocks drag Wall Street lower after whipping around the world",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOWhsa2ZhTGZKbFhXckYzcXZGbDZoeUxRZXZlbEtSU1ZkOHZndkpDSWdqQUZZTmJDdHNHUlFHSXlRRm1zVUNKVFlXVEFSNW50Qk9vR29MazU0a3laNlJUR1ZBMlFlUGlWTl9VSk9CSnRUQTZvWV9INUNOLXdOeUtBdGpWaGo0YzNSeVVlMDlZQlRLQzV3TEE?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 14:30:00 GMT",
+      "source": "AP"
+    },
+    {
+      "title": "AWS, Anthropic race to deploy army of specialized engineers key to proving AI spending will pay off",
+      "link": "https://www.cnbc.com/2026/10/15/aws-anthropic-racing-to-deploy-army-of-specialized-ai-engineers.html",
+      "pubDate": "Thu, 15 Oct 2026 14:10:14 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Nobody is safe from celebrity AI deepfakes",
+      "link": "https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth",
+      "pubDate": "2026-10-15T10:03:42-04:00",
       "source": "The Verge"
     },
     {
-      "title": "Deezer will soon let you filter out AI-generated music",
-      "link": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
-      "pubDate": "Wed, 14 Oct 2026 15:16:04 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
-      "link": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
-      "pubDate": "Wed, 14 Oct 2026 15:08:00 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Floqer&#8217;s AI agents research sales prospects so teams don&#8217;t have to",
-      "link": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
-      "pubDate": "Wed, 14 Oct 2026 15:00:00 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Ukrainian drones hit Russia's top data centre in attack on AI ambitions",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYlNheVdFZk5KM25CV0NxS0tHbG81dGlSTTRZaVNLbkNiQklzNmV5d0s5M2NtTlBlSTIzTk5DbXFBME5USFNYS21ZYUxpeVhuUXpkZ2hCVVVITFZ1Q2ZJOWZsWlVkWVdSX3k4Qm5vNkl4MjhGWXp0NXVIcnNHc1c5S0VwU2Q5V29FcmF1NWh1a0hZa0FycXdvRVd3Q0I2VU9sS3NB?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 14:03:24 GMT",
-      "source": "Reuters"
-    },
-    {
-      "title": "Halo&#8217;s co-creator wrote a novel about AI taking over the world",
-      "link": "https://www.theverge.com/entertainment/1010433/jason-jones-ai-novel-halo-destiny",
-      "pubDate": "2026-10-14T10:00:00-04:00",
-      "source": "The Verge"
-    },
-    {
-      "title": "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room",
-      "link": "https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html",
-      "pubDate": "Wed, 14 Oct 2026 13:25:24 GMT",
+      "title": "Amazon launches new Bee &apos;personal AI&apos; devices that listen to conversations",
+      "link": "https://www.cnbc.com/2026/10/15/amazon-bee-frontier-eclipse-ai-devices.html",
+      "pubDate": "Thu, 15 Oct 2026 13:50:00 GMT",
       "source": "CNBC"
     },
     {
-      "title": "Anthropic urges court in Washington, DC, to rehear appeal of Pentagon blacklisting",
-      "link": "https://www.cnbc.com/2026/10/13/anthropic-wants-court-in-dc-to-rehear-appeal-of-pentagon-blacklist-.html",
-      "pubDate": "Wed, 14 Oct 2026 11:01:42 GMT",
+      "title": "Market selloff, rising rates test AI data centre deal boom",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUkF0Z0d5VTdCU1hISVI0eXNTUnpGOFlXc1BwM0dHWEJ6SWs2REc1TEdFdUtQRlRYTUM4TXRqcnFYZWlldDdjQnhLQ3ZQVmdrYXVvTWhwSGRnejRLLXBjbms5Z2pRMEJVWlp5Yks5WG5Tck9ZYXJaVDk5ZGZyanhEQVJUOXJMM0hBTzRTNnVheFlkcmpUSzdadi12VmZlbGFEWjA3SXEzcnJ2TTRXMkZv?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 13:03:43 GMT",
+      "source": "Reuters"
+    },
+    {
+      "title": "US Treasury pushes global partners to rename AI as 'super intelligence'",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNDhRZ0FsM05ZWGFISWtLaXVIam1VcVlxWUY0YlF6NUR1SF9FSnFKQnJwMU5pa2hZUG1ZalVtb1RmY19adW5LSnZhQ1pmNzhtX2tTeE9Lal9LX29iRkZsbHVlcWlLWEw2NW9iaGlrS19odFpadHRSak5VYXFfTWRaaUpjUVp0SEVlb0ZvdTBZLThVcVB0V0JSdEZyZnBrQk05dzgzWUR4Yi0?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 12:35:43 GMT",
+      "source": "Reuters"
+    },
+    {
+      "title": "Wall Street&apos;s latest AI spook, Netflix layoffs, &apos;good debt&apos; and more in Morning Squawk",
+      "link": "https://www.cnbc.com/2026/10/15/5-things-to-know-before-the-stock-market-opens.html",
+      "pubDate": "Thu, 15 Oct 2026 12:32:10 GMT",
       "source": "CNBC"
     },
     {
-      "title": "Tech giants race to get AI gadgets on shelves for holiday rush",
-      "link": "https://www.cnbc.com/2026/10/14/tech-giants-race-to-get-ai-gadgets-on-shelves-for-holiday-rush.html",
-      "pubDate": "Wed, 14 Oct 2026 11:00:01 GMT",
+      "title": "Nvidia CEO Jensen Huang urges U.S.-China dialogue on &apos;potentially dangerous&apos; AI",
+      "link": "https://www.cnbc.com/2026/10/15/jensen-huang-nvidia-china-ai.html",
+      "pubDate": "Thu, 15 Oct 2026 12:17:13 GMT",
       "source": "CNBC"
     },
     {
-      "title": "Scimplify raises $25M to challenge China&#8217;s grip on critical materials with AI",
-      "link": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
-      "pubDate": "Wed, 14 Oct 2026 11:00:00 +0000",
+      "title": "Amazon&#8217;s Bee launches two new personal AI devices, starting at $75",
+      "link": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+      "pubDate": "Thu, 15 Oct 2026 12:00:00 +0000",
       "source": "TechCrunch"
     },
     {
-      "title": "Google Deepmind's Hassabis calls AI hacks 'early warning shots'",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRUpQLTQySlpPSFREYzVycnZUeHhKeWh5TFZTSmw0elFKaVB0THNKYU44eHdhQnJBOS1aNFk2MzlRblBlbzZEa0J4ZFk0VFkxaTdubmpWNVUwaFNwV3pkbHpHYU1XWFlaTGp1MU1vRlNMdkU0Tm9ZU3BweUktbDgxbktvWXl2UzZsVW93LVFPbkZyVDFudHQ2Z3FzQjM1bnZRa3RfbWQ1ME44RFBhVXJiM19aWQ?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 10:29:17 GMT",
+      "title": "China's ByteDance sets up AI safety team, launches global hiring drive",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUUh6d0NyZGxfYjd4bDhwRWdkT0wxOG4xUUlrQkZFZ0JMTlNJMzVUVWRHNDhyYWR2Vzh0RGRsUk9YdDhHeE92NlBPTWlnU1htMHotSVhfRGoydXVjM21UcEV6Z3dsSGtSSGhOcExMaFBud3ZVcGJDU1NNUXFUcFBCdDNwZUFfWVY4QnJjNEhaWHQ2Z01PUUt4enJJVWRxWjA5aTNVUncwSW1XcFB5c2VzYXBmR3RNZVZxNHpzd1c1bHhUSzZIa1E?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 10:52:58 GMT",
       "source": "Reuters"
     },
     {
-      "title": "Wall Street firms tie bonuses, promotions to AI skills, survey finds",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQenRZR3RpU2NkeWIySkpXc0hfSW1GZmZrb0ZzQWJtUXVQVHM4T0QySW1JUlh5dkVQOTBEby1zWlF1OWxHYWhUYUhEaVBoVHRSd0RaMjI5NEhuUmJYQUh2TDFubmEzazdDWjVpY04weVhQaXE3YmxRTEdlNldzNU5hVmNlZkZnRkp5MkMxd3VpWWRtblY1UkV6ZHZFZFNhTlBjY0xGSUdDNkp4S2FzNC00WGV6MV95UjA?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 10:07:11 GMT",
+      "title": "AstraZeneca strikes $40 million AI drug discovery deal with insitro",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaGhDYkZMZ0F5S0ZlU3NudjgxN1Mzb2NQeVFNQ2FCN253aFI4Vzdlb0JMSHZfUm9KaUYxam9Ga01rbUJod29GS3FycDhmQkRSeUNBa3dWZERBbGhmLTlscllTSkR3ajU4MF9zOFJZTFhYX1VnR3N2bVZwSHVnRTVPZWFpd3gtd2NtN2Y5b1ZtTFBqbEJjaEFTeTlIUFRPOGJGUXZCVElUMjVXRmRMNG1uU2NMMERidDIxUFVn?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 10:19:02 GMT",
       "source": "Reuters"
+    },
+    {
+      "title": "Anthropic brings Wall Street an AI bull case",
+      "link": "https://www.axios.com/2026/10/15/anthropic-q3-revenue-cash-flow",
+      "pubDate": "Thu, 15 Oct 2026 09:00:08 +0000",
+      "source": "Axios"
+    },
+    {
+      "title": "Scoop: \"OG\" Bill Gates returns to wage war on AI risks",
+      "link": "https://www.axios.com/2026/10/15/bill-gates-ai-safety-push",
+      "pubDate": "Thu, 15 Oct 2026 09:00:07 +0000",
+      "source": "Axios"
+    },
+    {
+      "title": "Scoop: The FTC demanded documents from AI giants over recent safety incidents",
+      "link": "https://www.axios.com/2026/10/15/ftc-openai-anthropic-ai-safety-investigation",
+      "pubDate": "Thu, 15 Oct 2026 09:00:07 +0000",
+      "source": "Axios"
+    },
+    {
+      "title": "TSMC posts record profit for a sixth straight quarter, beating estimates on AI boom",
+      "link": "https://www.cnbc.com/2026/10/15/tsmc-third-quarter-profit-global-ai-.html",
+      "pubDate": "Thu, 15 Oct 2026 08:09:37 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+      "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+      "pubDate": "Thu, 15 Oct 2026 01:01:32 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+      "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+      "pubDate": "Thu, 15 Oct 2026 00:00:00 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Anthropic Says Revenue Jumped 45% to $16.8 Billion in Third Quarter",
+      "link": "https://www.nytimes.com/2026/10/14/technology/anthropic-ipo-revenue-profit.html",
+      "pubDate": "Wed, 14 Oct 2026 23:57:26 +0000",
+      "source": "The New York Times"
+    },
+    {
+      "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
+      "link": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
+      "pubDate": "Wed, 14 Oct 2026 22:00:00 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Zimbabwe’s Caine Prize winner rejects claim he used AI to write his story",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOXlaNjF5TFBKMWRzal9ZZzdyZloxUVJKcEFZLWJkRW1ycU5ZVmxqT19oTkQ5ckxYTHJvOUExYVZCbFBpaTgwVEl2dUNMSXhMdWxMRmpLY2QxWURjdDZlUW9QNWp5VWJoSWVFMDl6dmwtNTV5SUdTNVR6QU55SmxNa2JydXJSYzhCTTQzSm9zSDljS0JENW5oallfc3pfRUw1UkZia0lGTzNxTnJTUUZfbXp1M214ZjBHQVgtQXVsLVg?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 20:15:00 GMT",
+      "source": "AP"
+    },
+    {
+      "title": "AI tools are aiding would-be spies",
+      "link": "https://www.axios.com/2026/10/14/ai-tools-are-aiding-would-be-spies",
+      "pubDate": "Wed, 14 Oct 2026 19:30:05 +0000",
+      "source": "Axios"
+    },
+    {
+      "title": "AI Came for Math. Now It’s Chasing the Rest of Science",
+      "link": "https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/",
+      "pubDate": "Wed, 14 Oct 2026 18:15:00 +0000",
+      "source": "Wired"
     },
     {
       "title": "Apple bets AI can finally make us want a smart home",
@@ -83,102 +179,6 @@
       "title": "Men Can’t Stop Faking How Much They Know About AI",
       "link": "https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/",
       "pubDate": "Wed, 14 Oct 2026 09:30:00 +0000",
-      "source": "Wired"
-    },
-    {
-      "title": "AI's extreme heat challenge is moving from prediction to protection",
-      "link": "https://www.axios.com/2026/10/14/ai-extreme-heat-weather-forecast-protection",
-      "pubDate": "Wed, 14 Oct 2026 09:15:07 +0000",
-      "source": "Axios"
-    },
-    {
-      "title": "Exclusive: AI safety money floods into political races",
-      "link": "https://www.axios.com/2026/10/14/ai-safety-regulation-election-spending-50-million",
-      "pubDate": "Wed, 14 Oct 2026 09:00:05 +0000",
-      "source": "Axios"
-    },
-    {
-      "title": "AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity",
-      "link": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/",
-      "pubDate": "Wed, 14 Oct 2026 09:00:00 +0000",
-      "source": "Wired"
-    },
-    {
-      "title": "Nvidia pledges $250 million to UK AI safety research",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb1pFUmU1TjNGdW44THRFdlVLU285bHh3azlnTGNFWEJqcnF3T0lzc0pRWi1aTnZOeXlJY1VrbXBXSUxFNTdlS3NCYkptd0ZFb283c1NRc2dLRk9zcEJXenlrV3Q0UVhYTFQ4b1lnVTdLUzFrejJLMFpBcUhLVTRlZC13ZUNXZXk1RU5yWkVEd3M2RWVFUkJlOTlvQVBwRlJRR3dN?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 06:19:00 GMT",
-      "source": "Reuters"
-    },
-    {
-      "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZFZsa19tQTZzTmpjeDVDenFPTGdxSTJVS1k5bTNrakxDWEtUelY1SWlDdnhNZDVoUmY1dkhoWXdJMWQtS1pjR3drMndqc0kxT00zVkM1bUIyRXM3X011cGhMaUNvbXdtUzVaNUhWWEMzOEN5Q0luZEQ3MzE5M2J2N2h3Mko4eUg3NkZJY2pBbG03UzRwVGs5MVl4dWxWbjNJeVN0OA?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 05:07:00 GMT",
-      "source": "Reuters"
-    },
-    {
-      "title": "F.B.I. Arrests OpenAI Employee Accused of Planting Bug in Office",
-      "link": "https://www.nytimes.com/2026/10/13/technology/openai-worker-arrested-bugging.html",
-      "pubDate": "Wed, 14 Oct 2026 01:33:22 +0000",
-      "source": "The New York Times"
-    },
-    {
-      "title": "Q&A: Brian Eno on relaunching Opal Records, ‘Music for Airports,’ AI and Palestine",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZUZWU3RubkRUMG1sR3A5dHd3c04xZWt3SUJLdG5QQ1pSWGV4ZjgwUE1RdnZHZTd2bXZockRhZUlINHZ1X2Y0YlFVdGowSFpSaUF0M0RoMTdaYWt6dk9MZ21sb1dYU09WbFpBUlhlcnFtM0p5eDFlbDYxN2hvbjNqcXB1elFSbTZoM2h4QmxNYXBrZ3hYX2V3?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 00:34:00 GMT",
-      "source": "AP"
-    },
-    {
-      "title": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
-      "link": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/",
-      "pubDate": "Tue, 13 Oct 2026 23:17:59 +0000",
-      "source": "Wired"
-    },
-    {
-      "title": "Cerebras CEO says we&#8217;re nearing a future where everyone has a personal AI assistant at home",
-      "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
-      "pubDate": "Tue, 13 Oct 2026 23:05:34 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Here&apos;s where Jim Cramer stands on this newly public AI infrastructure stock",
-      "link": "https://www.cnbc.com/2026/10/13/jim-cramer-accelevation-stock.html",
-      "pubDate": "Tue, 13 Oct 2026 22:47:07 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "Cerebras CEO pushes back on AI doomsday warnings",
-      "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
-      "pubDate": "Tue, 13 Oct 2026 22:36:59 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Kroger to lay off 3,000 corporate employees over 3 years as it leans into artificial intelligence",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSHNESldQb0tHcGc2ZkN4SmFybFNDd0lpYktkdXZNRXNtN0Z3RnFwQ3FCVC1uS29uNVA4WjlFNkM4cGxreUFER0ZSdGQ1RWwxSk1VS2lNV2dmU19DV3VsWWFBYkRlejNESmp4MmpyNnRlS2gzT1hLcXAtaldYN18wZy03Y2lZeDQxMWZWOWZfZ1IzUU1IT3c?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 22:20:00 GMT",
-      "source": "AP"
-    },
-    {
-      "title": "FBI arrests OpenAI employee accused of placing recording device in company conference room",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONVl0SzhGa2IyTHliZXlVSl9jcFY4V1NmUG5YN1F3WWsyUG1jSzhlMzNwZ3M2V2hmZWhfWS1pcFFkYmwtc2RZeTdJLVpRTkwxMmE4YjZkdHV3bUlZenBxeUhUa0tIU0VGeGtyTktPSGt5Z3VnUVRudWZ0VlNzSHJjc3hsY0puM0RTanBmSkJ3?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 21:32:49 GMT",
-      "source": "AP"
-    },
-    {
-      "title": "US stocks edge back from their record following the first big batch of profit reports for the summer",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbE40VWg4MjVEMGZaTVRRbXhyNlg4czk4V0luS095VjQ2S01EU1B2bEpIdTJvZGVrUGlLUU42bVZhNW4xdk01Wmh3ZUhLRWFIamRka2pfWnlkUTRQdzVZV3FGa0VSb1Vwcmg0UFNlYmgwS0lPNnNiRF9NNDVhNmRzS3IwaUhEOGNvclVwb3B1cVd0R1V5LUdLX1Fn?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 20:17:00 GMT",
-      "source": "AP"
-    },
-    {
-      "title": "FBI arrests Saudi OpenAI engineer over covert recording device, DOJ says",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcjkxNVh4Vlg5aXhHdHJySlBhbC1iZVRDTTF1a2hiUk52eUlqUW1aWWtoeUg2TjQ0OWU1aURzNW5aWmZ1TEFBcGl4NTBIQVZSVnNPaFpFUnZqb2RjRzNQS0xLQjRkMmtJZWhuU1RLRXplcktzVnBHMVVhNThISzMxMVFYbXZoeWE2WFc3b2VzMlQ0Sl92Y0kwLXJ0MUxBOTdUNzFxdjR0VTI?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 19:59:00 GMT",
-      "source": "Reuters"
-    },
-    {
-      "title": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
-      "link": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
-      "pubDate": "Tue, 13 Oct 2026 19:35:29 +0000",
       "source": "Wired"
     }
   ]
