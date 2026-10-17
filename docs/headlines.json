@@ -1,17 +1,149 @@
 {
-  "updated_at": "2026-10-16T15:09:33.642Z",
+  "updated_at": "2026-10-17T14:02:31.371Z",
   "items": [
+    {
+      "title": "Websites are closing their doors to AI agents",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "pubDate": "2026-10-17T09:00:00-04:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Exclusive: Musk tells Isaacson \"AI and robots\" will need to fix deficit",
+      "link": "https://www.axios.com/2026/10/17/elon-musk-doge-walter-isaacson-podcast",
+      "pubDate": "Sat, 17 Oct 2026 12:23:16 +0000",
+      "source": "Axios"
+    },
+    {
+      "title": "AI rapidly improving, could vastly boost US GDP, Anthropic's Clark tells policymakers",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbk9CdFVPN2k3VV9iLUx0SGxFc184WkJQSDVpNGhBTkxVUElnNmFvRk5YeHJNVjloYlFXZWY1MC1TQjBaT3RMSmJXQjl4YUU4X0ZDVllhRGR5T09ncE1vRTVhZVBqZGZYeE1kRG9jRVFram83dWZSd3N1eU9jeWpPckdNTTFyYV9jN1kxTHBWR3YycW1DRlVMU095QzMxVnVNb1RULVZPaXYtVlRaMlF4TEFEd1U4aFpySG83R3BMaDNXYlpPclE?oc=5",
+      "pubDate": "Sat, 17 Oct 2026 11:39:54 GMT",
+      "source": "Reuters"
+    },
+    {
+      "title": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
+      "link": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
+      "pubDate": "Sat, 17 Oct 2026 09:00:00 +0000",
+      "source": "Wired"
+    },
+    {
+      "title": "China AI supply-chain IPOs hold firm despite valuation pullback, Citi says",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcnFDdU1MSGd4Ylh4aktUWnlOM2V2RklNLXAxVm5QNThadUkzS2k1cWhoNnJpQkF3Nzk2U1c5ZlJlbUhGVFVpZTIxZEJYak8yVmtjVVhBdGs5NnVjVlowQnhRaWw1enZTVjBIVS1Wd2wwMkQtV2lYelR3MTFfVVlRRTBfMlBOUTlDYlI4UXdBZEFfcUFQcVNNNHVzOTR4bnUyanUtRE9nVkdnbTk4VHJvRWVxM2xjcXhjVUI4WVh2Y3Q2Q0Fw?oc=5",
+      "pubDate": "Sat, 17 Oct 2026 08:19:38 GMT",
+      "source": "Reuters"
+    },
+    {
+      "title": "Some companies give AI to everyone. This CEO is doing the opposite",
+      "link": "https://www.cnbc.com/2026/10/17/ai-workplace-tokenmaxxing-paysend.html",
+      "pubDate": "Sat, 17 Oct 2026 05:00:01 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "North Korea says it tested new torpedo system with AI capabilities",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ2ZQRmVtMF85aFdhOEUzNTlaaWZDWmZPU2cySTVXMnNBdUVWWVQwWk80aE16UFhRLUxGSTllMGlFVTA2OTNmbGdfSjFxM2hFU2hXRVlMNktvMjdjZlBuQVE0amQ0SlBDMlRxUVhrUGJUbkt0Wmt3MVFsRERCdklua0ZEdVdCQkU3aFlLR2o2cXIyZ1doTE5GNExn?oc=5",
+      "pubDate": "Sat, 17 Oct 2026 03:47:00 GMT",
+      "source": "AP"
+    },
+    {
+      "title": "Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
+      "link": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+      "pubDate": "2026-10-16T18:51:22-04:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Anthropic taps nonprofits METR and SecureBio to help assess risks and safety practices",
+      "link": "https://www.cnbc.com/2026/10/15/anthropic-metr-securebio-ai-safety-evaluators.html",
+      "pubDate": "Fri, 16 Oct 2026 22:26:38 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "pubDate": "Fri, 16 Oct 2026 21:22:28 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "At SF Tech Week, a vibe check on how people in Silicon Valley feel about the AI boom",
+      "link": "https://www.npr.org/2026/10/16/nx-s1-6001770/at-sf-tech-week-a-vibe-check-on-how-people-in-silicon-valley-feel-about-the-ai-boom",
+      "pubDate": "Fri, 16 Oct 2026 16:56:06 -0400",
+      "source": "NPR"
+    },
+    {
+      "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
+      "link": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
+      "pubDate": "Fri, 16 Oct 2026 20:05:08 +0000",
+      "source": "Wired"
+    },
     {
       "title": "SpaceX AI policy leader grilled by NYC Council on Grok safety, sexualized images",
       "link": "https://www.cnbc.com/2026/10/16/spacex-policy-manger-to-testify-in-nyc-council-ai-safety-investigation.html",
-      "pubDate": "Fri, 16 Oct 2026 15:03:55 GMT",
+      "pubDate": "Fri, 16 Oct 2026 19:30:51 GMT",
       "source": "CNBC"
+    },
+    {
+      "title": "States sue AI giant OpenAI, saying its popular chatbot is hurting children and deceiving adults",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOFdMbjctMUxlYlQ0VnBoa3Jpc09HdE9CWlM5b1NjbzhLZ2YwWWUtbTVucWVuMDZwRWozUmNUajh4bm45MjlZY0xiVHdxczJHQW5UZG9NdXEzLUVQaFZlUTB6cW53bVg5MUdpWExJRU5aYzRwVjNTMkY3U0NycUpsaEhRaHZ0cEw3N0xoTFpCZWZTemdsYkFJcGVCVVNhMjVLdmhJZUMyWWd3YTQxemh3MmZ6UHZiZw?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 18:46:00 GMT",
+      "source": "AP"
+    },
+    {
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "pubDate": "Fri, 16 Oct 2026 17:52:24 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Why CoreWeave is in the crosshairs of the AI scare",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWDBmSEI4THQ5MFFtQXA5a1YweUdtQ2RIYXJXU0t0SFpiQ2kzbENpUWpVbW9hRU5KY1FiMkZPdDVOcmY3OW5WTVRqTFo1SnZKQmxweEFXeVhkY0ZySUdjQWVoV2p3TEVlbXVSSVBZTnNVbXdNc2Q1bmpzSVFrYXFtTmVhUloyaDRqeHp0NllQZWxDTHFENXhv?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 17:51:43 GMT",
+      "source": "Reuters"
+    },
+    {
+      "title": "CoreWeave bond rout tests market's math on AI buildout",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdm5VTll1VmRrVEdWNm9HMmh4dUtxaDN2alV3YnJxUmtZdVJjZV9obW5Kc2tOYTNEQVdQNE1XMnFNbk1PaFBTTHZqcWxFZklDOVRtYm9IOWhnMjRuZTYyM2U0NVA1WmY0a3ZGQTFJbFp5cU1ha3h2WXBwLVFBSmtjRnVmZm8xdUtCMWlaX1YyUkpCSDhZamRzRG9UV3paVU9MalVpa0FFbzRBZw?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 16:48:32 GMT",
+      "source": "Reuters"
+    },
+    {
+      "title": "Central bankers eye higher rates as AI boom fuels scramble for cash",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRUtKN0pzRWNldm1acUxBY0o2M0h6UWlxVHNpT0pWcmQ4c1VQdG8wVE5iaTM2RWVocXN3MDFKMUZwblpDTWNFcTZiUFhNSkpYdlRwMGZhc0Q1UUNCZENPVm5CcDZjYXFZQ2FLaDV0eG5lak1qZ1hlSDZXT05leFQtZ2FubWhKbXlrNWNqbTEybGo5V0dESzk3U2VhbTl4WWNQdHBRc3luM3F4cGIyMEI2RjFYVQ?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 16:38:28 GMT",
+      "source": "Reuters"
+    },
+    {
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "pubDate": "Fri, 16 Oct 2026 16:30:00 +0000",
+      "source": "TechCrunch"
     },
     {
       "title": "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI: DNI Clayton",
       "link": "https://www.cnbc.com/2026/10/16/ai-espionage-openai-jay-clayton.html",
-      "pubDate": "Fri, 16 Oct 2026 15:01:34 GMT",
+      "pubDate": "Fri, 16 Oct 2026 16:27:44 GMT",
       "source": "CNBC"
+    },
+    {
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+      "pubDate": "Fri, 16 Oct 2026 16:01:37 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Jev is Vercel&#8217;s fastest-adopted AI model ever",
+      "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+      "pubDate": "Fri, 16 Oct 2026 15:33:49 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "China moves to curb tech exports, including AI, citing national security risks",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMGpqZzJpbGpZRmVEdHJ1dEQzY1dTMld3RU92aGlhd0xOeFA4al9qalc4bHZLZ1BZZ1ViQXI3V19Ed2gyTVNibjZqS1VkZUJaR05WMjdjVmx0LWNvaUV3Mnh4SUx5eVFKMkkySzVnUW40OW9aU2VZVVp4Q1NJbjVzQS1IZV9RWUlXc3BUY0hJMVpZT083dDR2dFVhUnZCai1mT3dqUUJR?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 14:59:03 GMT",
+      "source": "AP"
+    },
+    {
+      "title": "Private credit roundup: CoreWeave's debt stress tests private credit's AI financing boom",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTXFuNmFhVWZ1ekJvUURza2FlWVN5dGlWOWpScUFKQ1pOTlVIMUVnd0FUVndpNHdBVEZ5YW1VYjlUeVk5eU0yZHJVcGN5ZVNCQklJQVd4RWJSZVNYRW5oSXEyeXdyQzR4MkltanN2NjVJRnVfejkwUHVQZHlSb0t6eEtwM2RtUUU0WVg4SFEwUGMxOHVncGFudTBLWFRvTnpmRk5fakFoeXl6OHM5MEZiM2luOWo0S0FKTExibXRxYnduY25OaDZXUkVzWGNKOGxmQWc?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 14:58:32 GMT",
+      "source": "Reuters"
     },
     {
       "title": "Mark Wahlberg on using AI in film &#8216;the right way&#8217; and being open to an AI clone carrying on his legacy",
@@ -20,58 +152,22 @@
       "source": "TechCrunch"
     },
     {
-      "title": "CoreWeave bond rout tests market's math on AI buildout",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdm5VTll1VmRrVEdWNm9HMmh4dUtxaDN2alV3YnJxUmtZdVJjZV9obW5Kc2tOYTNEQVdQNE1XMnFNbk1PaFBTTHZqcWxFZklDOVRtYm9IOWhnMjRuZTYyM2U0NVA1WmY0a3ZGQTFJbFp5cU1ha3h2WXBwLVFBSmtjRnVmZm8xdUtCMWlaX1YyUkpCSDhZamRzRG9UV3paVU9MalVpa0FFbzRBZw?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 14:09:40 GMT",
-      "source": "Reuters"
-    },
-    {
-      "title": "Meta’s new terms may allow it to train AI on news sites for free",
-      "link": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
-      "pubDate": "2026-10-16T10:02:40-04:00",
-      "source": "The Verge"
-    },
-    {
       "title": "Microsoft Surface Laptop Ultra Review: The First Real AI PC",
       "link": "https://www.wired.com/review/microsoft-surface-laptop-ultra/",
       "pubDate": "Fri, 16 Oct 2026 13:00:00 +0000",
       "source": "Wired"
     },
     {
-      "title": "China moves to curb tech exports, including AI, citing national security risks",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMGpqZzJpbGpZRmVEdHJ1dEQzY1dTMld3RU92aGlhd0xOeFA4al9qalc4bHZLZ1BZZ1ViQXI3V19Ed2gyTVNibjZqS1VkZUJaR05WMjdjVmx0LWNvaUV3Mnh4SUx5eVFKMkkySzVnUW40OW9aU2VZVVp4Q1NJbjVzQS1IZV9RWUlXc3BUY0hJMVpZT083dDR2dFVhUnZCai1mT3dqUUJR?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 12:20:00 GMT",
+      "title": "IMF-World Bank meetings focus on global risks and potential benefits of AI",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMGdxT1lZbm1scUV4TzFRTnA5aVNqSXBpWjFFemlyQWMwbW8yY3FqUEU3dTBPNGNpRDhtblJldXB2d1ZHTm9ySmpGaWNaTDNvNk5NQzVyYnZkaHRtZnNYN2ZBbHRHaU9QVFAxcjMwbjZkVjJuXzlTdXZzaDl2bUJTWjFWWWlnajBDejAxQQ?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 11:19:00 GMT",
       "source": "AP"
-    },
-    {
-      "title": "US futures mostly higher with the Fed’s Warsh touting AI",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdFFYejUyLUpIbnJydUstZS1rSXRsdFhVN1hNTHF0VDIyc0FUZzFObERkVURrWFhyOVJrNmlSVExieWlKYlR2U1ByRTBxVVhGbjJrZzYxOEJzZVNJTVd2d3BCaXlaV29oNTJCVVkxRXJIbDUtR2poTXBMblhETkNlV1c1R3Vrck9RaHg0dXRCd0NUTmFDcFNkbUlVNA?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 12:20:00 GMT",
-      "source": "AP"
-    },
-    {
-      "title": "Beijing seeks tighter grip on AI exports amid US rivalry",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMWNnS1haU3c5T3lybTBzQUNxZF9lMmhWaFp0Yk5UbzhDdklobHpkRHk2dExFU1dWZmVMVENFNEVLOW9JWDdscm15VDhObXhhc1JwYjlIelZjeFJuMG9jVERmTHRNRTZtSlBRYndNc2IxZTRkdWtPUGdlWDhoSEZQTHVZNzIwMFUzWVhjT3gxUWl1X2VpM1VOM29BZElFRjlaek1uRDFQb2N5aF9FTlF4U1N4WFZRVmtyUTBLdmVJc0Rzb3E2NkZ5ZQ?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 12:05:53 GMT",
-      "source": "Reuters"
-    },
-    {
-      "title": "Germany to unveil Nvidia AI agreement next week, government sources say",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOFhxVEl6YXFpRm9YZDJ5akl5YjBZQ0lnSzNrZ2xvRXVpQ1JvR2NybkMzRk4zdnRjQzNHNGFpZk0yZzBPM25wbDdYdWZuVGRSanNfdzM2STZxQ2hNbndENWtBd1lQemVEcVljSUJCbVU0ZEhBZVdKN2hQRkg4WUpVSjFIdlg2TlkwLXdDUzR1ZG04Z1VzVkloSHpvb2p4Z0JUeDg1MUZYd2NuQzlvWk43emh3Y184RDQ?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 11:06:50 GMT",
-      "source": "Reuters"
     },
     {
       "title": "AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content",
       "link": "https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content/",
       "pubDate": "Fri, 16 Oct 2026 11:00:00 +0000",
       "source": "Wired"
-    },
-    {
-      "title": "IMF chief says AI risks may exceed opportunities without safeguards and ethical framework",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS2IzOWJIRFRrNjFuc3M5M1RRQUNUS1dQcGVaSVhPa2lZVzd2a0JKamxsTFR4dU5QMThydUVyTks4bXhjM29fOE1oVWltNkVKcnk3ZFZEZmlmWXl5UlZDZXRfSmRfRTltdGU5dGdUbF9hSEI1Qi02R05ScVNvZVJ0V0xvelkxTmFsbXVvM1VjNWRCQU5FZUJXbnFQSUgtYlpxclUtbkV3ejNiVGs2V2pQOS1LNTN5TzZVb00xbGlBVQ?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 09:30:22 GMT",
-      "source": "Reuters"
     },
     {
       "title": "Geothermal finds rare political sweet spot amid AI boom",
@@ -84,102 +180,6 @@
       "link": "https://www.axios.com/2026/10/16/wall-street-limit-ai-spending-debt",
       "pubDate": "Fri, 16 Oct 2026 09:00:10 +0000",
       "source": "Axios"
-    },
-    {
-      "title": "China's Tencent says AI agents showed unintended browsing behaviour",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdXIxZ25uQTZ2ejY2eWZDQzdsbkEwcklpa2d1MGZsN292M0FmYVRuQmxmNXh3QTF0TEttcGlQUmRETTRIWDhKS0FoWU9XNmFVOEo4VnRWcUdTWUxLYk1KZHowWWFESGN4SVp0aWdRbmkzdC1kSTJYUVAyMHBxYWR2VTNGQUt3OWFvZm8yQ2FjZnVpM2VrMkxZVVNORWU5Sl9qaFBCZUdmOU9mUk5EVVhSTU9PUm1ubE9EUENnaDFjU19lendyNXc?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 07:10:02 GMT",
-      "source": "Reuters"
-    },
-    {
-      "title": "Rogue AI agents broke into Indian firms' live systems, government says",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUWE4SllpWmQwcUxOeXpjRVg5NWhCdHY2bE1LT1kxdEN2bkxYS29Vc3hVV0dEbm1XeDd0dHNQUzZNQWxiMHItQV9XMTVHY21YMDJLZXFTVWFrUGZDY19PQXcxMnBBZzViSE45TWJkTHBNRnBkOUZVUjY1NzM5bWpFTFd1dmdLMnNlRUJtVTBobVJOV1htWUlxSXFqLUN0d2tQMGh6NkJ4bFpvYUJpN3lDRUVES2dtemF4eGViejJn?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 07:04:13 GMT",
-      "source": "Reuters"
-    },
-    {
-      "title": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
-      "link": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/",
-      "pubDate": "Fri, 16 Oct 2026 05:16:46 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "When it came to Cal AI&#8217;s viral success, a small army of influencers paid off",
-      "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
-      "pubDate": "Thu, 15 Oct 2026 23:44:56 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Jim Cramer says this week&apos;s AI sell-off offers a crucial lesson for investors",
-      "link": "https://www.cnbc.com/2026/10/15/jim-cramer-ai-stocks-diversification.html",
-      "pubDate": "Thu, 15 Oct 2026 22:16:13 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "To train robots, AI companies are paying people in India to film themselves doing chores",
-      "link": "https://www.npr.org/2026/10/15/nx-s1-5991368/to-train-robots-ai-companies-are-paying-people-in-india-to-film-themselves-doing-chores",
-      "pubDate": "Thu, 15 Oct 2026 17:41:19 -0400",
-      "source": "NPR"
-    },
-    {
-      "title": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt",
-      "link": "https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html",
-      "pubDate": "Thu, 15 Oct 2026 21:33:24 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "AI Hacks Leave a Mess That AI Companies Aren’t Paying For",
-      "link": "https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/",
-      "pubDate": "Thu, 15 Oct 2026 21:00:28 +0000",
-      "source": "Wired"
-    },
-    {
-      "title": "Wall Street muscles higher despite more swings for AI stocks",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOWhsa2ZhTGZKbFhXckYzcXZGbDZoeUxRZXZlbEtSU1ZkOHZndkpDSWdqQUZZTmJDdHNHUlFHSXlRRm1zVUNKVFlXVEFSNW50Qk9vR29MazU0a3laNlJUR1ZBMlFlUGlWTl9VSk9CSnRUQTZvWV9INUNOLXdOeUtBdGpWaGo0YzNSeVVlMDlZQlRLQzV3TEE?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 20:41:00 GMT",
-      "source": "AP"
-    },
-    {
-      "title": "Anthropic taps nonprofits METR and SecureBio to help assess risks and safety practices",
-      "link": "https://www.cnbc.com/2026/10/15/anthropic-metr-securebio-ai-safety-evaluators.html",
-      "pubDate": "Thu, 15 Oct 2026 20:35:21 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "Meta launches an open-weight AI model that runs on Macs",
-      "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-      "pubDate": "Thu, 15 Oct 2026 20:04:53 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-      "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
-      "pubDate": "Thu, 15 Oct 2026 19:55:25 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
-      "link": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
-      "pubDate": "Thu, 15 Oct 2026 19:14:26 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Apple and Meta team up to make Muse AI model run on Mac computers",
-      "link": "https://www.cnbc.com/2026/10/15/apple-meta-partner-ai.html",
-      "pubDate": "Thu, 15 Oct 2026 17:52:01 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "States sue AI giant OpenAI, saying its popular chatbot is hurting children and deceiving adults",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOFdMbjctMUxlYlQ0VnBoa3Jpc09HdE9CWlM5b1NjbzhLZ2YwWWUtbTVucWVuMDZwRWozUmNUajh4bm45MjlZY0xiVHdxczJHQW5UZG9NdXEzLUVQaFZlUTB6cW53bVg5MUdpWExJRU5aYzRwVjNTMkY3U0NycUpsaEhRaHZ0cEw3N0xoTFpCZWZTemdsYkFJcGVCVVNhMjVLdmhJZUMyWWd3YTQxemh3MmZ6UHZiZw?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 17:12:41 GMT",
-      "source": "AP"
-    },
-    {
-      "title": "OpenAI Engineer, Who Is Charged With Planting Bug, Advised Saudis",
-      "link": "https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html",
-      "pubDate": "Thu, 15 Oct 2026 14:51:19 +0000",
-      "source": "The New York Times"
     }
   ]
 }
