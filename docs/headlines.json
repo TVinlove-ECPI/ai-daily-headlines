@@ -1,29 +1,107 @@
 {
-  "updated_at": "2026-10-23T15:37:28.223Z",
+  "updated_at": "2026-10-24T14:13:31.521Z",
   "items": [
+    {
+      "title": "Here are the top AI agents that can live in your text messages",
+      "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "pubDate": "Sat, 24 Oct 2026 14:00:00 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
+      "link": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
+      "pubDate": "Sat, 24 Oct 2026 12:00:00 +0000",
+      "source": "Wired"
+    },
+    {
+      "title": "AI found the flaw. Hackers found the leak: The race to save &apos;PHP2SHELL&apos;",
+      "link": "https://www.npr.org/2026/10/24/nx-s1-6012327/ai-found-the-flaw-hackers-found-the-leak-the-race-to-save-php2shell",
+      "pubDate": "Sat, 24 Oct 2026 07:42:09 -0400",
+      "source": "NPR"
+    },
+    {
+      "title": "Nvidia&apos;s role as AI financier faces first big test as neoclouds take market hit",
+      "link": "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html",
+      "pubDate": "Sat, 24 Oct 2026 11:00:01 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Washington's message to AI execs: please shut up",
+      "link": "https://www.axios.com/2026/10/24/ai-ceos-washington-political-liability",
+      "pubDate": "Sat, 24 Oct 2026 09:15:06 +0000",
+      "source": "Axios"
+    },
+    {
+      "title": "Turmoil hits AI buildout as neoclouds face pressure, credit risks mount and Solidigm pulls IPO",
+      "link": "https://www.cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html",
+      "pubDate": "Sat, 24 Oct 2026 06:41:14 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "What a day in customer service looks like — as AI changes everything",
+      "link": "https://www.cnbc.com/2026/10/24/ai-customer-service-jobs-work.html",
+      "pubDate": "Sat, 24 Oct 2026 05:00:01 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Moonshot curbs hacking ability in new Kimi model as fears grow over AI-powered cyberattacks",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWlpZNXVZQXBxZ1hCTzA4X0VZYUh0QkhJb281X3VmMUt0VVZRY0N2N1Fja1dyZlB4cGlsTGktdjRaRzEzSDgtR01QS1F4V0ZsN0lsbzdTRjhRbG1MMlhfMkluTkxwTXFhOG1XZVVpRlRJX29ULXBEcUdTQUpoa2NkUmRMZFhDbkF3a0N3SDlqbTg1QnR3aFkwSW9LS181X0hsbXM1bXF2a0ZTWldQdlBMSlJRSzFoOGI2aFRF?oc=5",
+      "pubDate": "Sat, 24 Oct 2026 04:25:00 GMT",
+      "source": "Reuters"
+    },
+    {
+      "title": "Wall Street closes lower to end rocky week",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR01KeXBjdXBubVRzTlJfWWJTMHctb2hFS2pVT21ydWtZNzBaMldxd1c2ZUJGNWhIeGV6MUxvQVZvSl9GdFh5QThQbFpuT0IwYi02Y3JGM19YSWJ3LXMtb29RbS1WZUljdGtsS2dockxHVm5SWnBSMzJpM0Y4RFItdW5SMzFsdXg2LWtrYWE1SC1TQlkxOERJZHNtQVREdw?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 23:46:35 GMT",
+      "source": "Reuters"
+    },
+    {
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "pubDate": "Fri, 23 Oct 2026 23:05:49 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Fired OpenAI researchers say independent safety audits aren&apos;t going well",
+      "link": "https://www.npr.org/2026/10/23/nx-s1-6012235/fired-openai-researchers-say-independent-safety-audits-arent-going-well",
+      "pubDate": "Fri, 23 Oct 2026 17:33:31 -0400",
+      "source": "NPR"
+    },
+    {
+      "title": "OpenAI now trains its frontier AI models with no internet access",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+      "pubDate": "2026-10-23T17:11:07-04:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "OpenAI resumes frontier AI training after security overhaul, discloses flaw in widely used software",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOS01OUZRS1hEaFFMU0pJSkEwdEVKQThtcVJITXJ6elVKbFVHV0QwQVFyc1VUb1NVZExxQ2J4YkN0MTVxS094bUFqdmZYa3QwSUprRjlVX3YwSkZfcEF5U1JEV0h0aWVjUldENHFIaEtZR0RPU3Y0WHpjQXFmRUw2SVROYXQ2NWwzZmNGWG9lcTdwYkhFd0NvY3poSG1YVHRfclVsMmZ0OXRDV245cmx3ckRFVENhZUJydkVXYjVrOA?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 20:06:00 GMT",
+      "source": "Reuters"
+    },
+    {
+      "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+      "pubDate": "2026-10-23T15:32:39-04:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Barclays is latest to redirect spending toward AI as it trims its workforce",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaVZPaVdaeVc1c04yS290VXp5R1FMRXpNWDFIdUJQS1RVdWxfeExlUGFQaHBXX0VKZWNXWmJlcWZtaVowWE0ydUdtb1Q1RmJnTU1sSFNaWFRzMkozUXVvcmp3SU4xYmdHakpELUJJLXNGaGUtYTBodW1lSHcxM3diSEFRN0tqc1BFSGdibFBhRG5pVVNKRXlKbUpB?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 16:27:23 GMT",
+      "source": "AP"
+    },
+    {
+      "title": "What some of Anthropic’s backers are worth before its IPO",
+      "link": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
+      "pubDate": "Fri, 23 Oct 2026 16:02:43 +0000",
+      "source": "TechCrunch"
+    },
     {
       "title": "AI agents could disrupt bank deposits. Why Wall Street may be overreacting",
       "link": "https://www.cnbc.com/investingclub/2026/10/23/ai-agents-could-disrupt-bank-deposits-why-wall-street-may-be-overreacting.html",
       "pubDate": "Fri, 23 Oct 2026 15:00:49 GMT",
       "source": "CNBC"
-    },
-    {
-      "title": "Meta delays new business terms after publisher pushback on AI scraping",
-      "link": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
-      "pubDate": "2026-10-23T10:47:41-04:00",
-      "source": "The Verge"
-    },
-    {
-      "title": "Focus: AI-discovered bugs may soon trigger fresh disruptions, cyber experts say",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV05wYl91MmowMUlxMjZkLXZBU25XR1h4ZWE5dnptMktPMDdkUnpWMkxpUFZrUUl6ajg2NjNlcVBaOTYwWEtqUkRTVlVIUGc1a3FoZjVwendXdm1DUTZxN05fNWkzblg2TEVFRkpKNnlTdjlpaWIzYkljMFFSYkRVa29uQkFWZWJOaWpFRV9ZWUJhSXBUa1NaLS1WZjJxcDQ4NmpHaXpFT2xLb1VYZWtSWElyT2xmTEg1V1FnMjE3NE5wQQ?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 14:41:41 GMT",
-      "source": "Reuters"
-    },
-    {
-      "title": "Wall St dips after AI-led selloff; SpaceX worries hit telecoms",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR01KeXBjdXBubVRzTlJfWWJTMHctb2hFS2pVT21ydWtZNzBaMldxd1c2ZUJGNWhIeGV6MUxvQVZvSl9GdFh5QThQbFpuT0IwYi02Y3JGM19YSWJ3LXMtb29RbS1WZUljdGtsS2dockxHVm5SWnBSMzJpM0Y4RFItdW5SMzFsdXg2LWtrYWE1SC1TQlkxOERJZHNtQVREdw?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 14:16:52 GMT",
-      "source": "Reuters"
     },
     {
       "title": "PODCAST: The AI reset",
@@ -32,34 +110,16 @@
       "source": "Reuters"
     },
     {
-      "title": "Infosys cuts forecast as AI spending shift deepens North America slowdown",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNWdWWnJFN3I3MnZQQzBBRUFVMnBTbkduVklRcFVPbWZVTGFxM2NRbkRtRHlXa2JBdlpnQWMxSkh1WU91clBJQnpqYXItXzAtcTJ5NlFETjRETndtM2VyRGxkaElVREFxRjRfeUdkMzlxR3hYdlZSX1R1LXNRX3dxTUlyYzJNYUp1NGpfOU5mNUQ0YWZ3bE1TOVAxaUk?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 12:51:32 GMT",
-      "source": "Reuters"
-    },
-    {
-      "title": "Explainer: Why is Meta creating a new class of non-voting shares amid its AI growth?",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOVdyMzNSMWdnREtoZkVQaUlaNzJXNnNpclFud1JZUTZaRGdhTFhKYTUxaEtfWGRsM1NwU3VKSTVXSW95WXdKVlh1TzVGSDVkb3VYYmdLa1ZLQVNIVWM3M25pTk95dkE0Ti1sdmhsZGxsSXNCSExIWjhGZ3Fsb1VEdHFwdTlEZXpJdlBoVlQxX20wTEl2aGpYZ1l1WVFMbWM2akpOR2RGV045ejljRURJdUl3?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 12:49:43 GMT",
-      "source": "Reuters"
-    },
-    {
-      "title": "OpenAI nears up to $30 billion funding round at $1.25 trillion valuation led by UAE investors",
-      "link": "https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html",
-      "pubDate": "Fri, 23 Oct 2026 12:39:27 GMT",
-      "source": "CNBC"
-    },
-    {
       "title": "On the ground at Nvidia&apos;s AI showpiece: Jensen-mania, robot ducks and neocloud distress",
       "link": "https://www.cnbc.com/2026/10/23/jensen-huang-gtc-robot-ducks-neocloud-distress.html",
       "pubDate": "Fri, 23 Oct 2026 12:08:30 GMT",
       "source": "CNBC"
     },
     {
-      "title": "Retro gaming is being overrun with AI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
-      "pubDate": "2026-10-23T08:00:00-04:00",
-      "source": "The Verge"
+      "title": "AI-discovered bugs may soon trigger fresh disruptions, cyber experts say",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV05wYl91MmowMUlxMjZkLXZBU25XR1h4ZWE5dnptMktPMDdkUnpWMkxpUFZrUUl6ajg2NjNlcVBaOTYwWEtqUkRTVlVIUGc1a3FoZjVwendXdm1DUTZxN05fNWkzblg2TEVFRkpKNnlTdjlpaWIzYkljMFFSYkRVa29uQkFWZWJOaWpFRV9ZWUJhSXBUa1NaLS1WZjJxcDQ4NmpHaXpFT2xLb1VYZWtSWElyT2xmTEg1V1FnMjE3NE5wQQ?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 10:03:00 GMT",
+      "source": "Reuters"
     },
     {
       "title": "Wall Street prepares for AI's \"day after\"",
@@ -68,13 +128,13 @@
       "source": "Axios"
     },
     {
-      "title": "China's DeepSeek, MiniMax win approval for AI global use, state media-affiliated entity says",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUDVGa0hCU3ppVlo3amtaT1l4T18zcHNWWlFkV3Nveks4TDI5RGxkMzE1TFpEZjIxWFBZNl9ILU9SRVdzMEtCX2JKai1FbXlYTTFFX1Y0U3NfRGZuRGttQ0ZKYVhRS3NaUTlEWldxNzVIQUdzamNVMTE1cVg0N1VpLUlweVZlU3lpOGFRajJ6eHItM3NHTGlLVldsVWxnbTcwQncxekJITDJfWUxWUGt1OWx1Zm4zLXdEdm5ja0VPbXNlNmFxWWstT0lfVkZOQXNTNlRYcktB?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 06:59:00 GMT",
-      "source": "Reuters"
+      "title": "US Treasury proposes a rule to crack down on high-tech investments in China, other adversaries",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSE5iNkpiZ2FiYnczNGJ4Z1NXUzQ2WU1OaVhXbjlRaXpHVy1HMHg5S1Q0dFgwS1Y3ajJIV1V4UjBIcWxodTMtZmJtbzZqVWZ1bVdVWEpicmI3dktxdzdfOTZkQW94bWVvR19tR01OZ3QyOFZiNGRrN0I4TFdVLWZNNWZkZk4zYzI5bk8ycjI5SExjdlVFUDNsMVJLQks?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 08:29:00 GMT",
+      "source": "AP"
     },
     {
-      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
       "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
       "pubDate": "Fri, 23 Oct 2026 04:00:00 +0000",
       "source": "TechCrunch"
@@ -92,6 +152,12 @@
       "source": "CNBC"
     },
     {
+      "title": "Appeals court lifts block on Mississippi's DEI ban, ejects judge over AI errors",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTXU4UEVFNmN1Z1hTZW5oWUhXVXRSWDMyM2JVa1FPUEN2OGFqWEdydi1zbElVb3ZsNGo3Z0RZLUU0bG94emsxTzl3RTV3bG1zUEVmckd1aTZ2MmVjY3V3dWdtR1lWSWxlT2NwR3ROTFFnNlFianNZMS1GdHUxR3BCYTJSQlBnUk9KcEVJNXlOSF9iWjZrR0RvU1lkOWNVa3RjWUREZ1lMTkFsMUFkVmJuN3JEWFRwcE1zbHNqX3BEZU9GQkF1elE?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 23:17:04 GMT",
+      "source": "Reuters"
+    },
+    {
       "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
       "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
       "pubDate": "Thu, 22 Oct 2026 22:08:24 +0000",
@@ -104,82 +170,16 @@
       "source": "AP"
     },
     {
-      "title": "Meta stock sinks nearly 7% as AI spend pushes free cash flow negative",
-      "link": "https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html",
-      "pubDate": "Thu, 22 Oct 2026 20:03:03 GMT",
-      "source": "CNBC"
+      "title": "What to know about the AI-detected security bug impacting wide swaths of the internet",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbnlDSmd3bHZPMnVRaW9oTjhWWTJyalNBR2NNWEVjLVJOaE5WYWdsckk3UVdwRXlNbHJDVzNwSzFCRUF4MVpRalR2b3ktdGF3VUdwcGQ5aVcxSXk2ajRnQ1JTeWE3eUFOaVJLWklxa1o4QWJOQXhYYlFNZjhRLTFNdXhERHdycjBtcllZamYxb18waWtWTmxDMVYxSQ?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 20:46:00 GMT",
+      "source": "AP"
     },
     {
       "title": "The Social Society Helping Women Join the AI Boom",
       "link": "https://www.wired.com/story/aged-intelligence-society-interview/",
       "pubDate": "Thu, 22 Oct 2026 19:56:32 +0000",
       "source": "Wired"
-    },
-    {
-      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
-      "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-      "pubDate": "Thu, 22 Oct 2026 19:07:09 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-      "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
-      "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
-      "pubDate": "Thu, 22 Oct 2026 18:43:53 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Black October: why bugs discovered by OpenAI tech are creating a cyber emergency",
-      "link": "https://www.axios.com/2026/10/22/php-vulnerability-security-update-websites",
-      "pubDate": "Thu, 22 Oct 2026 18:01:31 +0000",
-      "source": "Axios"
-    },
-    {
-      "title": "Third-party evaluators found vulnerabilities in OpenAI monitoring system during test pilot",
-      "link": "https://www.cnbc.com/2026/10/22/metr-redwood-research-open-ai-test.html",
-      "pubDate": "Thu, 22 Oct 2026 17:37:47 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "Rush is on to patch a software vulnerability that could impact 70% of websites worldwide",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQXNid0stVGgtZWpqaVMyd01mNVgzZndaWHhnUTlFT3FKQW1PZ0daVDBfMWxSbThxUzdCSnFNT2U3YWFnMjZvMDVnVFVyUW1DZENvWnFZZU5jRFNCUnlsRE4zU25FZzNpUEUxcDhUYUs3Um1ZZW5tUEc1Z2FwdUF1d2lqVXZ1Z0JyVVkxR1FrZVJ4QTZVX3J4cGZRN2ZiUQ?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 17:25:00 GMT",
-      "source": "AP"
-    },
-    {
-      "title": "What to know about the AI-detected security bug impacting wide swaths of the internet",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbnlDSmd3bHZPMnVRaW9oTjhWWTJyalNBR2NNWEVjLVJOaE5WYWdsckk3UVdwRXlNbHJDVzNwSzFCRUF4MVpRalR2b3ktdGF3VUdwcGQ5aVcxSXk2ajRnQ1JTeWE3eUFOaVJLWklxa1o4QWJOQXhYYlFNZjhRLTFNdXhERHdycjBtcllZamYxb18waWtWTmxDMVYxSQ?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 17:10:57 GMT",
-      "source": "AP"
-    },
-    {
-      "title": "Ukraine’s strikes on Russian data centers disrupt key services and derail AI research",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYWpTNEFPQ2s1OU5QRS1HMzBDVExXeFRlOWUxRzNWamxYTjREcENTMmw1VWlrNkRpdnFNRUFXLVZTUjI3SkZqRlhIZVVXc2hhampybC1pbHVkT2Nhd290ZVlOWEt1TDA4YzgwUUxOM2k1OEE2UFZGWi1DRkU2ckwxVHNZR3pQb2tVN3I2MjFfQlhMZjhqSDdXTTFyRUJCUlFueGlF?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 14:44:00 GMT",
-      "source": "AP"
-    },
-    {
-      "title": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
-      "link": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
-      "pubDate": "Thu, 22 Oct 2026 10:00:00 +0000",
-      "source": "Wired"
-    },
-    {
-      "title": "Scoop: Unvetted AI agents are accessing U.S. bank accounts",
-      "link": "https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access",
-      "pubDate": "Thu, 22 Oct 2026 09:00:06 +0000",
-      "source": "Axios"
-    },
-    {
-      "title": "Anthropic Joins the A.I. Agent Race With Claude Duet",
-      "link": "https://www.nytimes.com/2026/10/21/technology/anthropic-ai-agent-claude-duet.html",
-      "pubDate": "Wed, 21 Oct 2026 22:45:12 +0000",
-      "source": "The New York Times"
     }
   ]
 }
