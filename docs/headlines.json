@@ -1,35 +1,65 @@
 {
-  "updated_at": "2026-10-26T17:06:33.310Z",
+  "updated_at": "2026-10-26T21:50:55.390Z",
   "items": [
     {
-      "title": "Anthropic's IPO: A close look at AI frontrunner's rapid growth, spiraling costs",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX1UzRjJ6M0VaSXoydWlIZ2pzc2tGcUZtMjlzR1JhUE9UR0llUERrRWRJNUdTRWNNQU9IUUEycmZUVk40cEtCSjZ5TzRqZVRWT1JvMEtmQmlENklzd19LLWlDREZZakJ0MWdTOTZleEdBN1FVRFJGMGxHWnpkY2owdVFSQ0FWWHNFcWlPTUtpb1ZDRkZrY0tUMkZrdHRJMnFJZEZveXVQaG41OHFibWFyMWpfNG9jTlR0aTM1enNKT18?oc=5",
-      "pubDate": "Mon, 26 Oct 2026 16:53:16 GMT",
-      "source": "Reuters"
+      "title": "Anthropic is burning gas to feed the AI boom",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+      "pubDate": "2026-10-26T17:45:31-04:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
+      "link": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/",
+      "pubDate": "Mon, 26 Oct 2026 21:27:15 +0000",
+      "source": "Wired"
     },
     {
       "title": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
       "link": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
-      "pubDate": "Mon, 26 Oct 2026 16:51:12 GMT",
+      "pubDate": "Mon, 26 Oct 2026 20:44:50 GMT",
       "source": "CNBC"
+    },
+    {
+      "title": "The Key Numbers From Anthropic’s IPO Filing",
+      "link": "https://www.nytimes.com/2026/10/26/technology/anthropic-business-key-numbers.html",
+      "pubDate": "Mon, 26 Oct 2026 20:21:28 +0000",
+      "source": "The New York Times"
+    },
+    {
+      "title": "Anthropic’s IPO S-1 Spells Out a Future of Promise and Peril",
+      "link": "https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-s1-dario-amodei.html",
+      "pubDate": "Mon, 26 Oct 2026 19:36:40 +0000",
+      "source": "The New York Times"
+    },
+    {
+      "title": "What’s Riding on Anthropic Going Public? Nearly Everything.",
+      "link": "https://www.nytimes.com/2026/10/26/technology/anthropic-going-public-stakes.html",
+      "pubDate": "Mon, 26 Oct 2026 18:44:18 +0000",
+      "source": "The New York Times"
+    },
+    {
+      "title": "Anthropic S-1 Reveals Rapid Growth Ahead of Blockbuster IPO",
+      "link": "https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-finances.html",
+      "pubDate": "Mon, 26 Oct 2026 18:08:07 +0000",
+      "source": "The New York Times"
+    },
+    {
+      "title": "The RealReal won’t let AI agents hog designer clothing",
+      "link": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
+      "pubDate": "2026-10-26T13:30:55-04:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Five weird details from Anthropic’s IPO filing",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+      "pubDate": "2026-10-26T13:10:23-04:00",
+      "source": "The Verge"
     },
     {
       "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
       "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
       "pubDate": "Mon, 26 Oct 2026 16:49:42 +0000",
       "source": "TechCrunch"
-    },
-    {
-      "title": "In China, the AI bubble has already burst",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTnhLb1ZGYUdnbENkWmMyZDZqTHlsckJwbEsxWVZGTnI5U2lPcFNXLXFoYmRRZm1rU2NWREZrWGVRblRES2FmdkwtUVIzMDlTS2N4ZW5vNno1Y2JCR1FzclhmdUVBOU5jMElCd2FwTlN1VzdfOU94YXlFc2VSWmRObXZyMVhyNnlf?oc=5",
-      "pubDate": "Mon, 26 Oct 2026 16:19:47 GMT",
-      "source": "Reuters"
-    },
-    {
-      "title": "Anthropic files for potentially the biggest IPO ever as CEO warns of risk to humanity from AI",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNlh5REtLQ3ZiYnhaV0ZnZXRhMVkwV282YXN2ODFlQjA4NWx4UHdUWlNwV1lXZnFHcDZ2S2NkMGF3VnVkczNGb1NVQnJNSk5XdEIyTHZRTUlGYlFVSXpadjNTT0VsVjhMUUxqRExWOEdENGM3bl9HUmJ5eEwzT0Jhc2xRNzdfX1RpV3VVcjNxYjM?oc=5",
-      "pubDate": "Mon, 26 Oct 2026 16:07:00 GMT",
-      "source": "AP"
     },
     {
       "title": "The Anthropic S-1 Filing Is Also an AI Doomsday Primer",
@@ -50,22 +80,10 @@
       "source": "The New York Times"
     },
     {
-      "title": "Meta eyes record $95 billion equity raise to fund AI expansion",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPclhjOFJvYkM0S0hLUmxaY0l2X3hCdWI0N1prZlo2QXhXdmt5T0pNQVpFODVpYzgycWdZcHM2NkZ2LTdaMEVUVlpTXzVFUzc2ZEdVdlpTeThUVkZtc3V4cEFTelk5bDd2Z0dfRDFsb0dGQ0MxRXhYMExFZTlXVkNjRXF6TDBLalZ5ZTFBbFMyX24wMVBTQW1GQkJNRjNYWTRiVGJJWWdialBfV1oyQUZNN3I4RQ?oc=5",
-      "pubDate": "Mon, 26 Oct 2026 15:17:40 GMT",
-      "source": "Reuters"
-    },
-    {
       "title": "Fanatics teams up with OpenAI for new AI-powered shopping suggestion feature",
       "link": "https://www.cnbc.com/2026/10/26/fanatics-openai-codex-sports-merchandise-shopping.html",
       "pubDate": "Mon, 26 Oct 2026 15:05:13 GMT",
       "source": "CNBC"
-    },
-    {
-      "title": "Anthropic S-1 Reveals Rapid Growth Ahead of Blockbuster IPO",
-      "link": "https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-finances.html",
-      "pubDate": "Mon, 26 Oct 2026 15:02:03 +0000",
-      "source": "The New York Times"
     },
     {
       "title": "Anthropic’s IPO Prospectus Reveals What’s Under the Hood",
@@ -80,12 +98,6 @@
       "source": "TechCrunch"
     },
     {
-      "title": "VIEW Anthropic IPO filing to put AI investment boom to the test",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNlJETmo1Z21kOWpEaXF5T25sQTVFTHE3Y3FRMWtHMEVyNlpNMXU0OVllN3dnRTlhRS1kMUx2T3JLZ0psUVJPQ29UMmNDREpWWGFpVUFEcHgxWjFzSFoydHgwR3o2R01sTVJaQjh6NlZHSV9sbFZTQ0RTSXhsSnNIV3Uxc1NVQUJla1ZZb3I2aDdiQ0x3Mm1wOUxvamE5a1k5dFRxRW5rWEVRZEpoZmc?oc=5",
-      "pubDate": "Mon, 26 Oct 2026 14:28:50 GMT",
-      "source": "Reuters"
-    },
-    {
       "title": "AI giant Anthropic files for an IPO that could break records",
       "link": "https://www.npr.org/2026/10/26/nx-s1-6014772/anthropic-ai-ipo-could-break-records",
       "pubDate": "Mon, 26 Oct 2026 10:16:23 -0400",
@@ -98,46 +110,16 @@
       "source": "CNBC"
     },
     {
-      "title": "SpaceX enters $40 billion deal with Apollo for AI chip financing",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNVVGd09lcmxpeGpEOEFyaWx0LTFsSG5nQjdDS2d2ZDVyQXpnNjhhVGgyeUh0eXBubTlRYzNWeXF4TmRrTDR4bWkxTVlXb2ZFbnhwdmY4ZnI0Z0d5Y2V1bW9hU0NrVjZnbFhMTmxOaV9ITC1MQXJHMlFtbklQYm1vWkFCLWxvQzJvWHNia09rbUc1NXZya0NYcTd6NGFxLWIzMTExTFNkclNsak9PM1hwc2s4UktHOVpBVmc?oc=5",
-      "pubDate": "Mon, 26 Oct 2026 13:58:13 GMT",
-      "source": "Reuters"
-    },
-    {
       "title": "Anthropic's IPO outlines AI's extraordinary risks",
       "link": "https://www.axios.com/2026/10/26/anthropic-ipo-risk-factors-humanity",
       "pubDate": "Mon, 26 Oct 2026 13:52:48 +0000",
       "source": "Axios"
     },
     {
-      "title": "Thune scrambles to save his Senate majority as voters voice concern over the Iran war and gas prices",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTVNR28xZGd0cEtsWm84SnN4X2htV3dyd2VEamVsZXFWLXo3M3dsYUtBdDlCdlRGdWRiODlYQURDNlBPNGRtVVRJdmE1VGlYblM3bDhFcnk3SUs0ZC1MMWVCd1ltSnRqSGRTMWt6bjV5Yzc1YVVYTmc4ZnpNdjUzNlBKczRXNzFDdWdqQWhkWW02bkZiTFlqUzFWZHFrNGs3aFB2RGlVeGZrQzNROHJtYm9NYlpKaW8?oc=5",
-      "pubDate": "Mon, 26 Oct 2026 13:37:00 GMT",
-      "source": "AP"
-    },
-    {
-      "title": "Anthropic’s IPO filing lays out a plan to &#8216;revolutionize every area of human endeavor&#8217; with AI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
-      "pubDate": "2026-10-26T09:32:49-04:00",
-      "source": "The Verge"
-    },
-    {
-      "title": "Can AI help solve the COBOL code crisis?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
-      "pubDate": "2026-10-26T09:15:00-04:00",
-      "source": "The Verge"
-    },
-    {
       "title": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says",
       "link": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html",
       "pubDate": "Mon, 26 Oct 2026 13:06:01 GMT",
       "source": "CNBC"
-    },
-    {
-      "title": "Cadence unveils Nvidia-backed AI models that chipmakers can run in-house",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSXZrWlJVYTllelhNczNoX2dHZ2pQYk1FTUZtLVNPYUdZUEdEVElSZGpLR0QzWTJZS25DOUNHdXdvakRCcHBLVmxKbFBwVmNXWUhtZllwZ2p5ZzdjdnBUb3ZkOWRmT3VzbUNLQ09YRVVJQk5WSWtncHVkRjZUWlJYbDJ2TzRFM0hEM1YtOHd0c05XaW1GRFJhMU1aZEpzOVJZaU5UQTZCMi1EMExhNnRKRmRmR2gyaGZq?oc=5",
-      "pubDate": "Mon, 26 Oct 2026 13:03:43 GMT",
-      "source": "Reuters"
     },
     {
       "title": "Meet the AI Agents Trying to Be Real-Life Journalists",
@@ -152,12 +134,6 @@
       "source": "Axios"
     },
     {
-      "title": "What’s Riding on Anthropic Going Public? Nearly Everything.",
-      "link": "https://www.nytimes.com/2026/10/26/technology/anthropic-going-public-stakes.html",
-      "pubDate": "Mon, 26 Oct 2026 09:02:15 +0000",
-      "source": "The New York Times"
-    },
-    {
       "title": "This AI Radio Host Speaks Spanish and Backs Immigrants. It’s Winning Over Listeners",
       "link": "https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/",
       "pubDate": "Mon, 26 Oct 2026 09:00:00 +0000",
@@ -170,15 +146,39 @@
       "source": "CNBC"
     },
     {
-      "title": "As the US and China form AI blocs, countries are increasingly torn between them",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPakhwUzlHbnJOemg0S0x1WlNQSUZIaEtpZlNSd0JtZmszRlg2S3QtTzZla3o2WjdDdTlhUFk0M0UteG84UTA4TndIbUgycFJrTFhlTG4yRXQ2STNDOFBuWE10eDhfcVRuLTNJbWRTRkhMSDZzSXVrcGdCZmpkVG9jS3loUQ?oc=5",
-      "pubDate": "Mon, 26 Oct 2026 02:55:00 GMT",
-      "source": "AP"
-    },
-    {
       "title": "Anthropic's Claude bypassed a paywall to access Georgia voter data without authorization",
       "link": "https://www.axios.com/2026/10/25/anthropic-claude-georgia-voter-data",
       "pubDate": "Sun, 25 Oct 2026 22:26:59 +0000",
+      "source": "Axios"
+    },
+    {
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "pubDate": "Sun, 25 Oct 2026 21:31:16 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "pubDate": "Sun, 25 Oct 2026 16:57:32 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "pubDate": "Sun, 25 Oct 2026 14:10:00 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Will AI expose the rickety infrastructure of the internet?",
+      "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+      "pubDate": "Sat, 24 Oct 2026 20:15:33 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Washington's message to AI execs: Please shut up",
+      "link": "https://www.axios.com/2026/10/24/ai-ceos-washington-political-liability",
+      "pubDate": "Sat, 24 Oct 2026 16:32:03 +0000",
       "source": "Axios"
     }
   ]
