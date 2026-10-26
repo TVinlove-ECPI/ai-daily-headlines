@@ -20,15 +20,18 @@ const AI_KEYWORD_REGEX = /\b(AI|A\.I\.|artificial intelligence|machine learning|
 // Each source is fetched independently — if one fails or is blocked,
 // the others still populate the feed. filterAI: true means the feed is
 // general (not AI-specific), so items are kept only if the title mentions
-// AI. Reuters and AP no longer publish public RSS feeds directly, so
-// those two route through Google News' public search feed instead —
-// a workaround, not an official feed from those outlets.
+// AI.
+//
+// Reuters and AP are intentionally not included: neither publishes a
+// public RSS feed, and the Google News workaround previously used here
+// produced links that Google intermittently blocks for direct/automated
+// access (ERR_BLOCKED_BY_RESPONSE) — unreliable enough that it wasn't
+// worth keeping. If a cleaner path to those two ever becomes available,
+// add them back the same way as any other entry below.
 const SOURCES = [
   { name: 'The New York Times', url: 'https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml', filterAI: true },
   { name: 'The Washington Post', url: 'https://feeds.washingtonpost.com/rss/business/technology', filterAI: true },
   { name: 'NPR', url: 'https://feeds.npr.org/1019/rss.xml', filterAI: true },
-  { name: 'Reuters', url: 'https://news.google.com/rss/search?q=AI+when:3d+site:reuters.com&hl=en-US&gl=US&ceid=US:en', filterAI: false, stripSourceSuffix: true },
-  { name: 'AP', url: 'https://news.google.com/rss/search?q=AI+when:3d+site:apnews.com&hl=en-US&gl=US&ceid=US:en', filterAI: false, stripSourceSuffix: true },
   { name: 'TechCrunch', url: 'https://techcrunch.com/feed/', filterAI: true },
   { name: 'Wired', url: 'https://www.wired.com/feed/rss', filterAI: true },
   { name: 'The Verge', url: 'https://www.theverge.com/rss/index.xml', filterAI: true },
