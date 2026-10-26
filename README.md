@@ -2,9 +2,9 @@
 
 A small, self-updating feed of daily AI news headlines, built for embedding
 in an Articulate Rise course. No AI model, no API key — it pulls AI-related
-headlines directly from the public RSS feeds of ten major outlets: The New
-York Times, The Washington Post, NPR, Reuters, AP, TechCrunch, Wired, The
-Verge, CNBC, and Axios.
+headlines directly from the public RSS feeds of eight major outlets: The
+New York Times, The Washington Post, NPR, TechCrunch, Wired, The Verge,
+CNBC, and Axios.
 
 This is keyword filtering across public feeds, not AI synthesis — it
 collects and sorts real headlines, it doesn't summarize or interpret them.
@@ -27,15 +27,17 @@ collects and sorts real headlines, it doesn't summarize or interpret them.
 Nothing in this repo needs a secret, API key, or manual daily update.
 Once set up, it runs itself.
 
-### A note on two of the ten sources
+### Why Reuters and AP aren't included
 
-Reuters and AP discontinued their public RSS feeds years ago. For those
-two, the script routes through Google News' public search feed instead,
-filtered to each outlet's site — a workaround, not an official feed from
-either outlet. NPR's feed has also been known to intermittently block
-non-US traffic; the script skips any source that fails rather than
-breaking the whole feed, so this only means NPR's headlines are
-occasionally thinner on a given day, not that anything is broken.
+Neither outlet publishes a public RSS feed anymore. An earlier version of
+this script routed around that using Google News' public search feed, but
+Google intermittently blocks direct access to those redirect links
+(`ERR_BLOCKED_BY_RESPONSE`), so links would sometimes fail for learners.
+Rather than ship unreliable links, those two sources were dropped. NPR's
+feed has also been known to occasionally block non-US traffic; the script
+skips any source that fails rather than breaking the whole feed, so this
+only means NPR's headlines are sometimes thinner on a given day, not that
+anything is broken.
 
 ## Repo structure
 
@@ -51,7 +53,7 @@ The number of items displayed in Rise is set separately from how many are
 collected. In `rise-headlines-embed-github.html`, find:
 
 ```
-var ISSUES_TO_SHOW = 5;
+var ISSUES_TO_SHOW = 12;
 ```
 
 Change the number and re-paste the file into Rise's embed block. (The
@@ -82,6 +84,6 @@ timezone.
 ## Attribution
 
 Headlines and links are sourced from the public feeds of The New York
-Times, The Washington Post, NPR, Reuters, AP, TechCrunch, Wired, The
-Verge, CNBC, and Axios. This repo only stores and displays their public
-titles and links — no article content is reproduced.
+Times, The Washington Post, NPR, TechCrunch, Wired, The Verge, CNBC, and
+Axios. This repo only stores and displays their public titles and links —
+no article content is reproduced.
