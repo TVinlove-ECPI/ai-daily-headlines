@@ -1,41 +1,149 @@
 {
-  "updated_at": "2026-10-28T16:57:03.784Z",
+  "updated_at": "2026-10-29T17:17:48.929Z",
   "items": [
     {
-      "title": "Alphabet set to report Q3 earnings after the bell as shaky AI trade looks for signs of strength",
-      "link": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
-      "pubDate": "Wed, 28 Oct 2026 16:33:22 GMT",
+      "title": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search",
+      "link": "https://www.cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html",
+      "pubDate": "Thu, 29 Oct 2026 16:25:40 GMT",
       "source": "CNBC"
     },
     {
-      "title": "AI execs may be too out of touch to build for the general public",
-      "link": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
-      "pubDate": "Wed, 28 Oct 2026 15:53:52 +0000",
+      "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+      "link": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+      "pubDate": "Thu, 29 Oct 2026 16:21:00 +0000",
       "source": "TechCrunch"
     },
     {
-      "title": "Voice AI in vogue: Nvidia releases new open transcription model",
-      "link": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
-      "pubDate": "Wed, 28 Oct 2026 15:00:00 +0000",
+      "title": "AI buildout hits snag as Google and Microsoft put off raising capex forecasts",
+      "link": "https://www.cnbc.com/2026/10/29/microsoft-google-ai-capex-estimates.html",
+      "pubDate": "Thu, 29 Oct 2026 16:20:51 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "SuperMe raises $20M for its network of AI expert profiles",
+      "link": "https://techcrunch.com/2026/10/29/superme-raises-20m-for-its-network-of-ai-expert-profiles/",
+      "pubDate": "Thu, 29 Oct 2026 16:19:43 +0000",
       "source": "TechCrunch"
     },
     {
-      "title": "Meta has a new AI pet app called Waddle World",
-      "link": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/",
-      "pubDate": "Wed, 28 Oct 2026 13:53:31 +0000",
+      "title": "Amazon to report Q3 earnings after the bell with AI spend under scrutiny",
+      "link": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html",
+      "pubDate": "Thu, 29 Oct 2026 16:00:01 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Microsoft’s AI future has fewer jobs",
+      "link": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
+      "pubDate": "2026-10-29T12:00:00-04:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "ServiceNow shares plunge 25% after earnings revive AI disruption fears",
+      "link": "https://www.cnbc.com/2026/10/29/servicenow-now-earnings-q3-2026.html",
+      "pubDate": "Thu, 29 Oct 2026 15:54:12 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Who benefits when massive AI data centers come to town?",
+      "link": "https://www.npr.org/2026/10/29/nx-s1-6022096/who-benefits-when-massive-ai-data-centers-come-to-town",
+      "pubDate": "Thu, 29 Oct 2026 11:41:59 -0400",
+      "source": "NPR"
+    },
+    {
+      "title": "The NYT Cooking app is testing AI recipe modifications",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+      "pubDate": "2026-10-29T10:39:37-04:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+      "link": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+      "pubDate": "Thu, 29 Oct 2026 14:35:26 +0000",
       "source": "TechCrunch"
+    },
+    {
+      "title": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
+      "link": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
+      "pubDate": "Thu, 29 Oct 2026 14:00:00 +0000",
+      "source": "Wired"
+    },
+    {
+      "title": "Anthropic is asking Wall Street to believe in AGI",
+      "link": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+      "pubDate": "2026-10-29T10:00:00-04:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Amazon’s AI shopping assistant can now edit your grocery lists and gift registries",
+      "link": "https://www.theverge.com/tech/1022140/amazon-alexa-for-shopping-grocery-lists-gift-registries",
+      "pubDate": "2026-10-29T09:52:48-04:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "This $149 digital candle uses AI to accurately simulate a flickering flame",
+      "link": "https://www.theverge.com/tech/1022113/kevin-bates-arduboy-digital-candle-ai-simulate-flame",
+      "pubDate": "2026-10-29T09:37:56-04:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Anthropic’s business plan: Build God or die trying",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+      "pubDate": "2026-10-29T09:30:00-04:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+      "link": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+      "pubDate": "Thu, 29 Oct 2026 13:00:00 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "An AI Breakthrough Has Made Decades of Computer Science Research ‘Irrelevant’",
+      "link": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
+      "pubDate": "Thu, 29 Oct 2026 10:45:00 +0000",
+      "source": "Wired"
+    },
+    {
+      "title": "I Gave My Blood to the AI Death Clock",
+      "link": "https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/",
+      "pubDate": "Thu, 29 Oct 2026 10:00:00 +0000",
+      "source": "Wired"
+    },
+    {
+      "title": "Google expands AI Search ads globally as core ad growth slows",
+      "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+      "pubDate": "Wed, 28 Oct 2026 21:48:37 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Anthropic’s public benefit structure creates unusual risks for IPO investors",
+      "link": "https://www.cnbc.com/2026/10/28/anthropic-pbc-what-its-structure-means-for-investors-.html",
+      "pubDate": "Wed, 28 Oct 2026 21:48:17 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+      "pubDate": "Wed, 28 Oct 2026 21:34:30 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "AI Is Finding a Flood of Bugs, and Silicon Valley Is Rushing to Fix Them",
+      "link": "https://www.nytimes.com/2026/10/28/technology/silicon-valley-bugs-ai.html",
+      "pubDate": "Wed, 28 Oct 2026 19:14:53 +0000",
+      "source": "The New York Times"
+    },
+    {
+      "title": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet",
+      "link": "https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/",
+      "pubDate": "Wed, 28 Oct 2026 18:30:00 +0000",
+      "source": "Wired"
     },
     {
       "title": "Google alters its cloud playbook, enlisting partners to sell more AI chips",
       "link": "https://www.cnbc.com/2026/10/28/google-alters-cloud-playbook-turning-to-partners-to-sell-more-ai-chips.html",
       "pubDate": "Wed, 28 Oct 2026 13:52:27 GMT",
       "source": "CNBC"
-    },
-    {
-      "title": "AI Is Finding a Flood of Bugs, and Silicon Valley Is Rushing to Fix Them",
-      "link": "https://www.nytimes.com/2026/10/28/technology/silicon-valley-bugs-ai.html",
-      "pubDate": "Wed, 28 Oct 2026 13:40:03 +0000",
-      "source": "The New York Times"
     },
     {
       "title": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
@@ -50,75 +158,15 @@
       "source": "Axios"
     },
     {
+      "title": "Anthropic is preparing to go public. A look at the company&apos;s plan",
+      "link": "https://www.npr.org/2026/10/28/nx-s1-6019534/anthropic-is-preparing-to-go-public-a-look-at-their-plan",
+      "pubDate": "Wed, 28 Oct 2026 04:45:40 -0400",
+      "source": "NPR"
+    },
+    {
       "title": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
       "link": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
       "pubDate": "Wed, 28 Oct 2026 08:30:00 +0000",
-      "source": "Wired"
-    },
-    {
-      "title": "Should AI Decide Your Court Case? This Judge Says Yes",
-      "link": "https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/",
-      "pubDate": "Wed, 28 Oct 2026 06:00:00 +0000",
-      "source": "Wired"
-    },
-    {
-      "title": "VCs will make billions on Anthropic&#8217;s IPO, but Amazon is set to make much (much) more",
-      "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
-      "pubDate": "Wed, 28 Oct 2026 01:15:28 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-      "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
-      "pubDate": "Tue, 27 Oct 2026 23:34:27 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Chart: Anthropic&apos;s cash pile towers over nearly every U.S. company",
-      "link": "https://www.cnbc.com/2026/10/27/anthropic-cash-investments-ipo.html",
-      "pubDate": "Tue, 27 Oct 2026 23:03:09 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "Jim Cramer warns investors not to get fooled by the latest AI stock rally",
-      "link": "https://www.cnbc.com/2026/10/27/jim-cramer-ai-trade-financing-risks.html",
-      "pubDate": "Tue, 27 Oct 2026 22:24:19 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "Bank of America kindly asks that you don&#8217;t share your banking password with your AI assistant",
-      "link": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
-      "pubDate": "Tue, 27 Oct 2026 21:44:34 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Walmart says AI training is boosting confidence with the technology among its 2.1 million associates",
-      "link": "https://www.cnbc.com/2026/10/27/walmart-ai-training-workers.html",
-      "pubDate": "Tue, 27 Oct 2026 21:15:35 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "Anthropic Says It Will Revolutionize Biology—Some Day",
-      "link": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
-      "pubDate": "Tue, 27 Oct 2026 19:39:04 +0000",
-      "source": "Wired"
-    },
-    {
-      "title": "Amazon&apos;s anti-tokenmaxxing memo says engineers should be pickier about using AI",
-      "link": "https://www.cnbc.com/2026/10/27/amazon-ai-coding-tokenmaxxing.html",
-      "pubDate": "Tue, 27 Oct 2026 18:57:45 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "Anthropic Flags Gas Supply as One of Its Biggest Near-Term Risks",
-      "link": "https://www.wired.com/story/anthropic-ipo-identifies-gas-supply-as-big-near-term-risks/",
-      "pubDate": "Tue, 27 Oct 2026 18:20:28 +0000",
-      "source": "Wired"
-    },
-    {
-      "title": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
-      "link": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
-      "pubDate": "Tue, 27 Oct 2026 15:10:26 +0000",
       "source": "Wired"
     },
     {
@@ -131,54 +179,6 @@
       "title": "Inside Anthropic's massive — and wild — IPO prospectus",
       "link": "https://www.axios.com/2026/10/26/anthropic-ipo-biggest-surprises",
       "pubDate": "Mon, 26 Oct 2026 22:58:44 +0000",
-      "source": "Axios"
-    },
-    {
-      "title": "The Key Numbers From Anthropic’s IPO Filing",
-      "link": "https://www.nytimes.com/2026/10/26/technology/anthropic-business-key-numbers.html",
-      "pubDate": "Mon, 26 Oct 2026 20:21:29 +0000",
-      "source": "The New York Times"
-    },
-    {
-      "title": "Anthropic’s IPO S-1 Spells Out a Future of Promise and Peril",
-      "link": "https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-s1-dario-amodei.html",
-      "pubDate": "Mon, 26 Oct 2026 19:36:41 +0000",
-      "source": "The New York Times"
-    },
-    {
-      "title": "What’s Riding on Anthropic Going Public? Nearly Everything.",
-      "link": "https://www.nytimes.com/2026/10/26/technology/anthropic-going-public-stakes.html",
-      "pubDate": "Mon, 26 Oct 2026 18:44:19 +0000",
-      "source": "The New York Times"
-    },
-    {
-      "title": "Anthropic S-1 Reveals Rapid Growth Ahead of Blockbuster IPO",
-      "link": "https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-finances.html",
-      "pubDate": "Mon, 26 Oct 2026 18:08:07 +0000",
-      "source": "The New York Times"
-    },
-    {
-      "title": "Economic policy vets see risks in AI overreliance",
-      "link": "https://www.axios.com/2026/10/26/ai-economists-furman-policy",
-      "pubDate": "Mon, 26 Oct 2026 16:01:01 +0000",
-      "source": "Axios"
-    },
-    {
-      "title": "Meet Anthropic’s Seven Founders as the A.I. Firm Prepares for an IPO",
-      "link": "https://www.nytimes.com/2026/10/26/technology/anthropic-founders.html",
-      "pubDate": "Mon, 26 Oct 2026 15:24:56 +0000",
-      "source": "The New York Times"
-    },
-    {
-      "title": "AI giant Anthropic files for an IPO that could break records",
-      "link": "https://www.npr.org/2026/10/26/nx-s1-6014772/anthropic-ai-ipo-could-break-records",
-      "pubDate": "Mon, 26 Oct 2026 10:16:23 -0400",
-      "source": "NPR"
-    },
-    {
-      "title": "Anthropic's IPO outlines AI's extraordinary risks",
-      "link": "https://www.axios.com/2026/10/26/anthropic-ipo-risk-factors-humanity",
-      "pubDate": "Mon, 26 Oct 2026 13:52:48 +0000",
       "source": "Axios"
     }
   ]
