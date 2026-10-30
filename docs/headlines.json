@@ -1,47 +1,125 @@
 {
-  "updated_at": "2026-10-29T17:17:48.929Z",
+  "updated_at": "2026-10-30T16:55:42.876Z",
   "items": [
     {
-      "title": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search",
-      "link": "https://www.cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html",
-      "pubDate": "Thu, 29 Oct 2026 16:25:40 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
-      "link": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
-      "pubDate": "Thu, 29 Oct 2026 16:21:00 +0000",
+      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is &#8216;a great opportunity to go deceive people&#8217;",
+      "link": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+      "pubDate": "Fri, 30 Oct 2026 16:03:45 +0000",
       "source": "TechCrunch"
     },
     {
-      "title": "AI buildout hits snag as Google and Microsoft put off raising capex forecasts",
-      "link": "https://www.cnbc.com/2026/10/29/microsoft-google-ai-capex-estimates.html",
-      "pubDate": "Thu, 29 Oct 2026 16:20:51 GMT",
+      "title": "Musk and Zuckerberg echo Trump&apos;s push to rebrand AI as &apos;super intelligence&apos; on earnings calls. Others do not",
+      "link": "https://www.cnbc.com/2026/10/30/trump-tech-allies-swap-ai-for-super-intelligence-in-earnings-calls.html",
+      "pubDate": "Fri, 30 Oct 2026 15:14:27 GMT",
       "source": "CNBC"
     },
     {
-      "title": "SuperMe raises $20M for its network of AI expert profiles",
-      "link": "https://techcrunch.com/2026/10/29/superme-raises-20m-for-its-network-of-ai-expert-profiles/",
-      "pubDate": "Thu, 29 Oct 2026 16:19:43 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Amazon to report Q3 earnings after the bell with AI spend under scrutiny",
-      "link": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html",
-      "pubDate": "Thu, 29 Oct 2026 16:00:01 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "Microsoft’s AI future has fewer jobs",
-      "link": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
-      "pubDate": "2026-10-29T12:00:00-04:00",
+      "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+      "pubDate": "2026-10-30T10:58:06-04:00",
       "source": "The Verge"
     },
     {
-      "title": "ServiceNow shares plunge 25% after earnings revive AI disruption fears",
-      "link": "https://www.cnbc.com/2026/10/29/servicenow-now-earnings-q3-2026.html",
-      "pubDate": "Thu, 29 Oct 2026 15:54:12 GMT",
+      "title": "This electric screwdriver uses a camera and AI to figure out what bit you need",
+      "link": "https://www.theverge.com/tech/1023057/arrowmax-arrowspace-s1-electric-screwdriver-ai-camera-kickstarter",
+      "pubDate": "2026-10-30T10:23:26-04:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "DoorDash said it&#8217;s only received &#8216;several hundred&#8217; orders from AI agents",
+      "link": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+      "pubDate": "Fri, 30 Oct 2026 13:54:25 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+      "pubDate": "2026-10-30T09:01:14-04:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+      "link": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+      "pubDate": "Fri, 30 Oct 2026 13:00:00 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Democrats see AI hate as winning issue heading into 2028",
+      "link": "https://www.axios.com/2026/10/30/2028-democrats-ai-hate-regulation-messaging",
+      "pubDate": "Fri, 30 Oct 2026 12:32:46 +0000",
+      "source": "Axios"
+    },
+    {
+      "title": "The big questions remaining after Anthropic’s blockbuster IPO prospectus",
+      "link": "https://www.cnbc.com/2026/10/30/anthropic-ipo-s1-revenue-compute.html",
+      "pubDate": "Fri, 30 Oct 2026 12:27:36 GMT",
       "source": "CNBC"
+    },
+    {
+      "title": "Tech giants need legacy businesses to keep growing as they pour trillions into the AI buildout",
+      "link": "https://www.cnbc.com/2026/10/30/tech-giants-alphabet-meta-microsoft-amazon-ai-buildouts.html",
+      "pubDate": "Fri, 30 Oct 2026 11:00:01 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Nearly 2 out of 3 teens and tweens use AI chatbots, new research shows",
+      "link": "https://www.npr.org/2026/10/30/nx-s1-6022278/ai-artificial-intelligence-teens-jed-common-sense-media",
+      "pubDate": "Fri, 30 Oct 2026 05:00:00 -0400",
+      "source": "NPR"
+    },
+    {
+      "title": "The humans burning out on AI's cyber frontlines",
+      "link": "https://www.axios.com/2026/10/30/cybersecurity-ai-burnout-human-workers",
+      "pubDate": "Fri, 30 Oct 2026 08:45:06 +0000",
+      "source": "Axios"
+    },
+    {
+      "title": "Foxconn hopes to own 50% of the global AI server market within a couple years",
+      "link": "https://www.cnbc.com/2026/10/30/hon-hai-technology-group-foxconn-ai-server-young-liu-.html",
+      "pubDate": "Fri, 30 Oct 2026 07:43:39 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "You don&#8217;t need to believe in a god to get a religious exemption from using AI at work",
+      "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+      "pubDate": "Fri, 30 Oct 2026 01:20:48 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Microsoft plans to raise $25 billion in debt as it pursues AI buildout",
+      "link": "https://www.cnbc.com/2026/10/29/microsoft-25-billion-debt-offering.html",
+      "pubDate": "Fri, 30 Oct 2026 00:38:13 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Reddit moves to logged-in experience as AI eats search",
+      "link": "https://www.axios.com/2026/10/29/reddit-logged-in-ai-search-incognito",
+      "pubDate": "Thu, 29 Oct 2026 20:07:04 +0000",
+      "source": "Axios"
+    },
+    {
+      "title": "Rivian expands joint venture with VW to include AI assistant",
+      "link": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+      "pubDate": "Thu, 29 Oct 2026 20:05:47 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "ServiceNow shares plunge 27% to worst day ever after earnings revive AI disruption fears",
+      "link": "https://www.cnbc.com/2026/10/29/servicenow-now-earnings-q3-2026.html",
+      "pubDate": "Thu, 29 Oct 2026 20:02:32 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "OpenAI-backed Thrive Holdings acquires ADT",
+      "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+      "pubDate": "Thu, 29 Oct 2026 19:56:19 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
+      "link": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+      "pubDate": "Thu, 29 Oct 2026 18:39:43 +0000",
+      "source": "Wired"
     },
     {
       "title": "Who benefits when massive AI data centers come to town?",
@@ -50,52 +128,10 @@
       "source": "NPR"
     },
     {
-      "title": "The NYT Cooking app is testing AI recipe modifications",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
-      "pubDate": "2026-10-29T10:39:37-04:00",
-      "source": "The Verge"
-    },
-    {
-      "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
-      "link": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
-      "pubDate": "Thu, 29 Oct 2026 14:35:26 +0000",
-      "source": "TechCrunch"
-    },
-    {
       "title": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
       "link": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
       "pubDate": "Thu, 29 Oct 2026 14:00:00 +0000",
       "source": "Wired"
-    },
-    {
-      "title": "Anthropic is asking Wall Street to believe in AGI",
-      "link": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
-      "pubDate": "2026-10-29T10:00:00-04:00",
-      "source": "The Verge"
-    },
-    {
-      "title": "Amazon’s AI shopping assistant can now edit your grocery lists and gift registries",
-      "link": "https://www.theverge.com/tech/1022140/amazon-alexa-for-shopping-grocery-lists-gift-registries",
-      "pubDate": "2026-10-29T09:52:48-04:00",
-      "source": "The Verge"
-    },
-    {
-      "title": "This $149 digital candle uses AI to accurately simulate a flickering flame",
-      "link": "https://www.theverge.com/tech/1022113/kevin-bates-arduboy-digital-candle-ai-simulate-flame",
-      "pubDate": "2026-10-29T09:37:56-04:00",
-      "source": "The Verge"
-    },
-    {
-      "title": "Anthropic’s business plan: Build God or die trying",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
-      "pubDate": "2026-10-29T09:30:00-04:00",
-      "source": "The Verge"
-    },
-    {
-      "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
-      "link": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
-      "pubDate": "Thu, 29 Oct 2026 13:00:00 +0000",
-      "source": "TechCrunch"
     },
     {
       "title": "An AI Breakthrough Has Made Decades of Computer Science Research ‘Irrelevant’",
@@ -110,46 +146,10 @@
       "source": "Wired"
     },
     {
-      "title": "Google expands AI Search ads globally as core ad growth slows",
-      "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
-      "pubDate": "Wed, 28 Oct 2026 21:48:37 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Anthropic’s public benefit structure creates unusual risks for IPO investors",
-      "link": "https://www.cnbc.com/2026/10/28/anthropic-pbc-what-its-structure-means-for-investors-.html",
-      "pubDate": "Wed, 28 Oct 2026 21:48:17 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
-      "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-      "pubDate": "Wed, 28 Oct 2026 21:34:30 +0000",
-      "source": "TechCrunch"
-    },
-    {
       "title": "AI Is Finding a Flood of Bugs, and Silicon Valley Is Rushing to Fix Them",
       "link": "https://www.nytimes.com/2026/10/28/technology/silicon-valley-bugs-ai.html",
       "pubDate": "Wed, 28 Oct 2026 19:14:53 +0000",
       "source": "The New York Times"
-    },
-    {
-      "title": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet",
-      "link": "https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/",
-      "pubDate": "Wed, 28 Oct 2026 18:30:00 +0000",
-      "source": "Wired"
-    },
-    {
-      "title": "Google alters its cloud playbook, enlisting partners to sell more AI chips",
-      "link": "https://www.cnbc.com/2026/10/28/google-alters-cloud-playbook-turning-to-partners-to-sell-more-ai-chips.html",
-      "pubDate": "Wed, 28 Oct 2026 13:52:27 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
-      "link": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
-      "pubDate": "Wed, 28 Oct 2026 10:15:00 +0000",
-      "source": "Wired"
     },
     {
       "title": "Inside \"Black October\": AI's cyber scare delivers a Y2K lesson",
@@ -164,12 +164,6 @@
       "source": "NPR"
     },
     {
-      "title": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
-      "link": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
-      "pubDate": "Wed, 28 Oct 2026 08:30:00 +0000",
-      "source": "Wired"
-    },
-    {
       "title": "Anthropic IPO leads AI's $235 billion dealmaking blitz",
       "link": "https://www.axios.com/2026/10/27/anthropic-ipo-meta-spacex-ai-deals",
       "pubDate": "Tue, 27 Oct 2026 09:00:04 +0000",
@@ -180,6 +174,12 @@
       "link": "https://www.axios.com/2026/10/26/anthropic-ipo-biggest-surprises",
       "pubDate": "Mon, 26 Oct 2026 22:58:44 +0000",
       "source": "Axios"
+    },
+    {
+      "title": "The Key Numbers From Anthropic’s IPO Filing",
+      "link": "https://www.nytimes.com/2026/10/26/technology/anthropic-business-key-numbers.html",
+      "pubDate": "Mon, 26 Oct 2026 20:21:29 +0000",
+      "source": "The New York Times"
     }
   ]
 }
