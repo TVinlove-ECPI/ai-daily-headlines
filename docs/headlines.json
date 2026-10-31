@@ -1,10 +1,100 @@
 {
-  "updated_at": "2026-10-30T16:55:42.876Z",
+  "updated_at": "2026-10-31T15:56:28.967Z",
   "items": [
     {
-      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is &#8216;a great opportunity to go deceive people&#8217;",
-      "link": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
-      "pubDate": "Fri, 30 Oct 2026 16:03:45 +0000",
+      "title": "Humans are still doing the work behind some AI agents",
+      "link": "https://www.cnbc.com/2026/10/31/ai-agents-humans-dazzle-duckbill-meta.html",
+      "pubDate": "Sat, 31 Oct 2026 12:00:01 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+      "link": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
+      "pubDate": "Sat, 31 Oct 2026 12:00:00 +0000",
+      "source": "Wired"
+    },
+    {
+      "title": "The AI trade's trick-or-treat earnings season",
+      "link": "https://www.axios.com/2026/10/31/tech-earnings-ai-hyperscaler-risks-trick-or-treat",
+      "pubDate": "Sat, 31 Oct 2026 10:45:06 +0000",
+      "source": "Axios"
+    },
+    {
+      "title": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
+      "link": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
+      "pubDate": "Sat, 31 Oct 2026 10:00:00 +0000",
+      "source": "Wired"
+    },
+    {
+      "title": "Your writing was flagged as AI. What does that actually mean?",
+      "link": "https://www.npr.org/2026/10/31/nx-s1-5963520/ai-writing-detectors-pangram",
+      "pubDate": "Sat, 31 Oct 2026 05:00:00 -0400",
+      "source": "NPR"
+    },
+    {
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "pubDate": "Sat, 31 Oct 2026 01:20:05 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+      "pubDate": "Fri, 30 Oct 2026 22:56:13 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Anthropic expected to receive high &#8216;junk&#8217; rating from credit agencies following IPO, FT report says",
+      "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "pubDate": "Fri, 30 Oct 2026 21:52:03 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "How a Contractor’s Claude Agent Got Into the Pentagon",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
+      "pubDate": "Fri, 30 Oct 2026 21:19:26 +0000",
+      "source": "Wired"
+    },
+    {
+      "title": "Cracks are emerging in the AI spending boom",
+      "link": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "pubDate": "Fri, 30 Oct 2026 21:17:40 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices",
+      "link": "https://www.wired.com/story/trojan-malware-targets-thousands-of-anthropic-claude-developer-systems/",
+      "pubDate": "Fri, 30 Oct 2026 20:38:46 +0000",
+      "source": "Wired"
+    },
+    {
+      "title": "House Democrats Criticize Justice Dept. Support of OpenAI in Copyright Suit",
+      "link": "https://www.nytimes.com/2026/10/30/technology/house-democrats-openai-copyright-lawsuit.html",
+      "pubDate": "Fri, 30 Oct 2026 20:30:42 +0000",
+      "source": "The New York Times"
+    },
+    {
+      "title": "The biggest names in AI are backing a new way to opt out of scraping",
+      "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "pubDate": "2026-10-30T16:26:10-04:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
+      "link": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
+      "pubDate": "Fri, 30 Oct 2026 19:55:13 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Google&#8217;s satellite AI server transmits its first response to Earth",
+      "link": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+      "pubDate": "2026-10-30T14:21:38-04:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Zest&#8217;s new AI agent finds restaurants and books reservations over text",
+      "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+      "pubDate": "Fri, 30 Oct 2026 17:47:12 +0000",
       "source": "TechCrunch"
     },
     {
@@ -12,36 +102,6 @@
       "link": "https://www.cnbc.com/2026/10/30/trump-tech-allies-swap-ai-for-super-intelligence-in-earnings-calls.html",
       "pubDate": "Fri, 30 Oct 2026 15:14:27 GMT",
       "source": "CNBC"
-    },
-    {
-      "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
-      "pubDate": "2026-10-30T10:58:06-04:00",
-      "source": "The Verge"
-    },
-    {
-      "title": "This electric screwdriver uses a camera and AI to figure out what bit you need",
-      "link": "https://www.theverge.com/tech/1023057/arrowmax-arrowspace-s1-electric-screwdriver-ai-camera-kickstarter",
-      "pubDate": "2026-10-30T10:23:26-04:00",
-      "source": "The Verge"
-    },
-    {
-      "title": "DoorDash said it&#8217;s only received &#8216;several hundred&#8217; orders from AI agents",
-      "link": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
-      "pubDate": "Fri, 30 Oct 2026 13:54:25 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
-      "pubDate": "2026-10-30T09:01:14-04:00",
-      "source": "The Verge"
-    },
-    {
-      "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
-      "link": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
-      "pubDate": "Fri, 30 Oct 2026 13:00:00 +0000",
-      "source": "TechCrunch"
     },
     {
       "title": "Democrats see AI hate as winning issue heading into 2028",
@@ -80,12 +140,6 @@
       "source": "CNBC"
     },
     {
-      "title": "You don&#8217;t need to believe in a god to get a religious exemption from using AI at work",
-      "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
-      "pubDate": "Fri, 30 Oct 2026 01:20:48 +0000",
-      "source": "TechCrunch"
-    },
-    {
       "title": "Microsoft plans to raise $25 billion in debt as it pursues AI buildout",
       "link": "https://www.cnbc.com/2026/10/29/microsoft-25-billion-debt-offering.html",
       "pubDate": "Fri, 30 Oct 2026 00:38:13 GMT",
@@ -96,24 +150,6 @@
       "link": "https://www.axios.com/2026/10/29/reddit-logged-in-ai-search-incognito",
       "pubDate": "Thu, 29 Oct 2026 20:07:04 +0000",
       "source": "Axios"
-    },
-    {
-      "title": "Rivian expands joint venture with VW to include AI assistant",
-      "link": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
-      "pubDate": "Thu, 29 Oct 2026 20:05:47 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "ServiceNow shares plunge 27% to worst day ever after earnings revive AI disruption fears",
-      "link": "https://www.cnbc.com/2026/10/29/servicenow-now-earnings-q3-2026.html",
-      "pubDate": "Thu, 29 Oct 2026 20:02:32 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "OpenAI-backed Thrive Holdings acquires ADT",
-      "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
-      "pubDate": "Thu, 29 Oct 2026 19:56:19 +0000",
-      "source": "TechCrunch"
     },
     {
       "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
@@ -134,18 +170,6 @@
       "source": "Wired"
     },
     {
-      "title": "An AI Breakthrough Has Made Decades of Computer Science Research ‘Irrelevant’",
-      "link": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
-      "pubDate": "Thu, 29 Oct 2026 10:45:00 +0000",
-      "source": "Wired"
-    },
-    {
-      "title": "I Gave My Blood to the AI Death Clock",
-      "link": "https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/",
-      "pubDate": "Thu, 29 Oct 2026 10:00:00 +0000",
-      "source": "Wired"
-    },
-    {
       "title": "AI Is Finding a Flood of Bugs, and Silicon Valley Is Rushing to Fix Them",
       "link": "https://www.nytimes.com/2026/10/28/technology/silicon-valley-bugs-ai.html",
       "pubDate": "Wed, 28 Oct 2026 19:14:53 +0000",
@@ -156,30 +180,6 @@
       "link": "https://www.axios.com/2026/10/28/cybersecurity-black-october-ai-hacks",
       "pubDate": "Wed, 28 Oct 2026 09:15:08 +0000",
       "source": "Axios"
-    },
-    {
-      "title": "Anthropic is preparing to go public. A look at the company&apos;s plan",
-      "link": "https://www.npr.org/2026/10/28/nx-s1-6019534/anthropic-is-preparing-to-go-public-a-look-at-their-plan",
-      "pubDate": "Wed, 28 Oct 2026 04:45:40 -0400",
-      "source": "NPR"
-    },
-    {
-      "title": "Anthropic IPO leads AI's $235 billion dealmaking blitz",
-      "link": "https://www.axios.com/2026/10/27/anthropic-ipo-meta-spacex-ai-deals",
-      "pubDate": "Tue, 27 Oct 2026 09:00:04 +0000",
-      "source": "Axios"
-    },
-    {
-      "title": "Inside Anthropic's massive — and wild — IPO prospectus",
-      "link": "https://www.axios.com/2026/10/26/anthropic-ipo-biggest-surprises",
-      "pubDate": "Mon, 26 Oct 2026 22:58:44 +0000",
-      "source": "Axios"
-    },
-    {
-      "title": "The Key Numbers From Anthropic’s IPO Filing",
-      "link": "https://www.nytimes.com/2026/10/26/technology/anthropic-business-key-numbers.html",
-      "pubDate": "Mon, 26 Oct 2026 20:21:29 +0000",
-      "source": "The New York Times"
     }
   ]
 }
