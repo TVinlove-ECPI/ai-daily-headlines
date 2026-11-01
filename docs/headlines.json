@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-31T15:56:28.967Z",
+  "updated_at": "2026-11-01T16:59:16.671Z",
   "items": [
+    {
+      "title": "For JPMorgan, Amazon, fighting AI bots like Meta Muse may not be a winning long-term strategy",
+      "link": "https://www.cnbc.com/2026/11/01/jpmorgan-amazon-ai-agents-meta-muse.html",
+      "pubDate": "Sun, 01 Nov 2026 16:34:43 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Why AI is boosting Meta&apos;s ad business while hurting Google search",
+      "link": "https://www.cnbc.com/2026/11/01/ai-meta-ads-google-search.html",
+      "pubDate": "Sun, 01 Nov 2026 14:31:29 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Behind the Curtain: OpenAI's post-election power play",
+      "link": "https://www.axios.com/2026/11/01/scoop-openai-post-midterm-policy",
+      "pubDate": "Sun, 01 Nov 2026 13:43:06 +0000",
+      "source": "Axios"
+    },
+    {
+      "title": "Companies promised AI gains — here&apos;s how the payoff showed up in earnings",
+      "link": "https://www.cnbc.com/2026/11/01/ai-investments-company-earnings.html",
+      "pubDate": "Sun, 01 Nov 2026 12:34:06 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "pubDate": "Sat, 31 Oct 2026 21:41:00 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round",
+      "link": "https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html",
+      "pubDate": "Sat, 31 Oct 2026 19:56:23 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "pubDate": "Sat, 31 Oct 2026 16:12:55 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "I built an AI Tamagotchi before Meta could",
+      "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+      "pubDate": "2026-10-31T12:05:00-04:00",
+      "source": "The Verge"
+    },
     {
       "title": "Humans are still doing the work behind some AI agents",
       "link": "https://www.cnbc.com/2026/10/31/ai-agents-humans-dazzle-duckbill-meta.html",
@@ -74,36 +122,6 @@
       "source": "The New York Times"
     },
     {
-      "title": "The biggest names in AI are backing a new way to opt out of scraping",
-      "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
-      "pubDate": "2026-10-30T16:26:10-04:00",
-      "source": "The Verge"
-    },
-    {
-      "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
-      "link": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
-      "pubDate": "Fri, 30 Oct 2026 19:55:13 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Google&#8217;s satellite AI server transmits its first response to Earth",
-      "link": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
-      "pubDate": "2026-10-30T14:21:38-04:00",
-      "source": "The Verge"
-    },
-    {
-      "title": "Zest&#8217;s new AI agent finds restaurants and books reservations over text",
-      "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
-      "pubDate": "Fri, 30 Oct 2026 17:47:12 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Musk and Zuckerberg echo Trump&apos;s push to rebrand AI as &apos;super intelligence&apos; on earnings calls. Others do not",
-      "link": "https://www.cnbc.com/2026/10/30/trump-tech-allies-swap-ai-for-super-intelligence-in-earnings-calls.html",
-      "pubDate": "Fri, 30 Oct 2026 15:14:27 GMT",
-      "source": "CNBC"
-    },
-    {
       "title": "Democrats see AI hate as winning issue heading into 2028",
       "link": "https://www.axios.com/2026/10/30/2028-democrats-ai-hate-regulation-messaging",
       "pubDate": "Fri, 30 Oct 2026 12:32:46 +0000",
@@ -113,12 +131,6 @@
       "title": "The big questions remaining after Anthropic’s blockbuster IPO prospectus",
       "link": "https://www.cnbc.com/2026/10/30/anthropic-ipo-s1-revenue-compute.html",
       "pubDate": "Fri, 30 Oct 2026 12:27:36 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "Tech giants need legacy businesses to keep growing as they pour trillions into the AI buildout",
-      "link": "https://www.cnbc.com/2026/10/30/tech-giants-alphabet-meta-microsoft-amazon-ai-buildouts.html",
-      "pubDate": "Fri, 30 Oct 2026 11:00:01 GMT",
       "source": "CNBC"
     },
     {
@@ -132,18 +144,6 @@
       "link": "https://www.axios.com/2026/10/30/cybersecurity-ai-burnout-human-workers",
       "pubDate": "Fri, 30 Oct 2026 08:45:06 +0000",
       "source": "Axios"
-    },
-    {
-      "title": "Foxconn hopes to own 50% of the global AI server market within a couple years",
-      "link": "https://www.cnbc.com/2026/10/30/hon-hai-technology-group-foxconn-ai-server-young-liu-.html",
-      "pubDate": "Fri, 30 Oct 2026 07:43:39 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "Microsoft plans to raise $25 billion in debt as it pursues AI buildout",
-      "link": "https://www.cnbc.com/2026/10/29/microsoft-25-billion-debt-offering.html",
-      "pubDate": "Fri, 30 Oct 2026 00:38:13 GMT",
-      "source": "CNBC"
     },
     {
       "title": "Reddit moves to logged-in experience as AI eats search",
