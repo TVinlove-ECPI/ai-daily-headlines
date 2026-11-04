@@ -1,59 +1,95 @@
 {
-  "updated_at": "2026-11-03T18:13:09.612Z",
+  "updated_at": "2026-11-04T18:24:48.788Z",
   "items": [
     {
-      "title": "Netflix will show you themed recommendations through a new ‘AI Discover’ tab",
-      "link": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations",
-      "pubDate": "2026-11-03T13:00:00-05:00",
-      "source": "The Verge"
-    },
-    {
-      "title": "Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to steal $6.3 billion in crypto",
-      "link": "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html",
-      "pubDate": "Tue, 03 Nov 2026 17:58:41 GMT",
+      "title": "Google responds to political backlash over removing search from schools that ban AI",
+      "link": "https://www.cnbc.com/2026/11/03/google-responds-to-outrage-over-removing-search-in-schools-that-ban-ai.html",
+      "pubDate": "Wed, 04 Nov 2026 18:13:10 GMT",
       "source": "CNBC"
     },
     {
-      "title": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off",
-      "link": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/",
-      "pubDate": "Tue, 03 Nov 2026 17:56:52 +0000",
+      "title": "ChatGPT will now make you animated GIFs",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
+      "pubDate": "2026-11-04T13:00:00-05:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+      "link": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+      "pubDate": "Wed, 04 Nov 2026 16:17:22 +0000",
       "source": "TechCrunch"
     },
     {
-      "title": "AI-generated &apos;slopaganda&apos; in political ads puts internet platforms on alert",
-      "link": "https://www.cnbc.com/2026/11/03/ai-generated-slopaganda-in-political-ads-puts-platforms-on-alert.html",
-      "pubDate": "Tue, 03 Nov 2026 17:37:31 GMT",
+      "title": "Uber only fulfilled 4 rides from AI agents last quarter",
+      "link": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
+      "pubDate": "2026-11-04T10:58:45-05:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google",
+      "link": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/",
+      "pubDate": "Wed, 04 Nov 2026 13:49:51 +0000",
+      "source": "Wired"
+    },
+    {
+      "title": "\"What we just witnessed was an AI earthquake\": Voters revolt against tech at polls",
+      "link": "https://www.axios.com/2026/11/04/ai-data-center-election-slowdown",
+      "pubDate": "Wed, 04 Nov 2026 10:10:07 +0000",
+      "source": "Axios"
+    },
+    {
+      "title": "OpenAI and Anthropic Set Up ‘War Rooms’ to Fight Disinfo About Midterm Elections",
+      "link": "https://www.nytimes.com/2026/11/03/business/ai-midterm-election-misinformation.html",
+      "pubDate": "Tue, 03 Nov 2026 23:39:55 +0000",
+      "source": "The New York Times"
+    },
+    {
+      "title": "CrowdStrike&apos;s new kill switch can stop rogue AI agents in their tracks, CEO says",
+      "link": "https://www.cnbc.com/2026/11/03/crowdstrikes-new-kill-switch-can-stop-rogue-ai-agents-in-their-tracks-ceo-says.html",
+      "pubDate": "Tue, 03 Nov 2026 23:37:07 GMT",
       "source": "CNBC"
     },
     {
-      "title": "Anthropic is still grappling with the economics of compute",
-      "link": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
-      "pubDate": "Tue, 03 Nov 2026 17:07:01 +0000",
+      "title": "Anthropic is working on a system to prove AI models&#8217; identity",
+      "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "pubDate": "Tue, 03 Nov 2026 22:41:03 +0000",
       "source": "TechCrunch"
     },
     {
-      "title": "Google is entirely disabling Search in schools that don&#8217;t want AI",
-      "link": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
-      "pubDate": "2026-11-03T12:00:04-05:00",
-      "source": "The Verge"
-    },
-    {
-      "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
-      "link": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
-      "pubDate": "Tue, 03 Nov 2026 16:30:34 +0000",
+      "title": "Ted Schlein&#8217;s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+      "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+      "pubDate": "Tue, 03 Nov 2026 21:43:08 +0000",
       "source": "TechCrunch"
     },
     {
-      "title": "Apple restricts dating apps and AI companions to users 18 and up",
-      "link": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
-      "pubDate": "Tue, 03 Nov 2026 15:38:27 +0000",
+      "title": "CrowdStrike launches AI kill switch that it says can stop internal agents that go rogue",
+      "link": "https://www.cnbc.com/2026/11/03/crowdstrike-ai-kill-switch-rogue-agents.html",
+      "pubDate": "Tue, 03 Nov 2026 20:27:21 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Apple warns of risks related to AI agents behaving in &apos;unintended or unpredictable&apos; ways",
+      "link": "https://www.cnbc.com/2026/11/03/apple-warns-of-ai-agents-behave-in-unintended-or-unpredictable-ways.html",
+      "pubDate": "Tue, 03 Nov 2026 20:10:41 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+      "pubDate": "Tue, 03 Nov 2026 19:34:43 +0000",
       "source": "TechCrunch"
     },
     {
-      "title": "Apple is all in on AI — its own and everyone else&#8217;s",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
-      "pubDate": "2026-11-03T10:24:51-05:00",
-      "source": "The Verge"
+      "title": "Jim Cramer likes CrowdStrike&apos;s new &apos;AI kill switch&apos; and the cyber stock",
+      "link": "https://www.cnbc.com/investingclub/2026/11/03/jim-cramer-likes-crowdstrikes-new-ai-kill-switch-and-the-cyber-stock.html",
+      "pubDate": "Tue, 03 Nov 2026 19:16:46 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Meta seeks to raise up to $25 billion in debt sale as AI spending jumps",
+      "link": "https://www.cnbc.com/2026/11/03/meta-bond-sale-ai-funding.html",
+      "pubDate": "Tue, 03 Nov 2026 18:33:49 GMT",
+      "source": "CNBC"
     },
     {
       "title": "Here’s Why You Shouldn’t Use AI to Vote",
@@ -74,46 +110,10 @@
       "source": "Axios"
     },
     {
-      "title": "Brookfield plans for a $27 billion AI data center at UK power station",
-      "link": "https://www.cnbc.com/2026/11/03/brookfield-ai-data-center-yorkshire-drax.html",
-      "pubDate": "Tue, 03 Nov 2026 09:30:35 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "Apple Watch&#8217;s AI features for rewinding and recapping conversations begin beta testing",
-      "link": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
-      "pubDate": "Tue, 03 Nov 2026 07:20:00 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Blackstone president calls for more equity to fund AI buildout as debt risks mount",
-      "link": "https://www.cnbc.com/2026/11/03/equity-ai-debt-blackstone-pimco-financing.html",
-      "pubDate": "Tue, 03 Nov 2026 06:46:36 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
-      "link": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
-      "pubDate": "Tue, 03 Nov 2026 03:30:00 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "OpenAI hires former U.S. Army Secretary Dan Driscoll for national security role",
-      "link": "https://www.cnbc.com/2026/11/03/openai-hires-dan-driscoll-national-security.html",
-      "pubDate": "Tue, 03 Nov 2026 02:47:57 GMT",
-      "source": "CNBC"
-    },
-    {
       "title": "How former Yahoo CEO Marissa Mayer sees AI assistants fitting into busy women&apos;s lives",
       "link": "https://www.npr.org/2026/11/02/nx-s1-6022451/how-former-yahoo-ceo-marissa-mayer-sees-ai-assistants-fitting-into-busy-womens-lives",
       "pubDate": "Mon, 02 Nov 2026 17:27:07 -0500",
       "source": "NPR"
-    },
-    {
-      "title": "Best Dyson Vacuum Deals (2026): Dyson Spot+Scrub Ai, Dyson V16 Piston Animal",
-      "link": "https://www.wired.com/story/dyson-vacuum-deals-nov-2026/",
-      "pubDate": "Mon, 02 Nov 2026 21:00:00 +0000",
-      "source": "Wired"
     },
     {
       "title": "AI chatbots are becoming political advisers. Their answers can mislead voters",
@@ -124,37 +124,7 @@
     {
       "title": "Inside Anthropic’s Hunt for A.I. Computing Power",
       "link": "https://www.nytimes.com/2026/11/02/technology/anthropic-ai-computing-power.html",
-      "pubDate": "Mon, 02 Nov 2026 18:01:24 +0000",
-      "source": "The New York Times"
-    },
-    {
-      "title": "Anthropic reports $17 billion in Q3 revenue, purchase commitments of $895.4 billion in revised S-1",
-      "link": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
-      "pubDate": "Mon, 02 Nov 2026 17:52:01 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "When You Should—and Shouldn’t—Use AI to Search the Web",
-      "link": "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/",
-      "pubDate": "Mon, 02 Nov 2026 12:00:00 +0000",
-      "source": "Wired"
-    },
-    {
-      "title": "Want to Sign With a Hollywood Agent? Start Making Fun of AI",
-      "link": "https://www.wired.com/story/comedians-making-fun-of-ai/",
-      "pubDate": "Mon, 02 Nov 2026 11:30:00 +0000",
-      "source": "Wired"
-    },
-    {
-      "title": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
-      "link": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
-      "pubDate": "Mon, 02 Nov 2026 10:00:00 +0000",
-      "source": "Wired"
-    },
-    {
-      "title": "AI Is Finding a Flood of Bugs, and Silicon Valley Is Rushing to Fix Them",
-      "link": "https://www.nytimes.com/2026/10/28/technology/silicon-valley-bugs-ai.html",
-      "pubDate": "Sun, 01 Nov 2026 17:19:20 +0000",
+      "pubDate": "Mon, 02 Nov 2026 18:01:25 +0000",
       "source": "The New York Times"
     },
     {
@@ -180,6 +150,36 @@
       "link": "https://www.nytimes.com/2026/10/30/technology/house-democrats-openai-copyright-lawsuit.html",
       "pubDate": "Fri, 30 Oct 2026 20:30:42 +0000",
       "source": "The New York Times"
+    },
+    {
+      "title": "Democrats see AI hate as winning issue heading into 2028",
+      "link": "https://www.axios.com/2026/10/30/2028-democrats-ai-hate-regulation-messaging",
+      "pubDate": "Fri, 30 Oct 2026 12:32:46 +0000",
+      "source": "Axios"
+    },
+    {
+      "title": "Nearly 2 out of 3 teens and tweens use AI chatbots, new research shows",
+      "link": "https://www.npr.org/2026/10/30/nx-s1-6022278/ai-artificial-intelligence-teens-jed-common-sense-media",
+      "pubDate": "Fri, 30 Oct 2026 05:00:00 -0400",
+      "source": "NPR"
+    },
+    {
+      "title": "The humans burning out on AI's cyber frontlines",
+      "link": "https://www.axios.com/2026/10/30/cybersecurity-ai-burnout-human-workers",
+      "pubDate": "Fri, 30 Oct 2026 08:45:06 +0000",
+      "source": "Axios"
+    },
+    {
+      "title": "Who benefits when massive AI data centers come to town?",
+      "link": "https://www.npr.org/2026/10/29/nx-s1-6022096/who-benefits-when-massive-ai-data-centers-come-to-town",
+      "pubDate": "Thu, 29 Oct 2026 11:41:59 -0400",
+      "source": "NPR"
+    },
+    {
+      "title": "Anthropic is preparing to go public. A look at the company&apos;s plan",
+      "link": "https://www.npr.org/2026/10/28/nx-s1-6019534/anthropic-is-preparing-to-go-public-a-look-at-their-plan",
+      "pubDate": "Wed, 28 Oct 2026 04:45:40 -0400",
+      "source": "NPR"
     }
   ]
 }
