@@ -1,11 +1,101 @@
 {
-  "updated_at": "2026-11-06T17:49:27.541Z",
+  "updated_at": "2026-11-07T16:43:28.871Z",
   "items": [
     {
-      "title": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
-      "link": "https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html",
-      "pubDate": "Fri, 06 Nov 2026 17:24:48 GMT",
+      "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+      "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+      "pubDate": "2026-11-07T10:50:00-05:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "AI broke the cybersecurity world. What’s next?",
+      "link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+      "pubDate": "2026-11-07T10:00:00-05:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "America&apos;s newest small business owners with no employees are off to a hot start in AI era",
+      "link": "https://www.cnbc.com/2026/11/07/americas-new-no-employee-small-business-owners-start-hot-in-ai-era.html",
+      "pubDate": "Sat, 07 Nov 2026 14:45:01 GMT",
       "source": "CNBC"
+    },
+    {
+      "title": "Democrat shaping AI policy bought chip stocks despite backing congressional trading ban",
+      "link": "https://www.cnbc.com/2026/11/07/josh-gottheimer-ai-stocks-congress-trading-ban.html",
+      "pubDate": "Sat, 07 Nov 2026 13:30:01 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers",
+      "link": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html",
+      "pubDate": "Sat, 07 Nov 2026 13:00:01 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "pubDate": "2026-11-07T07:30:00-05:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Tech companies face mounting child safety lawsuits while pushing AI into schools",
+      "link": "https://www.cnbc.com/2026/11/07/snap-social-media-teen-safety-lawsuits.html",
+      "pubDate": "Sat, 07 Nov 2026 12:00:01 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
+      "link": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
+      "pubDate": "Sat, 07 Nov 2026 11:00:00 +0000",
+      "source": "Wired"
+    },
+    {
+      "title": "Men see more career advancement in jobs with AI, as women lose ground",
+      "link": "https://www.washingtonpost.com/business/2026/11/07/men-see-more-career-advancement-jobs-with-ai-women-lose-ground/",
+      "pubDate": "Sat, 07 Nov 2026 10:00:00 +0000",
+      "source": "The Washington Post"
+    },
+    {
+      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+      "pubDate": "2026-11-06T18:46:18-05:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Cramer’s week ahead: AI data center stocks face another hurdle and so does the Fed",
+      "link": "https://www.cnbc.com/2026/11/06/cramer-coreweave-nebius-earnings.html",
+      "pubDate": "Fri, 06 Nov 2026 23:13:10 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+      "link": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+      "pubDate": "2026-11-06T18:00:44-05:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "pubDate": "Fri, 06 Nov 2026 22:53:46 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Investors brace for lower Anthropic valuation, calling $1.5 trillion a &apos;stretch&apos;",
+      "link": "https://www.cnbc.com/2026/11/06/investors-brace-for-anthropic-valuation-1point5-trillion-a-stretch.html",
+      "pubDate": "Fri, 06 Nov 2026 21:07:07 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "pubDate": "Fri, 06 Nov 2026 18:44:38 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Free Chinese AI Models Are Getting Scary Good at Hacking",
+      "link": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
+      "pubDate": "Fri, 06 Nov 2026 18:43:43 +0000",
+      "source": "Wired"
     },
     {
       "title": "After the midterms, is the AI industry in for a rough two years?",
@@ -16,14 +106,8 @@
     {
       "title": "What Shaped Anthropic CEO Dario Amodei’s Thinking on A.I.",
       "link": "https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html",
-      "pubDate": "Fri, 06 Nov 2026 17:09:35 +0000",
+      "pubDate": "Fri, 06 Nov 2026 17:09:36 +0000",
       "source": "The New York Times"
-    },
-    {
-      "title": "AI is the new dating dealbreaker",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
-      "pubDate": "2026-11-06T12:00:00-05:00",
-      "source": "The Verge"
     },
     {
       "title": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
@@ -44,12 +128,6 @@
       "source": "Axios"
     },
     {
-      "title": "AI stocks hammered by midterm shock as data center buildout becomes a &apos;war of attrition&apos;",
-      "link": "https://www.cnbc.com/2026/11/06/ai-data-center-midterms-selloff.html",
-      "pubDate": "Fri, 06 Nov 2026 12:04:17 GMT",
-      "source": "CNBC"
-    },
-    {
       "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
       "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
       "pubDate": "Fri, 06 Nov 2026 06:28:32 +0000",
@@ -62,46 +140,16 @@
       "source": "The New York Times"
     },
     {
-      "title": "Jim Cramer explains why no AI stock seems safe from the market carnage",
-      "link": "https://www.cnbc.com/2026/11/05/jim-cramer-ai-stocks-data-center-uncertainty.html",
-      "pubDate": "Thu, 05 Nov 2026 23:25:04 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "Jim Cramer says the AI sell-off isn&apos;t over, but it isn&apos;t another dot-com crash",
-      "link": "https://www.cnbc.com/2026/11/05/jim-cramer-ai-stocks-sell-off.html",
-      "pubDate": "Thu, 05 Nov 2026 23:17:51 GMT",
-      "source": "CNBC"
+      "title": "Open AI makes pledges on data center operation after midterm backlash",
+      "link": "https://www.washingtonpost.com/business/2026/11/05/open-ai-makes-pledges-data-center-operation-after-midterm-backlash/",
+      "pubDate": "Thu, 05 Nov 2026 22:50:00 +0000",
+      "source": "The Washington Post"
     },
     {
       "title": "Airbnb says it&#8217;s launching an AI travel agent in the first half of 2027",
       "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
       "pubDate": "Thu, 05 Nov 2026 22:40:55 +0000",
       "source": "TechCrunch"
-    },
-    {
-      "title": "AI meltdown: Nvidia and Qualcomm drop more than 9%, pushing Nasdaq to worst day since April 2025",
-      "link": "https://www.cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html",
-      "pubDate": "Thu, 05 Nov 2026 21:16:39 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "Meta says US users can now video chat with their Muse AI avatar",
-      "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-      "pubDate": "Thu, 05 Nov 2026 19:48:28 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
-      "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
-      "pubDate": "Thu, 05 Nov 2026 19:12:39 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Jim Cramer says the AI trade is not going away as Nasdaq enters correction",
-      "link": "https://www.cnbc.com/investingclub/2026/11/05/cramer-says-the-ai-trade-is-not-going-away-as-nasdaq-enters-correction.html",
-      "pubDate": "Thu, 05 Nov 2026 18:46:23 GMT",
-      "source": "CNBC"
     },
     {
       "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
@@ -122,64 +170,16 @@
       "source": "Wired"
     },
     {
-      "title": "He Trolls AI Labs for a Living. Now They All Want to Work With Him",
-      "link": "https://www.wired.com/story/wired-world-fair-2026-evan-ratliff-and-husk/",
-      "pubDate": "Thu, 05 Nov 2026 11:45:00 +0000",
-      "source": "Wired"
-    },
-    {
       "title": "Tech giants turn to cash, concessions for AI rebrand after voters pummeled data centers 43-1",
       "link": "https://www.axios.com/2026/11/05/ai-data-center-election-backlash-concessions",
       "pubDate": "Thu, 05 Nov 2026 10:30:07 +0000",
       "source": "Axios"
     },
     {
-      "title": "The Biggest Pro-AI Super PAC Network Didn’t Really Impact the Midterms",
-      "link": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms/",
-      "pubDate": "Wed, 04 Nov 2026 20:41:29 +0000",
-      "source": "Wired"
-    },
-    {
       "title": "\"What we just witnessed was an AI earthquake\": Voters revolt against tech at polls",
       "link": "https://www.axios.com/2026/11/04/ai-data-center-election-slowdown",
       "pubDate": "Wed, 04 Nov 2026 10:10:07 +0000",
       "source": "Axios"
-    },
-    {
-      "title": "OpenAI and Anthropic Set Up ‘War Rooms’ to Fight Disinfo About Midterm Elections",
-      "link": "https://www.nytimes.com/2026/11/03/business/ai-midterm-election-misinformation.html",
-      "pubDate": "Tue, 03 Nov 2026 23:39:55 +0000",
-      "source": "The New York Times"
-    },
-    {
-      "title": "Three questions that will define AI's political power",
-      "link": "https://www.axios.com/2026/11/03/ai-election-politics-2026-midterms",
-      "pubDate": "Tue, 03 Nov 2026 10:00:07 +0000",
-      "source": "Axios"
-    },
-    {
-      "title": "How former Yahoo CEO Marissa Mayer sees AI assistants fitting into busy women&apos;s lives",
-      "link": "https://www.npr.org/2026/11/02/nx-s1-6022451/how-former-yahoo-ceo-marissa-mayer-sees-ai-assistants-fitting-into-busy-womens-lives",
-      "pubDate": "Mon, 02 Nov 2026 17:27:07 -0500",
-      "source": "NPR"
-    },
-    {
-      "title": "AI chatbots are becoming political advisers. Their answers can mislead voters",
-      "link": "https://www.npr.org/2026/11/02/nx-s1-6025407/chatbots-midterms-voting-advice",
-      "pubDate": "Mon, 02 Nov 2026 15:02:41 -0500",
-      "source": "NPR"
-    },
-    {
-      "title": "Inside Anthropic’s Hunt for A.I. Computing Power",
-      "link": "https://www.nytimes.com/2026/11/02/technology/anthropic-ai-computing-power.html",
-      "pubDate": "Mon, 02 Nov 2026 18:01:25 +0000",
-      "source": "The New York Times"
-    },
-    {
-      "title": "Your writing was flagged as AI. What does that actually mean?",
-      "link": "https://www.npr.org/2026/10/31/nx-s1-5963520/ai-writing-detectors-pangram",
-      "pubDate": "Sat, 31 Oct 2026 05:00:00 -0400",
-      "source": "NPR"
     }
   ]
 }
