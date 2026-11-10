@@ -1,29 +1,137 @@
 {
-  "updated_at": "2026-11-09T21:16:49.517Z",
+  "updated_at": "2026-11-10T18:27:11.340Z",
   "items": [
     {
-      "title": "The global pledge to use AI for climate good is a cruel joke",
-      "link": "https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31",
-      "pubDate": "2026-11-09T16:13:16-05:00",
-      "source": "The Verge"
+      "title": "Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O.",
+      "link": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html",
+      "pubDate": "Tue, 10 Nov 2026 17:32:09 +0000",
+      "source": "The New York Times"
     },
     {
-      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
-      "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
-      "pubDate": "Mon, 09 Nov 2026 19:24:51 +0000",
+      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+      "link": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+      "pubDate": "Tue, 10 Nov 2026 17:30:00 +0000",
       "source": "TechCrunch"
     },
     {
-      "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
-      "link": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
-      "pubDate": "Mon, 09 Nov 2026 19:21:46 +0000",
+      "title": "Sundrop turns your endless baby photos into recaps, time-lapses and more — without AI",
+      "link": "https://techcrunch.com/2026/11/10/sundrop-turns-your-endless-baby-photos-into-recaps-time-lapses-and-more-without-ai/",
+      "pubDate": "Tue, 10 Nov 2026 16:50:38 +0000",
       "source": "TechCrunch"
     },
     {
-      "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
-      "link": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
-      "pubDate": "2026-11-09T14:09:58-05:00",
+      "title": "eBay appears to have shut the door on third-party AI agents",
+      "link": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+      "pubDate": "2026-11-10T11:20:30-05:00",
       "source": "The Verge"
+    },
+    {
+      "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+      "pubDate": "2026-11-10T11:00:00-05:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+      "link": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+      "pubDate": "Tue, 10 Nov 2026 15:54:08 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Anthropic sets IPO price range of $70 to $78, looks to start trading  Nov. 19, sources say",
+      "link": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
+      "pubDate": "Tue, 10 Nov 2026 15:42:00 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Meta&#8217;s AI agent Muse lands on Apple Watch and Android Wear OS",
+      "link": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+      "pubDate": "Tue, 10 Nov 2026 15:29:30 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "CoreWeave earnings put debt-fueled AI build-out under scrutiny",
+      "link": "https://www.cnbc.com/2026/11/10/coreweave-earnings-preview-debt-capex.html",
+      "pubDate": "Tue, 10 Nov 2026 15:01:21 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Reddit is turning user conversations into AI-powered product reviews",
+      "link": "https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews/",
+      "pubDate": "Tue, 10 Nov 2026 15:00:00 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "New WhatsApp head wants to make the app easier to use, give its AI more chops",
+      "link": "https://techcrunch.com/2026/11/10/new-whatsapp-head-wants-to-make-the-app-easier-to-use-give-its-ai-more-chops/",
+      "pubDate": "Tue, 10 Nov 2026 15:00:00 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Anthropic targets $1.4 trillion IPO",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
+      "pubDate": "2026-11-10T09:06:54-05:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
+      "link": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
+      "pubDate": "Tue, 10 Nov 2026 14:00:00 +0000",
+      "source": "Wired"
+    },
+    {
+      "title": "Adobe is going all in on agentic AI",
+      "link": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
+      "pubDate": "2026-11-10T09:00:00-05:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Ring’s Indoor Drone Camera Is Back—and Now Powered by AI",
+      "link": "https://www.wired.com/story/ring-robotics-drone-cam-rover-cam/",
+      "pubDate": "Tue, 10 Nov 2026 13:30:00 +0000",
+      "source": "Wired"
+    },
+    {
+      "title": "The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are",
+      "link": "https://www.wired.com/story/the-ai-safety-debate-has-lost-the-plot-we-asked-10-experts-what-the-real-nightmares-are/",
+      "pubDate": "Tue, 10 Nov 2026 11:00:00 +0000",
+      "source": "Wired"
+    },
+    {
+      "title": "How Nvidia's crisis and politics could deliver the pause AI leaders want",
+      "link": "https://www.axios.com/2026/11/10/ai-race-politics-slowdown",
+      "pubDate": "Tue, 10 Nov 2026 10:15:05 +0000",
+      "source": "Axios"
+    },
+    {
+      "title": "AI stocks bounce back — with one notable exception",
+      "link": "https://www.axios.com/2026/11/10/ai-stocks-nvidia-broadcom",
+      "pubDate": "Tue, 10 Nov 2026 10:10:08 +0000",
+      "source": "Axios"
+    },
+    {
+      "title": "How to protect your brain from AI chatbots",
+      "link": "https://www.washingtonpost.com/technology/2026/11/10/anthropic-study-shows-how-chatbots-can-secretly-influence-your-decisions/",
+      "pubDate": "Tue, 10 Nov 2026 10:00:00 +0000",
+      "source": "The Washington Post"
+    },
+    {
+      "title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
+      "link": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/",
+      "pubDate": "Tue, 10 Nov 2026 05:01:00 +0000",
+      "source": "Wired"
+    },
+    {
+      "title": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
+      "link": "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
+      "pubDate": "Tue, 10 Nov 2026 00:18:19 +0000",
+      "source": "Wired"
+    },
+    {
+      "title": "Jim Cramer says Anthropic&apos;s IPO could make or break the AI trade. Here&apos;s why",
+      "link": "https://www.cnbc.com/2026/11/09/anthropic-ipo-ai-trade-jim-cramer.html",
+      "pubDate": "Mon, 09 Nov 2026 23:30:15 GMT",
+      "source": "CNBC"
     },
     {
       "title": "Anthropic releases first frontier models since Amodei&apos;s call for slowdown as IPO buzz builds",
@@ -32,57 +140,9 @@
       "source": "CNBC"
     },
     {
-      "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
-      "pubDate": "2026-11-09T14:00:00-05:00",
-      "source": "The Verge"
-    },
-    {
       "title": "Goldman CEO Solomon says AI financing remains strong despite market jitters",
       "link": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html",
       "pubDate": "Mon, 09 Nov 2026 18:14:47 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "Instagram’s Effect Builder makes new filters from AI prompts",
-      "link": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
-      "pubDate": "2026-11-09T13:07:23-05:00",
-      "source": "The Verge"
-    },
-    {
-      "title": "The future of AI hinges on… Jensen Huang’s sex life?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
-      "pubDate": "2026-11-09T12:36:08-05:00",
-      "source": "The Verge"
-    },
-    {
-      "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
-      "link": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
-      "pubDate": "Mon, 09 Nov 2026 16:56:54 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Medium&#8217;s new TK app brings AI assistance directly into the writing process",
-      "link": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
-      "pubDate": "Mon, 09 Nov 2026 16:12:28 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
-      "pubDate": "2026-11-09T10:50:38-05:00",
-      "source": "The Verge"
-    },
-    {
-      "title": "Meta expands Instagram&#8217;s AI age-guessing tech globally",
-      "link": "https://techcrunch.com/2026/11/09/meta-expands-instagrams-ai-age-guessing-tech-globally/",
-      "pubDate": "Mon, 09 Nov 2026 15:32:27 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "America&apos;s newest small business owners with no employees are off to a hot start in AI era",
-      "link": "https://www.cnbc.com/2026/11/07/americas-new-no-employee-small-business-owners-start-hot-in-ai-era.html",
-      "pubDate": "Mon, 09 Nov 2026 14:39:47 GMT",
       "source": "CNBC"
     },
     {
@@ -116,70 +176,10 @@
       "source": "The Washington Post"
     },
     {
-      "title": "I Let Pangram Loose on My Gmail Inbox. Here’s How Much AI It Found",
-      "link": "https://www.wired.com/story/i-let-pangram-loose-on-my-gmail-inbox-heres-how-much-ai-it-found/",
-      "pubDate": "Mon, 09 Nov 2026 10:00:00 +0000",
-      "source": "Wired"
-    },
-    {
       "title": "Recent AI agent experiments reveal a risky future of machine &apos;teamwork&apos; inside corporations",
       "link": "https://www.cnbc.com/2026/11/08/ai-agents-risks.html",
       "pubDate": "Sun, 08 Nov 2026 14:14:11 GMT",
       "source": "CNBC"
-    },
-    {
-      "title": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
-      "link": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
-      "pubDate": "Sun, 08 Nov 2026 12:00:00 +0000",
-      "source": "Wired"
-    },
-    {
-      "title": "AI is speeding up recruitment — and putting agency fees under pressure",
-      "link": "https://www.cnbc.com/2026/11/08/ai-recruitment-agency-fees.html",
-      "pubDate": "Sun, 08 Nov 2026 06:00:01 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "Meta chief strategy officer Dave Wehner leaves to join AI infrastructure startup Fireworks as CFO",
-      "link": "https://www.cnbc.com/2026/11/07/dave-wehner-meta-fireworks-cfo.html",
-      "pubDate": "Sat, 07 Nov 2026 22:01:17 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
-      "link": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
-      "pubDate": "Sat, 07 Nov 2026 11:00:00 +0000",
-      "source": "Wired"
-    },
-    {
-      "title": "Free Chinese AI Models Are Getting Scary Good at Hacking",
-      "link": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
-      "pubDate": "Fri, 06 Nov 2026 18:43:43 +0000",
-      "source": "Wired"
-    },
-    {
-      "title": "What Shaped Anthropic CEO Dario Amodei’s Thinking on A.I.",
-      "link": "https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html",
-      "pubDate": "Fri, 06 Nov 2026 17:09:36 +0000",
-      "source": "The New York Times"
-    },
-    {
-      "title": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
-      "link": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
-      "pubDate": "Fri, 06 Nov 2026 16:00:00 +0000",
-      "source": "Wired"
-    },
-    {
-      "title": "How AI is enabling faster, more dangerous cyber warfare",
-      "link": "https://www.axios.com/2026/11/06/ai-government-hackers-fridge-hacks",
-      "pubDate": "Fri, 06 Nov 2026 12:15:06 +0000",
-      "source": "Axios"
-    },
-    {
-      "title": "OpenAI Pledges to Give Locals More Say in Data Center Projects",
-      "link": "https://www.nytimes.com/2026/11/05/technology/openai-data-centers-midterms.html",
-      "pubDate": "Fri, 06 Nov 2026 01:54:18 +0000",
-      "source": "The New York Times"
     }
   ]
 }
