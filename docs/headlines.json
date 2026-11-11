@@ -1,53 +1,125 @@
 {
-  "updated_at": "2026-11-10T18:27:11.340Z",
+  "updated_at": "2026-11-11T18:19:19.357Z",
   "items": [
     {
-      "title": "Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O.",
-      "link": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html",
-      "pubDate": "Tue, 10 Nov 2026 17:32:09 +0000",
-      "source": "The New York Times"
-    },
-    {
-      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-      "link": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
-      "pubDate": "Tue, 10 Nov 2026 17:30:00 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Sundrop turns your endless baby photos into recaps, time-lapses and more — without AI",
-      "link": "https://techcrunch.com/2026/11/10/sundrop-turns-your-endless-baby-photos-into-recaps-time-lapses-and-more-without-ai/",
-      "pubDate": "Tue, 10 Nov 2026 16:50:38 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "eBay appears to have shut the door on third-party AI agents",
-      "link": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
-      "pubDate": "2026-11-10T11:20:30-05:00",
-      "source": "The Verge"
-    },
-    {
-      "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
-      "pubDate": "2026-11-10T11:00:00-05:00",
-      "source": "The Verge"
-    },
-    {
-      "title": "Google broadens its AI hardware portfolio with two new specialized chips",
-      "link": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
-      "pubDate": "Tue, 10 Nov 2026 15:54:08 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Anthropic sets IPO price range of $70 to $78, looks to start trading  Nov. 19, sources say",
-      "link": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
-      "pubDate": "Tue, 10 Nov 2026 15:42:00 GMT",
+      "title": "CoreWeave soars 26% as CEO reaffirms AI compute demand after strong Q3 report",
+      "link": "https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html",
+      "pubDate": "Wed, 11 Nov 2026 17:38:34 GMT",
       "source": "CNBC"
     },
     {
-      "title": "Meta&#8217;s AI agent Muse lands on Apple Watch and Android Wear OS",
-      "link": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
-      "pubDate": "Tue, 10 Nov 2026 15:29:30 +0000",
+      "title": "A Startup Wants to Fight AI Bioweapons With AI",
+      "link": "https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai/",
+      "pubDate": "Wed, 11 Nov 2026 17:00:00 +0000",
+      "source": "Wired"
+    },
+    {
+      "title": "OpenAI&#8217;s quarterly revenue reportedly crosses $10B for the first time",
+      "link": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+      "pubDate": "Wed, 11 Nov 2026 16:14:44 +0000",
       "source": "TechCrunch"
+    },
+    {
+      "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+      "link": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+      "pubDate": "2026-11-11T11:00:00-05:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Databricks&#8217; new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+      "link": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+      "pubDate": "Wed, 11 Nov 2026 15:00:00 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+      "link": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+      "pubDate": "Wed, 11 Nov 2026 14:00:00 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
+      "link": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
+      "pubDate": "2026-11-11T09:00:00-05:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get Flagged for Weeks",
+      "link": "https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/",
+      "pubDate": "Wed, 11 Nov 2026 11:00:00 +0000",
+      "source": "Wired"
+    },
+    {
+      "title": "The AI industry's week from hell",
+      "link": "https://www.axios.com/2026/11/11/anthropic-ipo-ai-nvidia-midterms",
+      "pubDate": "Wed, 11 Nov 2026 10:20:06 +0000",
+      "source": "Axios"
+    },
+    {
+      "title": "Swatters are using AI voices to deceive 911 dispatchers, and it&apos;s only getting worse",
+      "link": "https://www.npr.org/2026/11/11/nx-s1-6034449/ai-911-calls-swatting",
+      "pubDate": "Wed, 11 Nov 2026 05:00:00 -0500",
+      "source": "NPR"
+    },
+    {
+      "title": "U.S., China should ‘harbor no illusions’ as they cooperate, compete on AI, Bessent says",
+      "link": "https://www.cnbc.com/2026/11/11/trump-xi-summit-ai-nvidia-.html",
+      "pubDate": "Wed, 11 Nov 2026 05:15:50 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Anthropic opens Australian retail IPO offering as AI scrutiny intensifies",
+      "link": "https://www.cnbc.com/2026/11/11/anthopic-australian-retail-ipo-offering-.html",
+      "pubDate": "Wed, 11 Nov 2026 01:52:56 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Jim Cramer says Anthropic&apos;s explosive growth could justify a record-breaking IPO",
+      "link": "https://www.cnbc.com/2026/11/10/anthropic-ipo-revenue-growth-cramer.html",
+      "pubDate": "Tue, 10 Nov 2026 23:46:35 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns",
+      "link": "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html",
+      "pubDate": "Tue, 10 Nov 2026 23:16:15 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Amazon and Google Will See Big Paydays from Anthropic IPO",
+      "link": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-google-amazon.html",
+      "pubDate": "Tue, 10 Nov 2026 21:54:37 +0000",
+      "source": "The New York Times"
+    },
+    {
+      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+      "pubDate": "Tue, 10 Nov 2026 21:08:52 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+      "pubDate": "Tue, 10 Nov 2026 20:52:13 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
+      "link": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
+      "pubDate": "Tue, 10 Nov 2026 20:47:05 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Testing the new generation of AI-enabled fire-extinguishing drones",
+      "link": "https://www.npr.org/2026/11/10/nx-s1-6030962/testing-the-new-generation-of-ai-enabled-fire-extinguishing-drones",
+      "pubDate": "Tue, 10 Nov 2026 14:00:00 -0500",
+      "source": "NPR"
+    },
+    {
+      "title": "Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O.",
+      "link": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html",
+      "pubDate": "Tue, 10 Nov 2026 17:32:10 +0000",
+      "source": "The New York Times"
     },
     {
       "title": "CoreWeave earnings put debt-fueled AI build-out under scrutiny",
@@ -56,34 +128,10 @@
       "source": "CNBC"
     },
     {
-      "title": "Reddit is turning user conversations into AI-powered product reviews",
-      "link": "https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews/",
-      "pubDate": "Tue, 10 Nov 2026 15:00:00 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "New WhatsApp head wants to make the app easier to use, give its AI more chops",
-      "link": "https://techcrunch.com/2026/11/10/new-whatsapp-head-wants-to-make-the-app-easier-to-use-give-its-ai-more-chops/",
-      "pubDate": "Tue, 10 Nov 2026 15:00:00 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Anthropic targets $1.4 trillion IPO",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
-      "pubDate": "2026-11-10T09:06:54-05:00",
-      "source": "The Verge"
-    },
-    {
       "title": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
       "link": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
       "pubDate": "Tue, 10 Nov 2026 14:00:00 +0000",
       "source": "Wired"
-    },
-    {
-      "title": "Adobe is going all in on agentic AI",
-      "link": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
-      "pubDate": "2026-11-10T09:00:00-05:00",
-      "source": "The Verge"
     },
     {
       "title": "Ring’s Indoor Drone Camera Is Back—and Now Powered by AI",
@@ -116,42 +164,6 @@
       "source": "The Washington Post"
     },
     {
-      "title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
-      "link": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/",
-      "pubDate": "Tue, 10 Nov 2026 05:01:00 +0000",
-      "source": "Wired"
-    },
-    {
-      "title": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
-      "link": "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
-      "pubDate": "Tue, 10 Nov 2026 00:18:19 +0000",
-      "source": "Wired"
-    },
-    {
-      "title": "Jim Cramer says Anthropic&apos;s IPO could make or break the AI trade. Here&apos;s why",
-      "link": "https://www.cnbc.com/2026/11/09/anthropic-ipo-ai-trade-jim-cramer.html",
-      "pubDate": "Mon, 09 Nov 2026 23:30:15 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "Anthropic releases first frontier models since Amodei&apos;s call for slowdown as IPO buzz builds",
-      "link": "https://www.cnbc.com/2026/11/09/anthropic-claude-fable-5-2-mythos-5-2.html",
-      "pubDate": "Mon, 09 Nov 2026 19:00:01 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "Goldman CEO Solomon says AI financing remains strong despite market jitters",
-      "link": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html",
-      "pubDate": "Mon, 09 Nov 2026 18:14:47 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough?",
-      "link": "https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools/",
-      "pubDate": "Mon, 09 Nov 2026 11:00:00 +0000",
-      "source": "Wired"
-    },
-    {
       "title": "Why a South Korean city is turning to a U.S. college to outsmart AI?",
       "link": "https://www.npr.org/2026/11/09/g-s1-151519/why-a-south-korean-city-is-turning-to-a-u-s-college-to-outsmart-ai",
       "pubDate": "Mon, 09 Nov 2026 05:47:00 -0500",
@@ -168,18 +180,6 @@
       "link": "https://www.axios.com/2026/11/09/jensen-huang-spy-scandal-ai",
       "pubDate": "Mon, 09 Nov 2026 10:00:04 +0000",
       "source": "Axios"
-    },
-    {
-      "title": "Already using ChatGPT or Claude? These simple power-ups let you do a lot more.",
-      "link": "https://www.washingtonpost.com/technology/2026/11/09/already-using-chatgpt-or-claude-these-simple-power-ups-let-you-do-lot-more/",
-      "pubDate": "Mon, 09 Nov 2026 10:00:00 +0000",
-      "source": "The Washington Post"
-    },
-    {
-      "title": "Recent AI agent experiments reveal a risky future of machine &apos;teamwork&apos; inside corporations",
-      "link": "https://www.cnbc.com/2026/11/08/ai-agents-risks.html",
-      "pubDate": "Sun, 08 Nov 2026 14:14:11 GMT",
-      "source": "CNBC"
     }
   ]
 }
