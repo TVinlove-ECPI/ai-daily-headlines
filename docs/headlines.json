@@ -1,11 +1,95 @@
 {
-  "updated_at": "2026-11-12T18:40:51.292Z",
+  "updated_at": "2026-11-13T18:21:20.050Z",
   "items": [
+    {
+      "title": "Wall Street Braces for Anthropic’s Spending",
+      "link": "https://www.nytimes.com/2026/11/13/technology/anthropic-ipo-spending-plans.html",
+      "pubDate": "Fri, 13 Nov 2026 16:28:46 +0000",
+      "source": "The New York Times"
+    },
+    {
+      "title": "Why Anthropic’s Dario Amodei Has Angered OpenAI and Other A.I. Peers",
+      "link": "https://www.nytimes.com/2026/11/13/technology/anthropic-dario-amodei-ai-openai.html",
+      "pubDate": "Fri, 13 Nov 2026 16:11:41 +0000",
+      "source": "The New York Times"
+    },
+    {
+      "title": "ChatGPT&#8217;s new Wallet lets AI agents shop and check out for you",
+      "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "pubDate": "Fri, 13 Nov 2026 16:00:12 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI launches ChatGPT Wallet, allowing its &apos;dots&apos; AI agents to make purchases for users",
+      "link": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html",
+      "pubDate": "Fri, 13 Nov 2026 15:31:58 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Cisco beats on earnings, says AI infrastructure revenue will double this fiscal year",
+      "link": "https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html",
+      "pubDate": "Fri, 13 Nov 2026 14:26:04 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Jensen Huang scandal casts doubt on Nvidia’s AI dominance — how we got here",
+      "link": "https://www.cnbc.com/2026/11/13/jensen-huang-scandal-casts-doubt-on-nvidias-ai-dominance-how-we-got-here.html",
+      "pubDate": "Fri, 13 Nov 2026 14:01:24 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Nvidia&apos;s interim CEO inherits risky AI bets and a legal mess",
+      "link": "https://www.npr.org/2026/11/13/nx-s1-6038868/nvidia-interim-ceo-colette-kress-ai-bets-investigation-lutnick",
+      "pubDate": "Fri, 13 Nov 2026 06:47:00 -0500",
+      "source": "NPR"
+    },
+    {
+      "title": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
+      "link": "https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/",
+      "pubDate": "Fri, 13 Nov 2026 11:45:00 +0000",
+      "source": "Wired"
+    },
+    {
+      "title": "Doctors want liability shield from AI mistakes",
+      "link": "https://www.axios.com/2026/11/13/doctors-ai-mistakes-liability-shield",
+      "pubDate": "Fri, 13 Nov 2026 10:30:07 +0000",
+      "source": "Axios"
+    },
+    {
+      "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+      "link": "https://www.npr.org/2026/11/13/nx-s1-6029408/google-ai-search-schools",
+      "pubDate": "Fri, 13 Nov 2026 05:00:00 -0500",
+      "source": "NPR"
+    },
+    {
+      "title": "The AI boom will survive without Jensen Huang, but there's a $500 billion funding hole to fill",
+      "link": "https://www.axios.com/2026/11/13/ai-boom-without-jensen-huang-nvidia",
+      "pubDate": "Fri, 13 Nov 2026 09:45:06 +0000",
+      "source": "Axios"
+    },
+    {
+      "title": "Jim Cramer has three lingering questions about Anthropic ahead of its historic IPO",
+      "link": "https://www.cnbc.com/2026/11/12/anthropic-ipo-cramer-pricing-growth-ai-safety.html",
+      "pubDate": "Thu, 12 Nov 2026 23:45:00 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Nvidia Scandal Unleashes a Flood of AI-Generated Memes",
+      "link": "https://www.nytimes.com/2026/11/12/world/asia/nvidia-ceo-huang-ai-memes.html",
+      "pubDate": "Thu, 12 Nov 2026 22:54:20 +0000",
+      "source": "The New York Times"
+    },
     {
       "title": "Jensen Huang&apos;s exit from Nvidia raises critical questions about the future of AI",
       "link": "https://www.cnbc.com/2026/11/12/jensen-huangs-exit-from-nvidia-raises-questions-about-future-of-ai.html",
-      "pubDate": "Thu, 12 Nov 2026 17:37:36 GMT",
+      "pubDate": "Thu, 12 Nov 2026 20:32:21 GMT",
       "source": "CNBC"
+    },
+    {
+      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+      "pubDate": "Thu, 12 Nov 2026 19:11:00 +0000",
+      "source": "TechCrunch"
     },
     {
       "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang&#8217;s exit",
@@ -32,34 +116,10 @@
       "source": "TechCrunch"
     },
     {
-      "title": "AI chatbots are recommending fake retail websites, study finds",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
-      "pubDate": "2026-11-12T12:00:00-05:00",
-      "source": "The Verge"
-    },
-    {
-      "title": "More game developers are starting to use generative AI",
-      "link": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
-      "pubDate": "2026-11-12T12:00:00-05:00",
-      "source": "The Verge"
-    },
-    {
-      "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
-      "link": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
-      "pubDate": "Thu, 12 Nov 2026 16:32:33 +0000",
-      "source": "TechCrunch"
-    },
-    {
       "title": "Jensen Huang, an architect of the AI boom, resigns as Nvidia CEO",
       "link": "https://www.axios.com/2026/11/12/nvidia-jensen-huang-out",
       "pubDate": "Thu, 12 Nov 2026 15:37:35 +0000",
       "source": "Axios"
-    },
-    {
-      "title": "Norwest pushes deeper into AI with new $4B fund",
-      "link": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
-      "pubDate": "Thu, 12 Nov 2026 15:18:14 +0000",
-      "source": "TechCrunch"
     },
     {
       "title": "Jensen Huang's ouster triggers an AI earthquake",
@@ -74,30 +134,6 @@
       "source": "The Washington Post"
     },
     {
-      "title": "AI is coming for consulting’s billable hours — and its graduate pipeline",
-      "link": "https://www.cnbc.com/2026/11/12/ai-consulting-billable-hours-graduate-hiring.html",
-      "pubDate": "Thu, 12 Nov 2026 08:20:56 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "Jim Cramer: This is the bet you&apos;re making if you buy the Anthropic IPO",
-      "link": "https://www.cnbc.com/2026/11/11/anthropic-ipo-profit-computing-commitments.html",
-      "pubDate": "Wed, 11 Nov 2026 23:30:48 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "A Startup Wants to Fight AI Bioweapons With AI",
-      "link": "https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai/",
-      "pubDate": "Wed, 11 Nov 2026 17:00:00 +0000",
-      "source": "Wired"
-    },
-    {
-      "title": "A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get Flagged for Weeks",
-      "link": "https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/",
-      "pubDate": "Wed, 11 Nov 2026 11:00:00 +0000",
-      "source": "Wired"
-    },
-    {
       "title": "The AI industry's week from hell",
       "link": "https://www.axios.com/2026/11/11/anthropic-ipo-ai-nvidia-midterms",
       "pubDate": "Wed, 11 Nov 2026 10:20:06 +0000",
@@ -108,24 +144,6 @@
       "link": "https://www.npr.org/2026/11/11/nx-s1-6034449/ai-911-calls-swatting",
       "pubDate": "Wed, 11 Nov 2026 05:00:00 -0500",
       "source": "NPR"
-    },
-    {
-      "title": "U.S., China should ‘harbor no illusions’ as they cooperate, compete on AI, Bessent says",
-      "link": "https://www.cnbc.com/2026/11/11/trump-xi-summit-ai-nvidia-.html",
-      "pubDate": "Wed, 11 Nov 2026 05:15:50 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "Anthropic opens Australian retail IPO offering as AI scrutiny intensifies",
-      "link": "https://www.cnbc.com/2026/11/11/anthopic-australian-retail-ipo-offering-.html",
-      "pubDate": "Wed, 11 Nov 2026 01:52:56 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "Jim Cramer says Anthropic&apos;s explosive growth could justify a record-breaking IPO",
-      "link": "https://www.cnbc.com/2026/11/10/anthropic-ipo-revenue-growth-cramer.html",
-      "pubDate": "Tue, 10 Nov 2026 23:46:35 GMT",
-      "source": "CNBC"
     },
     {
       "title": "Amazon and Google Will See Big Paydays from Anthropic IPO",
@@ -150,30 +168,6 @@
       "link": "https://www.axios.com/2026/11/10/ai-race-politics-slowdown",
       "pubDate": "Tue, 10 Nov 2026 10:15:05 +0000",
       "source": "Axios"
-    },
-    {
-      "title": "AI stocks bounce back — with one notable exception",
-      "link": "https://www.axios.com/2026/11/10/ai-stocks-nvidia-broadcom",
-      "pubDate": "Tue, 10 Nov 2026 10:10:08 +0000",
-      "source": "Axios"
-    },
-    {
-      "title": "Why a South Korean city is turning to a U.S. college to outsmart AI?",
-      "link": "https://www.npr.org/2026/11/09/g-s1-151519/why-a-south-korean-city-is-turning-to-a-u-s-college-to-outsmart-ai",
-      "pubDate": "Mon, 09 Nov 2026 05:47:00 -0500",
-      "source": "NPR"
-    },
-    {
-      "title": "AI's \"too big to fail\" CEO is facing a crisis with no backup",
-      "link": "https://www.axios.com/2026/11/09/jensen-huang-nvidia-ceo-crisis",
-      "pubDate": "Mon, 09 Nov 2026 10:15:04 +0000",
-      "source": "Axios"
-    },
-    {
-      "title": "OpenAI Pledges to Give Locals More Say in Data Center Projects",
-      "link": "https://www.nytimes.com/2026/11/05/technology/openai-data-centers-midterms.html",
-      "pubDate": "Fri, 06 Nov 2026 01:54:18 +0000",
-      "source": "The New York Times"
     }
   ]
 }
