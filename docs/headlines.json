@@ -1,29 +1,83 @@
 {
-  "updated_at": "2026-11-13T18:21:20.050Z",
+  "updated_at": "2026-11-14T16:49:40.885Z",
   "items": [
     {
-      "title": "Wall Street Braces for Anthropic’s Spending",
-      "link": "https://www.nytimes.com/2026/11/13/technology/anthropic-ipo-spending-plans.html",
-      "pubDate": "Fri, 13 Nov 2026 16:28:46 +0000",
-      "source": "The New York Times"
+      "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+      "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "pubDate": "2026-11-14T10:00:00-05:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Beware the New AI-Fueled Ransomware Boom",
+      "link": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+      "pubDate": "Sat, 14 Nov 2026 13:00:00 +0000",
+      "source": "Wired"
+    },
+    {
+      "title": "AI's four colliding crises",
+      "link": "https://www.axios.com/2026/11/14/ai-trust-nvidia-tech-stocks",
+      "pubDate": "Sat, 14 Nov 2026 12:35:56 +0000",
+      "source": "Axios"
+    },
+    {
+      "title": "Meet the seven co-founders of Anthropic",
+      "link": "https://www.cnbc.com/2026/11/14/meet-the-seven-co-founders-of-anthropic.html",
+      "pubDate": "Sat, 14 Nov 2026 12:15:01 GMT",
+      "source": "CNBC"
     },
     {
       "title": "Why Anthropic’s Dario Amodei Has Angered OpenAI and Other A.I. Peers",
       "link": "https://www.nytimes.com/2026/11/13/technology/anthropic-dario-amodei-ai-openai.html",
-      "pubDate": "Fri, 13 Nov 2026 16:11:41 +0000",
+      "pubDate": "Fri, 13 Nov 2026 23:20:11 +0000",
       "source": "The New York Times"
+    },
+    {
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "pubDate": "Fri, 13 Nov 2026 22:43:00 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Nvidia Scandal Unleashes a Flood of AI-Generated Memes",
+      "link": "https://www.nytimes.com/2026/11/12/world/asia/nvidia-ceo-huang-ai-memes.html",
+      "pubDate": "Fri, 13 Nov 2026 21:04:57 +0000",
+      "source": "The New York Times"
+    },
+    {
+      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "pubDate": "2026-11-13T15:45:10-05:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "pubDate": "Fri, 13 Nov 2026 19:37:57 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI launches ChatGPT Wallet, allowing its &apos;dots&apos; AI agents to make purchases for users",
+      "link": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html",
+      "pubDate": "Fri, 13 Nov 2026 18:56:26 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Wall Street Braces for Anthropic’s Spending",
+      "link": "https://www.nytimes.com/2026/11/13/technology/anthropic-ipo-spending-plans.html",
+      "pubDate": "Fri, 13 Nov 2026 18:52:43 +0000",
+      "source": "The New York Times"
+    },
+    {
+      "title": "Export-banned Nvidia chips are behind China&#8217;s most powerful AI models — uh-oh, Jensen!",
+      "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "pubDate": "Fri, 13 Nov 2026 18:40:30 +0000",
+      "source": "TechCrunch"
     },
     {
       "title": "ChatGPT&#8217;s new Wallet lets AI agents shop and check out for you",
       "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
       "pubDate": "Fri, 13 Nov 2026 16:00:12 +0000",
       "source": "TechCrunch"
-    },
-    {
-      "title": "OpenAI launches ChatGPT Wallet, allowing its &apos;dots&apos; AI agents to make purchases for users",
-      "link": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html",
-      "pubDate": "Fri, 13 Nov 2026 15:31:58 GMT",
-      "source": "CNBC"
     },
     {
       "title": "Cisco beats on earnings, says AI infrastructure revenue will double this fiscal year",
@@ -74,12 +128,6 @@
       "source": "CNBC"
     },
     {
-      "title": "Nvidia Scandal Unleashes a Flood of AI-Generated Memes",
-      "link": "https://www.nytimes.com/2026/11/12/world/asia/nvidia-ceo-huang-ai-memes.html",
-      "pubDate": "Thu, 12 Nov 2026 22:54:20 +0000",
-      "source": "The New York Times"
-    },
-    {
       "title": "Jensen Huang&apos;s exit from Nvidia raises critical questions about the future of AI",
       "link": "https://www.cnbc.com/2026/11/12/jensen-huangs-exit-from-nvidia-raises-questions-about-future-of-ai.html",
       "pubDate": "Thu, 12 Nov 2026 20:32:21 GMT",
@@ -89,30 +137,6 @@
       "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
       "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
       "pubDate": "Thu, 12 Nov 2026 19:11:00 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang&#8217;s exit",
-      "link": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
-      "pubDate": "Thu, 12 Nov 2026 17:36:40 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
-      "link": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
-      "pubDate": "Thu, 12 Nov 2026 17:17:58 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "SoftBank’s billion-dollar loss may have put a cap on AI&#8217;s natural gas ambitions",
-      "link": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
-      "pubDate": "Thu, 12 Nov 2026 17:00:52 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
-      "link": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
-      "pubDate": "Thu, 12 Nov 2026 17:00:00 +0000",
       "source": "TechCrunch"
     },
     {
@@ -126,12 +150,6 @@
       "link": "https://www.axios.com/2026/11/12/jensen-huang-nvidia-board",
       "pubDate": "Thu, 12 Nov 2026 14:10:25 +0000",
       "source": "Axios"
-    },
-    {
-      "title": "United Airlines blocks AI agents from booking flights",
-      "link": "https://www.washingtonpost.com/travel/2026/11/12/united-airlines-blocks-ai-agents-booking-flights/",
-      "pubDate": "Thu, 12 Nov 2026 12:30:00 +0000",
-      "source": "The Washington Post"
     },
     {
       "title": "The AI industry's week from hell",
@@ -152,22 +170,10 @@
       "source": "The New York Times"
     },
     {
-      "title": "Testing the new generation of AI-enabled fire-extinguishing drones",
-      "link": "https://www.npr.org/2026/11/10/nx-s1-6030962/testing-the-new-generation-of-ai-enabled-fire-extinguishing-drones",
-      "pubDate": "Tue, 10 Nov 2026 14:00:00 -0500",
-      "source": "NPR"
-    },
-    {
       "title": "Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O.",
       "link": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html",
       "pubDate": "Tue, 10 Nov 2026 17:32:10 +0000",
       "source": "The New York Times"
-    },
-    {
-      "title": "How Nvidia's crisis and politics could deliver the pause AI leaders want",
-      "link": "https://www.axios.com/2026/11/10/ai-race-politics-slowdown",
-      "pubDate": "Tue, 10 Nov 2026 10:15:05 +0000",
-      "source": "Axios"
     }
   ]
 }
