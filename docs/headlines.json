@@ -1,11 +1,35 @@
 {
-  "updated_at": "2026-11-14T16:49:40.885Z",
+  "updated_at": "2026-11-15T17:32:28.680Z",
   "items": [
     {
-      "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
-      "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-      "pubDate": "2026-11-14T10:00:00-05:00",
-      "source": "The Verge"
+      "title": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot",
+      "link": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
+      "pubDate": "Sun, 15 Nov 2026 12:00:01 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "AI DJs Completely Kill My Groove",
+      "link": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
+      "pubDate": "Sun, 15 Nov 2026 12:00:00 +0000",
+      "source": "Wired"
+    },
+    {
+      "title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
+      "link": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
+      "pubDate": "Sun, 15 Nov 2026 11:00:00 +0000",
+      "source": "Wired"
+    },
+    {
+      "title": "Nvidia&apos;s leadership crisis rattles the AI trade. Here&apos;s how we&apos;re adjusting our portfolio",
+      "link": "https://www.cnbc.com/investingclub/2026/11/14/nvidias-leadership-crisis-rattles-wall-street-how-were-adjusting.html",
+      "pubDate": "Sat, 14 Nov 2026 18:48:39 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn&#8217;t make it",
+      "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "pubDate": "Sat, 14 Nov 2026 17:30:00 +0000",
+      "source": "TechCrunch"
     },
     {
       "title": "Beware the New AI-Fueled Ransomware Boom",
@@ -44,12 +68,6 @@
       "source": "The New York Times"
     },
     {
-      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
-      "pubDate": "2026-11-13T15:45:10-05:00",
-      "source": "The Verge"
-    },
-    {
       "title": "AI agent startup LangChain hits $3B valuation",
       "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
       "pubDate": "Fri, 13 Nov 2026 19:37:57 +0000",
@@ -78,12 +96,6 @@
       "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
       "pubDate": "Fri, 13 Nov 2026 16:00:12 +0000",
       "source": "TechCrunch"
-    },
-    {
-      "title": "Cisco beats on earnings, says AI infrastructure revenue will double this fiscal year",
-      "link": "https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html",
-      "pubDate": "Fri, 13 Nov 2026 14:26:04 GMT",
-      "source": "CNBC"
     },
     {
       "title": "Jensen Huang scandal casts doubt on Nvidia’s AI dominance — how we got here",
@@ -128,18 +140,6 @@
       "source": "CNBC"
     },
     {
-      "title": "Jensen Huang&apos;s exit from Nvidia raises critical questions about the future of AI",
-      "link": "https://www.cnbc.com/2026/11/12/jensen-huangs-exit-from-nvidia-raises-questions-about-future-of-ai.html",
-      "pubDate": "Thu, 12 Nov 2026 20:32:21 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-      "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
-      "pubDate": "Thu, 12 Nov 2026 19:11:00 +0000",
-      "source": "TechCrunch"
-    },
-    {
       "title": "Jensen Huang, an architect of the AI boom, resigns as Nvidia CEO",
       "link": "https://www.axios.com/2026/11/12/nvidia-jensen-huang-out",
       "pubDate": "Thu, 12 Nov 2026 15:37:35 +0000",
@@ -156,12 +156,6 @@
       "link": "https://www.axios.com/2026/11/11/anthropic-ipo-ai-nvidia-midterms",
       "pubDate": "Wed, 11 Nov 2026 10:20:06 +0000",
       "source": "Axios"
-    },
-    {
-      "title": "Swatters are using AI voices to deceive 911 dispatchers, and it&apos;s only getting worse",
-      "link": "https://www.npr.org/2026/11/11/nx-s1-6034449/ai-911-calls-swatting",
-      "pubDate": "Wed, 11 Nov 2026 05:00:00 -0500",
-      "source": "NPR"
     },
     {
       "title": "Amazon and Google Will See Big Paydays from Anthropic IPO",
