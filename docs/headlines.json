@@ -1,6 +1,120 @@
 {
-  "updated_at": "2026-11-15T17:32:28.680Z",
+  "updated_at": "2026-11-16T20:46:56.150Z",
   "items": [
+    {
+      "title": "Anthropic’s Wall Street whisperer: Meet CFO Krishna Rao",
+      "link": "https://www.cnbc.com/2026/11/16/anthropic-cfo-krishna-rao-ipo.html",
+      "pubDate": "Mon, 16 Nov 2026 20:44:24 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "California state AG sues OpenAI over rogue agent incidents",
+      "link": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+      "pubDate": "Mon, 16 Nov 2026 20:07:13 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "California Sues OpenAI Over A.I. Safety Issues",
+      "link": "https://www.nytimes.com/2026/11/16/technology/california-openai-ai-safety.html",
+      "pubDate": "Mon, 16 Nov 2026 19:55:37 +0000",
+      "source": "The New York Times"
+    },
+    {
+      "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
+      "link": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
+      "pubDate": "2026-11-16T14:24:40-05:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
+      "link": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
+      "pubDate": "2026-11-16T14:23:45-05:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Altimeter&apos;s Brad Gerstner aims to invest $5 billion in Anthropic IPO",
+      "link": "https://www.cnbc.com/2026/11/16/altimeters-brad-gerstner-investing-5-billion-in-anthropic-ipo.html",
+      "pubDate": "Mon, 16 Nov 2026 19:11:41 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "U.S. tightens controls on remote access to AI technology amid Nvidia fallout",
+      "link": "https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department",
+      "pubDate": "Mon, 16 Nov 2026 13:49:26 -0500",
+      "source": "NPR"
+    },
+    {
+      "title": "Anthropic IPO guide: Everything you need to know",
+      "link": "https://www.cnbc.com/2026/11/16/anthropic-ipo-date-price-range.html",
+      "pubDate": "Mon, 16 Nov 2026 18:27:56 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "OpenAI inks agreements with four independent evaluators to boost company&apos;s safety work",
+      "link": "https://www.cnbc.com/2026/11/16/openai-independent-ai-safety-evaluators.html",
+      "pubDate": "Mon, 16 Nov 2026 18:11:00 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "U.N. talks seek to rein in &apos;killer robots&apos; as fears over AI weapons grow",
+      "link": "https://www.npr.org/2026/11/16/nx-s1-6042548/un-killer-robots-ai-weapons-drones",
+      "pubDate": "Mon, 16 Nov 2026 13:04:50 -0500",
+      "source": "NPR"
+    },
+    {
+      "title": "FBI says Artex AI open-source hacking tool used to breach networks in &#8216;under three hours&#8217;",
+      "link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+      "pubDate": "Mon, 16 Nov 2026 17:36:43 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the &#8216;Wolf of Wall Street&#8217;",
+      "link": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
+      "pubDate": "Mon, 16 Nov 2026 17:10:00 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI will embed safety researchers to investigate AI subversion",
+      "link": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+      "pubDate": "Mon, 16 Nov 2026 17:02:43 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+      "link": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+      "pubDate": "Mon, 16 Nov 2026 17:00:00 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Audible turns to AI to help users discover audiobooks",
+      "link": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
+      "pubDate": "Mon, 16 Nov 2026 15:52:19 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "\"No sane person questions whether AI works\" — but an AI bubble appears ready to pop.",
+      "link": "https://www.axios.com/2026/11/16/nvidia-jensen-huang-ai-bubble",
+      "pubDate": "Mon, 16 Nov 2026 10:15:08 +0000",
+      "source": "Axios"
+    },
+    {
+      "title": "How Sam Bankman-Fried Lost Out on a $35 Billion Jackpot From Anthropic",
+      "link": "https://www.nytimes.com/2026/11/16/technology/sam-bankman-fried-anthropic.html",
+      "pubDate": "Mon, 16 Nov 2026 10:02:09 +0000",
+      "source": "The New York Times"
+    },
+    {
+      "title": "‘Standing on one leg’: IMF chief warns about global economy as AI circular financing hits $1 trillion",
+      "link": "https://www.cnbc.com/2026/11/16/imf-georgieva-warning-ai-circular-financing.html",
+      "pubDate": "Mon, 16 Nov 2026 09:14:46 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Wall Street Braces for Anthropic’s Spending",
+      "link": "https://www.nytimes.com/2026/11/13/technology/anthropic-ipo-spending-plans.html",
+      "pubDate": "Mon, 16 Nov 2026 04:02:59 +0000",
+      "source": "The New York Times"
+    },
     {
       "title": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot",
       "link": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
@@ -20,18 +134,6 @@
       "source": "Wired"
     },
     {
-      "title": "Nvidia&apos;s leadership crisis rattles the AI trade. Here&apos;s how we&apos;re adjusting our portfolio",
-      "link": "https://www.cnbc.com/investingclub/2026/11/14/nvidias-leadership-crisis-rattles-wall-street-how-were-adjusting.html",
-      "pubDate": "Sat, 14 Nov 2026 18:48:39 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "The AI graveyard: a running list of projects and startups that didn&#8217;t make it",
-      "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "pubDate": "Sat, 14 Nov 2026 17:30:00 +0000",
-      "source": "TechCrunch"
-    },
-    {
       "title": "Beware the New AI-Fueled Ransomware Boom",
       "link": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
       "pubDate": "Sat, 14 Nov 2026 13:00:00 +0000",
@@ -44,22 +146,10 @@
       "source": "Axios"
     },
     {
-      "title": "Meet the seven co-founders of Anthropic",
-      "link": "https://www.cnbc.com/2026/11/14/meet-the-seven-co-founders-of-anthropic.html",
-      "pubDate": "Sat, 14 Nov 2026 12:15:01 GMT",
-      "source": "CNBC"
-    },
-    {
       "title": "Why Anthropic’s Dario Amodei Has Angered OpenAI and Other A.I. Peers",
       "link": "https://www.nytimes.com/2026/11/13/technology/anthropic-dario-amodei-ai-openai.html",
       "pubDate": "Fri, 13 Nov 2026 23:20:11 +0000",
       "source": "The New York Times"
-    },
-    {
-      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-      "pubDate": "Fri, 13 Nov 2026 22:43:00 +0000",
-      "source": "TechCrunch"
     },
     {
       "title": "Nvidia Scandal Unleashes a Flood of AI-Generated Memes",
@@ -68,52 +158,10 @@
       "source": "The New York Times"
     },
     {
-      "title": "AI agent startup LangChain hits $3B valuation",
-      "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-      "pubDate": "Fri, 13 Nov 2026 19:37:57 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "OpenAI launches ChatGPT Wallet, allowing its &apos;dots&apos; AI agents to make purchases for users",
-      "link": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html",
-      "pubDate": "Fri, 13 Nov 2026 18:56:26 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "Wall Street Braces for Anthropic’s Spending",
-      "link": "https://www.nytimes.com/2026/11/13/technology/anthropic-ipo-spending-plans.html",
-      "pubDate": "Fri, 13 Nov 2026 18:52:43 +0000",
-      "source": "The New York Times"
-    },
-    {
-      "title": "Export-banned Nvidia chips are behind China&#8217;s most powerful AI models — uh-oh, Jensen!",
-      "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-      "pubDate": "Fri, 13 Nov 2026 18:40:30 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "ChatGPT&#8217;s new Wallet lets AI agents shop and check out for you",
-      "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-      "pubDate": "Fri, 13 Nov 2026 16:00:12 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Jensen Huang scandal casts doubt on Nvidia’s AI dominance — how we got here",
-      "link": "https://www.cnbc.com/2026/11/13/jensen-huang-scandal-casts-doubt-on-nvidias-ai-dominance-how-we-got-here.html",
-      "pubDate": "Fri, 13 Nov 2026 14:01:24 GMT",
-      "source": "CNBC"
-    },
-    {
       "title": "Nvidia&apos;s interim CEO inherits risky AI bets and a legal mess",
       "link": "https://www.npr.org/2026/11/13/nx-s1-6038868/nvidia-interim-ceo-colette-kress-ai-bets-investigation-lutnick",
       "pubDate": "Fri, 13 Nov 2026 06:47:00 -0500",
       "source": "NPR"
-    },
-    {
-      "title": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
-      "link": "https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/",
-      "pubDate": "Fri, 13 Nov 2026 11:45:00 +0000",
-      "source": "Wired"
     },
     {
       "title": "Doctors want liability shield from AI mistakes",
@@ -122,52 +170,16 @@
       "source": "Axios"
     },
     {
-      "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
-      "link": "https://www.npr.org/2026/11/13/nx-s1-6029408/google-ai-search-schools",
-      "pubDate": "Fri, 13 Nov 2026 05:00:00 -0500",
-      "source": "NPR"
-    },
-    {
       "title": "The AI boom will survive without Jensen Huang, but there's a $500 billion funding hole to fill",
       "link": "https://www.axios.com/2026/11/13/ai-boom-without-jensen-huang-nvidia",
       "pubDate": "Fri, 13 Nov 2026 09:45:06 +0000",
       "source": "Axios"
     },
     {
-      "title": "Jim Cramer has three lingering questions about Anthropic ahead of its historic IPO",
-      "link": "https://www.cnbc.com/2026/11/12/anthropic-ipo-cramer-pricing-growth-ai-safety.html",
-      "pubDate": "Thu, 12 Nov 2026 23:45:00 GMT",
-      "source": "CNBC"
-    },
-    {
       "title": "Jensen Huang, an architect of the AI boom, resigns as Nvidia CEO",
       "link": "https://www.axios.com/2026/11/12/nvidia-jensen-huang-out",
       "pubDate": "Thu, 12 Nov 2026 15:37:35 +0000",
       "source": "Axios"
-    },
-    {
-      "title": "Jensen Huang's ouster triggers an AI earthquake",
-      "link": "https://www.axios.com/2026/11/12/jensen-huang-nvidia-board",
-      "pubDate": "Thu, 12 Nov 2026 14:10:25 +0000",
-      "source": "Axios"
-    },
-    {
-      "title": "The AI industry's week from hell",
-      "link": "https://www.axios.com/2026/11/11/anthropic-ipo-ai-nvidia-midterms",
-      "pubDate": "Wed, 11 Nov 2026 10:20:06 +0000",
-      "source": "Axios"
-    },
-    {
-      "title": "Amazon and Google Will See Big Paydays from Anthropic IPO",
-      "link": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-google-amazon.html",
-      "pubDate": "Tue, 10 Nov 2026 21:54:37 +0000",
-      "source": "The New York Times"
-    },
-    {
-      "title": "Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O.",
-      "link": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html",
-      "pubDate": "Tue, 10 Nov 2026 17:32:10 +0000",
-      "source": "The New York Times"
     }
   ]
 }
