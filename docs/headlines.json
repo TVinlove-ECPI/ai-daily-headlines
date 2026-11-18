@@ -1,40 +1,154 @@
 {
-  "updated_at": "2026-11-17T19:33:37.128Z",
+  "updated_at": "2026-11-18T19:14:08.266Z",
   "items": [
     {
-      "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
-      "link": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
-      "pubDate": "Tue, 17 Nov 2026 19:02:20 +0000",
-      "source": "TechCrunch"
+      "title": "An AI Debt Collection Service Exposed 6.6 Million Accounts and 315,000 Call Recordings",
+      "link": "https://www.wired.com/story/ai-debt-collection-service-exposed-66-million-accounts-and-315000-call-recordings/",
+      "pubDate": "Wed, 18 Nov 2026 19:00:00 +0000",
+      "source": "Wired"
     },
     {
-      "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
-      "link": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
-      "pubDate": "2026-11-17T13:58:01-05:00",
+      "title": "Retail investor enthusiasm for Anthropic IPO to rival SpaceX debut",
+      "link": "https://www.cnbc.com/2026/11/18/anthropic-ipo-retail-investors.html",
+      "pubDate": "Wed, 18 Nov 2026 18:42:29 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "What is Nvidia without AI’s sugar daddy in charge?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition",
+      "pubDate": "2026-11-18T13:34:15-05:00",
       "source": "The Verge"
     },
     {
-      "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
-      "link": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
-      "pubDate": "Tue, 17 Nov 2026 18:48:23 +0000",
+      "title": "OpenAI Executives Say They Have to Strike a Balance Between A.I. Safety and Progress",
+      "link": "https://www.nytimes.com/2026/11/18/business/dealbook/openai-sam-altman-greg-brockman.html",
+      "pubDate": "Wed, 18 Nov 2026 18:10:04 +0000",
+      "source": "The New York Times"
+    },
+    {
+      "title": "Google&#8217;s AI feature in Search gets its own incognito mode",
+      "link": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+      "pubDate": "Wed, 18 Nov 2026 18:04:05 +0000",
       "source": "TechCrunch"
     },
     {
-      "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
-      "link": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
-      "pubDate": "Tue, 17 Nov 2026 18:04:16 +0000",
+      "title": "Disney’s new Star Wars animatronics interact with guests using AI",
+      "link": "https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai",
+      "pubDate": "2026-11-18T12:50:57-05:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Anthropic Is Set to Finalize Pricing for Blockbuster I.P.O.",
+      "link": "https://www.nytimes.com/2026/11/18/technology/anthropic-ipo-pricing.html",
+      "pubDate": "Wed, 18 Nov 2026 17:49:51 +0000",
+      "source": "The New York Times"
+    },
+    {
+      "title": "More banks say customers using AI agents are on their own — even if they get hacked",
+      "link": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+      "pubDate": "Wed, 18 Nov 2026 17:32:10 +0000",
       "source": "TechCrunch"
     },
     {
-      "title": "Proton&#8217;s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
-      "link": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
-      "pubDate": "Tue, 17 Nov 2026 17:32:25 +0000",
+      "title": "Anthropic IPO: AI lab considers increasing the offering as investor demand surges, sources say",
+      "link": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
+      "pubDate": "Wed, 18 Nov 2026 17:17:44 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
+      "link": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
+      "pubDate": "Wed, 18 Nov 2026 16:59:00 +0000",
       "source": "TechCrunch"
     },
     {
-      "title": "AI models can be tricked into identifying civilians as military targets by telling them it&#8217;s a game",
-      "link": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
-      "pubDate": "Tue, 17 Nov 2026 17:20:41 +0000",
+      "title": "Artex Is Criminals’ New Favorite ‘Point-and-Shoot’ AI Hacking Tool",
+      "link": "https://www.wired.com/story/artex-ai-hacking-tools/",
+      "pubDate": "Wed, 18 Nov 2026 16:35:24 +0000",
+      "source": "Wired"
+    },
+    {
+      "title": "OpenAI CEO Sam Altman says it&#8217;s &#8216;hard to imagine the AI industry without Jensen&#8217;",
+      "link": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
+      "pubDate": "Wed, 18 Nov 2026 16:14:09 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "‘Just Ridiculous’: A Famed Philosopher Takes on AI Consciousness",
+      "link": "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/",
+      "pubDate": "Wed, 18 Nov 2026 15:02:40 +0000",
+      "source": "Wired"
+    },
+    {
+      "title": "Nvidia&apos;s numbers and Anthropic anticipation drive Nasdaq futures up",
+      "link": "https://www.cnbc.com/2026/11/18/nvidias-numbers-and-anthropic-anticipation-drive-nasdaq-futures-up.html",
+      "pubDate": "Wed, 18 Nov 2026 13:05:24 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Booking Holdings creates new enterprise division as AI reshapes travel planning",
+      "link": "https://www.cnbc.com/2026/11/18/booking-holdings-enterprise.html",
+      "pubDate": "Wed, 18 Nov 2026 12:55:01 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+      "link": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+      "pubDate": "Wed, 18 Nov 2026 12:00:00 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "China’s military seeks Nvidia’s advanced chips for AI capabilities, commission says",
+      "link": "https://www.cnbc.com/2026/11/18/nvidia-chips-china-military-ai.html",
+      "pubDate": "Wed, 18 Nov 2026 10:45:01 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "The terrifying rise of AI hacking tools",
+      "link": "https://www.axios.com/2026/11/18/ai-hacking-tools-artex-cairn",
+      "pubDate": "Wed, 18 Nov 2026 10:20:06 +0000",
+      "source": "Axios"
+    },
+    {
+      "title": "The world embraced the AI boom. Now many are having regrets.",
+      "link": "https://www.washingtonpost.com/technology/2026/11/18/anthropic-blockbuster-ipo-could-test-fears-about-an-ai-bubble/",
+      "pubDate": "Wed, 18 Nov 2026 10:00:00 +0000",
+      "source": "The Washington Post"
+    },
+    {
+      "title": "OpenAI announces new AI safety program; researchers worry it won&apos;t be enough",
+      "link": "https://www.npr.org/2026/11/18/nx-s1-6044223/openai-embedded-evaluators-program-critics",
+      "pubDate": "Wed, 18 Nov 2026 05:00:00 -0500",
+      "source": "NPR"
+    },
+    {
+      "title": "Over a Third of Gen Z-ers Rely on AI for Friendship",
+      "link": "https://www.wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship/",
+      "pubDate": "Wed, 18 Nov 2026 05:01:00 +0000",
+      "source": "Wired"
+    },
+    {
+      "title": "With Jensen Huang gone, Colette Kress shows Nvidia is still at the center of AI",
+      "link": "https://www.cnbc.com/2026/11/17/jensen-huang-may-be-gone-nvidia-shows-its-still-at-the-center-of-ai-.html",
+      "pubDate": "Wed, 18 Nov 2026 03:15:00 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Exclusive: Donald Trump Jr. signals investors underestimated AI pushback",
+      "link": "https://www.axios.com/2026/11/17/donald-trump-jr-data-centers",
+      "pubDate": "Tue, 17 Nov 2026 23:28:12 +0000",
+      "source": "Axios"
+    },
+    {
+      "title": "\"We will remain thoughtful\": Nvidia says it will continue to backstop AI ecosystem",
+      "link": "https://www.axios.com/2026/11/17/nvidia-ai-startup-investment-discipline-kress",
+      "pubDate": "Tue, 17 Nov 2026 23:15:32 +0000",
+      "source": "Axios"
+    },
+    {
+      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang&#8217;s exit",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+      "pubDate": "Tue, 17 Nov 2026 23:04:35 +0000",
       "source": "TechCrunch"
     },
     {
@@ -42,24 +156,6 @@
       "link": "https://www.axios.com/2026/11/17/ai-fed-economic-growth-andreessen",
       "pubDate": "Tue, 17 Nov 2026 17:00:13 +0000",
       "source": "Axios"
-    },
-    {
-      "title": "Daydream&#8217;s new AI agent acts as your personal stylist — and can shop for you, too",
-      "link": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
-      "pubDate": "Tue, 17 Nov 2026 16:32:55 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Anthropic likely to price IPO above the current range of $70 to $78, sources tell CNBC",
-      "link": "https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html",
-      "pubDate": "Tue, 17 Nov 2026 14:34:48 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "Demis Hassabis’ AI company raises $5 billion, months after he left as Google DeepMind CEO",
-      "link": "https://www.cnbc.com/2026/11/17/isomorphic-labs-series-c-ai-drug-discovery-.html",
-      "pubDate": "Tue, 17 Nov 2026 13:58:07 GMT",
-      "source": "CNBC"
     },
     {
       "title": "I&apos;m a human doctor with human intelligence. But I sure do like my AI notetaker",
@@ -80,106 +176,10 @@
       "source": "Wired"
     },
     {
-      "title": "Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC",
-      "link": "https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html",
-      "pubDate": "Tue, 17 Nov 2026 07:07:35 GMT",
-      "source": "CNBC"
-    },
-    {
       "title": "Lawyers for man accused of bugging OpenAI say there’s no evidence he’s a spy",
       "link": "https://www.washingtonpost.com/technology/2026/11/16/saudi-man-accused-spying-openai-alleges-he-being-held-unfairly/",
       "pubDate": "Tue, 17 Nov 2026 00:43:00 +0000",
       "source": "The Washington Post"
-    },
-    {
-      "title": "Jim Cramer says Nvidia’s leadership shake-up won’t derail the AI trade",
-      "link": "https://www.cnbc.com/2026/11/16/nvidia-cramer-ai-trade-leadership-change.html",
-      "pubDate": "Mon, 16 Nov 2026 23:23:47 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "Aschenbrenner’s Situational Awareness made AI bets again before October rout",
-      "link": "https://www.cnbc.com/2026/11/16/situational-awareness-aschenbrenner-new-ai-bets.html",
-      "pubDate": "Mon, 16 Nov 2026 23:05:12 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "California sues OpenAI over hacking risks",
-      "link": "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident",
-      "pubDate": "Mon, 16 Nov 2026 17:06:22 -0500",
-      "source": "NPR"
-    },
-    {
-      "title": "OpenAI inks agreements with four independent evaluators to boost company&apos;s safety work",
-      "link": "https://www.cnbc.com/2026/11/16/openai-independent-ai-safety-evaluators.html",
-      "pubDate": "Mon, 16 Nov 2026 21:54:18 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "California sues OpenAI, arguing it tested models without adequate safeguards",
-      "link": "https://www.washingtonpost.com/technology/2026/11/16/california-sues-openai-arguing-it-tested-models-without-adequate-safeguards/",
-      "pubDate": "Mon, 16 Nov 2026 21:30:00 +0000",
-      "source": "The Washington Post"
-    },
-    {
-      "title": "California Sues OpenAI Over A.I. Safety Issues",
-      "link": "https://www.nytimes.com/2026/11/16/technology/california-openai-ai-safety.html",
-      "pubDate": "Mon, 16 Nov 2026 19:55:37 +0000",
-      "source": "The New York Times"
-    },
-    {
-      "title": "U.S. tightens controls on remote access to AI technology amid Nvidia fallout",
-      "link": "https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department",
-      "pubDate": "Mon, 16 Nov 2026 13:49:26 -0500",
-      "source": "NPR"
-    },
-    {
-      "title": "U.N. talks seek to rein in &apos;killer robots&apos; as fears over AI weapons grow",
-      "link": "https://www.npr.org/2026/11/16/nx-s1-6042548/un-killer-robots-ai-weapons-drones",
-      "pubDate": "Mon, 16 Nov 2026 13:04:50 -0500",
-      "source": "NPR"
-    },
-    {
-      "title": "\"No sane person questions whether AI works\" — but an AI bubble appears ready to pop.",
-      "link": "https://www.axios.com/2026/11/16/nvidia-jensen-huang-ai-bubble",
-      "pubDate": "Mon, 16 Nov 2026 10:15:08 +0000",
-      "source": "Axios"
-    },
-    {
-      "title": "How Sam Bankman-Fried Lost Out on a $35 Billion Jackpot From Anthropic",
-      "link": "https://www.nytimes.com/2026/11/16/technology/sam-bankman-fried-anthropic.html",
-      "pubDate": "Mon, 16 Nov 2026 10:02:09 +0000",
-      "source": "The New York Times"
-    },
-    {
-      "title": "Wall Street Braces for Anthropic’s Spending",
-      "link": "https://www.nytimes.com/2026/11/13/technology/anthropic-ipo-spending-plans.html",
-      "pubDate": "Mon, 16 Nov 2026 04:02:59 +0000",
-      "source": "The New York Times"
-    },
-    {
-      "title": "AI DJs Completely Kill My Groove",
-      "link": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
-      "pubDate": "Sun, 15 Nov 2026 12:00:00 +0000",
-      "source": "Wired"
-    },
-    {
-      "title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
-      "link": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
-      "pubDate": "Sun, 15 Nov 2026 11:00:00 +0000",
-      "source": "Wired"
-    },
-    {
-      "title": "Beware the New AI-Fueled Ransomware Boom",
-      "link": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
-      "pubDate": "Sat, 14 Nov 2026 13:00:00 +0000",
-      "source": "Wired"
-    },
-    {
-      "title": "AI's four colliding crises",
-      "link": "https://www.axios.com/2026/11/14/ai-trust-nvidia-tech-stocks",
-      "pubDate": "Sat, 14 Nov 2026 12:35:56 +0000",
-      "source": "Axios"
     }
   ]
 }
