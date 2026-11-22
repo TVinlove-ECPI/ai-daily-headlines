@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-11-21T17:51:50.122Z",
+  "updated_at": "2026-11-22T18:12:01.352Z",
   "items": [
+    {
+      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "link": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "pubDate": "2026-11-22T12:25:20-05:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Behind the Curtain — AI 2027: The reckoning",
+      "link": "https://www.axios.com/2026/11/22/behind-the-curtain-ai-2027-the-reckoning",
+      "pubDate": "Sun, 22 Nov 2026 13:36:46 +0000",
+      "source": "Axios"
+    },
+    {
+      "title": "Banks Have Had It Up to Here With Your AI Agent",
+      "link": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+      "pubDate": "Sun, 22 Nov 2026 11:00:00 +0000",
+      "source": "Wired"
+    },
+    {
+      "title": "Inside an AI prophet’s secretive visions for humanity’s future",
+      "link": "https://www.washingtonpost.com/technology/2026/11/22/inside-an-ai-prophets-secretive-plans-humanitys-future/",
+      "pubDate": "Sun, 22 Nov 2026 10:00:00 +0000",
+      "source": "The Washington Post"
+    },
+    {
+      "title": "Google employees protest AI in schools policy",
+      "link": "https://www.npr.org/2026/11/21/nx-s1-6048599/google-employees-protest-ai-in-schools-policy",
+      "pubDate": "Sat, 21 Nov 2026 17:01:40 -0500",
+      "source": "NPR"
+    },
+    {
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "pubDate": "Sat, 21 Nov 2026 21:37:10 +0000",
+      "source": "TechCrunch"
+    },
     {
       "title": "Here are the top AI agents that can live in your text messages",
       "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
@@ -20,20 +56,20 @@
       "source": "TechCrunch"
     },
     {
-      "title": "Can Anthropic afford to put safety first?",
-      "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
-      "pubDate": "2026-11-21T10:00:00-05:00",
-      "source": "The Verge"
-    },
-    {
-      "title": "Anthropic says it will put humanity first. Will its IPO change that?",
-      "link": "https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety",
-      "pubDate": "Sat, 21 Nov 2026 05:00:00 -0500",
-      "source": "NPR"
+      "title": "Anthropic’s Debut Shows the Disconnect Between Wall Street and Silicon Valley",
+      "link": "https://www.nytimes.com/2026/11/21/business/anthropic-stock-wall-street-silicon-valley.html",
+      "pubDate": "Sat, 21 Nov 2026 10:03:45 +0000",
+      "source": "The New York Times"
     },
     {
       "title": "The AI boom had a really bad week — and it&apos;s raising loud alarms",
       "link": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
+      "pubDate": "Sat, 21 Nov 2026 05:00:00 -0500",
+      "source": "NPR"
+    },
+    {
+      "title": "Anthropic says it will put humanity first. Will its IPO change that?",
+      "link": "https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety",
       "pubDate": "Sat, 21 Nov 2026 05:00:00 -0500",
       "source": "NPR"
     },
@@ -98,12 +134,6 @@
       "source": "CNBC"
     },
     {
-      "title": "Six AI-powered gadgets that could make your home office smarter",
-      "link": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
-      "pubDate": "Fri, 20 Nov 2026 14:00:00 +0000",
-      "source": "TechCrunch"
-    },
-    {
       "title": "Anthropic is public, now comes the hard part",
       "link": "https://www.axios.com/2026/11/20/anthropic-public-shareholders",
       "pubDate": "Fri, 20 Nov 2026 12:10:08 +0000",
@@ -149,36 +179,6 @@
       "title": "Why Is the Stock Market Down After Anthropic’s Successful IPO?",
       "link": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-stock-market.html",
       "pubDate": "Thu, 19 Nov 2026 22:17:42 +0000",
-      "source": "The New York Times"
-    },
-    {
-      "title": "Anthropic shares soar in stock market debut",
-      "link": "https://www.washingtonpost.com/technology/2026/11/19/anthropic-shares-set-trade-publicly-after-record-breaking-ipo/",
-      "pubDate": "Thu, 19 Nov 2026 21:32:19 +0000",
-      "source": "The Washington Post"
-    },
-    {
-      "title": "What are Anthropic’s financials?",
-      "link": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/what-are-anthropics-financials",
-      "pubDate": "Thu, 19 Nov 2026 19:30:04 +0000",
-      "source": "The New York Times"
-    },
-    {
-      "title": "Anthropic’s unusual corporate structure mandates it balance safety and profit.",
-      "link": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/anthropics-unusual-corporate-structure-mandates-it-balance-safety-and-profit",
-      "pubDate": "Thu, 19 Nov 2026 18:53:18 +0000",
-      "source": "The New York Times"
-    },
-    {
-      "title": "Meta rethinks climate goal as AI emissions soar 45%",
-      "link": "https://www.axios.com/2026/11/19/meta-ai-emissions-rise",
-      "pubDate": "Thu, 19 Nov 2026 17:00:48 +0000",
-      "source": "Axios"
-    },
-    {
-      "title": "Some of the Gulf’s largest investors have put big bets on Anthropic.",
-      "link": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/some-of-the-gulfs-largest-investors-have-put-big-bets-on-anthropic",
-      "pubDate": "Thu, 19 Nov 2026 15:35:29 +0000",
       "source": "The New York Times"
     }
   ]
