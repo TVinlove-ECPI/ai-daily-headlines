@@ -1,11 +1,89 @@
 {
-  "updated_at": "2026-11-22T18:12:01.352Z",
+  "updated_at": "2026-11-23T22:25:55.948Z",
   "items": [
     {
-      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
-      "link": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
-      "pubDate": "2026-11-22T12:25:20-05:00",
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "pubDate": "Mon, 23 Nov 2026 22:05:50 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "pubDate": "Mon, 23 Nov 2026 22:02:05 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "AI data centers throw another wrench into chaotic UN climate talks",
+      "link": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+      "pubDate": "2026-11-23T16:09:37-05:00",
       "source": "The Verge"
+    },
+    {
+      "title": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks",
+      "link": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html",
+      "pubDate": "Mon, 23 Nov 2026 21:04:03 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Claude AI can review pull requests and ship fixes on its own now",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+      "pubDate": "2026-11-23T15:00:00-05:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Amazon to acquire AI startup Decart&apos;s chip software, hire founders",
+      "link": "https://www.cnbc.com/2026/11/23/amazon-decarts-ai-acquisition.html",
+      "pubDate": "Mon, 23 Nov 2026 19:34:38 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Google Search&#8217;s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "link": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+      "pubDate": "Mon, 23 Nov 2026 19:14:46 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Amazon snaps up Decart&#8217;s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+      "link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+      "pubDate": "Mon, 23 Nov 2026 17:14:23 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "SpaceX sued by Oregon and Virginia over AI deepfake porn, Grok safety claims",
+      "link": "https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-lawsuits.html",
+      "pubDate": "Mon, 23 Nov 2026 16:45:31 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+      "link": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+      "pubDate": "Mon, 23 Nov 2026 14:43:03 +0000",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Submit Your Questions: Will Anyone Keep You Safe From AI?",
+      "link": "https://www.wired.com/story/livestream-will-anyone-keep-us-safe-from-ai/",
+      "pubDate": "Mon, 23 Nov 2026 12:00:00 +0000",
+      "source": "Wired"
+    },
+    {
+      "title": "SpaceX’s subsidiary Cursor tells lawmakers it&apos;s considering phasing out Chinese AI models",
+      "link": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html",
+      "pubDate": "Mon, 23 Nov 2026 10:57:26 GMT",
+      "source": "CNBC"
+    },
+    {
+      "title": "Doctors who disagree with AI could face legal jeopardy",
+      "link": "https://www.axios.com/2026/11/23/doctors-malpractice-ai-liability-danger",
+      "pubDate": "Mon, 23 Nov 2026 10:25:06 +0000",
+      "source": "Axios"
+    },
+    {
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "pubDate": "Mon, 23 Nov 2026 01:25:53 +0000",
+      "source": "TechCrunch"
     },
     {
       "title": "Behind the Curtain — AI 2027: The reckoning",
@@ -32,40 +110,10 @@
       "source": "NPR"
     },
     {
-      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-      "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
-      "pubDate": "Sat, 21 Nov 2026 21:37:10 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Here are the top AI agents that can live in your text messages",
-      "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "pubDate": "Sat, 21 Nov 2026 17:00:00 +0000",
-      "source": "TechCrunch"
-    },
-    {
       "title": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
       "link": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
       "pubDate": "Sat, 21 Nov 2026 16:40:05 GMT",
       "source": "CNBC"
-    },
-    {
-      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
-      "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
-      "pubDate": "Sat, 21 Nov 2026 16:00:00 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Anthropic’s Debut Shows the Disconnect Between Wall Street and Silicon Valley",
-      "link": "https://www.nytimes.com/2026/11/21/business/anthropic-stock-wall-street-silicon-valley.html",
-      "pubDate": "Sat, 21 Nov 2026 10:03:45 +0000",
-      "source": "The New York Times"
-    },
-    {
-      "title": "The AI boom had a really bad week — and it&apos;s raising loud alarms",
-      "link": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
-      "pubDate": "Sat, 21 Nov 2026 05:00:00 -0500",
-      "source": "NPR"
     },
     {
       "title": "Anthropic says it will put humanity first. Will its IPO change that?",
@@ -74,10 +122,10 @@
       "source": "NPR"
     },
     {
-      "title": "Using AI, mathematician claims to have solved one of math’s great mysteries",
-      "link": "https://www.washingtonpost.com/technology/2026/11/20/using-anthropic-ai-mathematician-claims-have-solved-riemann-hypothesis/",
-      "pubDate": "Fri, 20 Nov 2026 22:45:21 +0000",
-      "source": "The Washington Post"
+      "title": "The AI boom had a really bad week — and it&apos;s raising loud alarms",
+      "link": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
+      "pubDate": "Sat, 21 Nov 2026 05:00:00 -0500",
+      "source": "NPR"
     },
     {
       "title": "Tech stocks end the week on a down note, despite Anthropic&apos;s mega-IPO",
@@ -92,34 +140,10 @@
       "source": "NPR"
     },
     {
-      "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
-      "link": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
-      "pubDate": "Fri, 20 Nov 2026 20:58:29 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Daniel Ek backs AI researcher&#8217;s fusion power startup. Here&#8217;s what they&#8217;re building.",
-      "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
-      "pubDate": "Fri, 20 Nov 2026 19:53:41 +0000",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
-      "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
-      "pubDate": "Fri, 20 Nov 2026 19:32:08 +0000",
-      "source": "TechCrunch"
-    },
-    {
       "title": "Anthropic’s I.P.O. Turns Tech Researchers Into Overnight Millionaires",
       "link": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-employees-payout.html",
       "pubDate": "Fri, 20 Nov 2026 17:11:42 +0000",
       "source": "The New York Times"
-    },
-    {
-      "title": "Anthropic raises $93.5 billion total as underwriters scoop up ‘greenshoe’ overallotment",
-      "link": "https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html",
-      "pubDate": "Fri, 20 Nov 2026 14:59:38 GMT",
-      "source": "CNBC"
     },
     {
       "title": "Bitcoin suffered identical sell-off pattern ahead of Anthropic, SpaceX IPOs — what happens next?",
@@ -128,28 +152,10 @@
       "source": "CNBC"
     },
     {
-      "title": "SpaceX’s subsidiary Cursor tells lawmakers it&apos;s considering phasing out Chinese AI models",
-      "link": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html",
-      "pubDate": "Fri, 20 Nov 2026 14:07:24 GMT",
-      "source": "CNBC"
-    },
-    {
       "title": "Anthropic is public, now comes the hard part",
       "link": "https://www.axios.com/2026/11/20/anthropic-public-shareholders",
       "pubDate": "Fri, 20 Nov 2026 12:10:08 +0000",
       "source": "Axios"
-    },
-    {
-      "title": "The Tech Download: Anthropic charmed Wall Street. But one big uncertainty hangs over the business",
-      "link": "https://www.cnbc.com/2026/11/20/tech-download-anthropic-compute-access.html",
-      "pubDate": "Fri, 20 Nov 2026 12:00:02 GMT",
-      "source": "CNBC"
-    },
-    {
-      "title": "Tech wreck drags Anthropic into the red on its second day of trading",
-      "link": "https://www.cnbc.com/2026/11/20/tech-wreck-drags-anthropic-into-the-red-on-its-second-day-of-trading.html",
-      "pubDate": "Fri, 20 Nov 2026 11:26:37 GMT",
-      "source": "CNBC"
     },
     {
       "title": "Phoenix mayor walks fine line on AI boom",
@@ -162,12 +168,6 @@
       "link": "https://www.npr.org/2026/11/20/nx-s1-6047374/ai-models-are-propelling-rapid-growth-and-revealing-vulnerabilities",
       "pubDate": "Fri, 20 Nov 2026 04:43:11 -0500",
       "source": "NPR"
-    },
-    {
-      "title": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
-      "link": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
-      "pubDate": "Fri, 20 Nov 2026 07:00:00 +0000",
-      "source": "Wired"
     },
     {
       "title": "Anthropic Debuts on Wall Street as a $2 Trillion Company",
